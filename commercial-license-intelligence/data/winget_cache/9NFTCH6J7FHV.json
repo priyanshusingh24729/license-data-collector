@@ -1,0 +1,42 @@
+{
+  "package_id": "9NFTCH6J7FHV",
+  "package_name": "Power Automate",
+  "publisher": "Microsoft Corporation",
+  "version": "Unknown",
+  "license": "https://go.microsoft.com/fwlink/?linkid=2147215",
+  "license_url": null,
+  "installer_url": null,
+  "installer_sha256": null,
+  "installer_type": "msstore",
+  "homepage": null,
+  "description": "Power Automate allows you to automate web and desktop applications on your Windows desktop by mimicking the user interface actions like clicks, and keyboard input. You can also combine these actions with predefined support for applications like Excel to help automate repetitive tasks.",
+  "copyright": "\u00a9 2021 Microsoft",
+  "moniker": null,
+  "tags": [],
+  "raw_manifest": {
+    "general": {
+      "version": "Unknown",
+      "publisher": "Microsoft Corporation",
+      "publisher_url": "https://flow.microsoft.com/",
+      "publisher_support_url": "https://flow.microsoft.com/support/",
+      "description": "Power Automate allows you to automate web and desktop applications on your Windows desktop by mimicking the user interface actions like clicks, and keyboard input. You can also combine these actions with predefined support for applications like Excel to help automate repetitive tasks.",
+      "license": "https://go.microsoft.com/fwlink/?linkid=2147215",
+      "privacy_url": "https://go.microsoft.com/fwlink/?LinkId=521839",
+      "copyright": "\u00a9 2021 Microsoft",
+      "category": "Productivity",
+      "pricing": "Free",
+      "free_trial": "No",
+      "terms_of_transaction": "https://aka.ms/microsoft-store-terms-of-transaction",
+      "seizure_warning": "https://aka.ms/microsoft-store-seizure-warning",
+      "store_license_terms": "https://aka.ms/microsoft-store-license"
+    },
+    "installer": {
+      "installer_type": "msstore",
+      "store_product_id": "9NFTCH6J7FHV",
+      "offline_distribution_supported": "true"
+    }
+  },
+  "confidence": "VERY_HIGH",
+  "provenance": "winget:9NFTCH6J7FHV",
+  "is_cached": false
+}

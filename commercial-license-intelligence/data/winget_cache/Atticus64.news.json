@@ -1,0 +1,41 @@
+{
+  "package_id": "Atticus64.news",
+  "package_name": "News CLI",
+  "publisher": "Jonathan Alcantar (Atticus64)",
+  "version": "1.3.0",
+  "license": "MIT",
+  "license_url": "https://github.com/Atticus64/news/blob/main/LICENSE",
+  "installer_url": "https://github.com/Atticus64/news/releases/download/v1.3.0/news.exe",
+  "installer_sha256": "e8acb931ef3a7a96bac6d3b1f47a85ae0d060c1d0b2149cbcb9692eb7d6b7bfc",
+  "installer_type": "portable",
+  "homepage": "https://github.com/Atticus64/news/",
+  "description": "A CLI tool to watch developer news",
+  "copyright": null,
+  "moniker": "news",
+  "tags": [],
+  "raw_manifest": {
+    "general": {
+      "version": "1.3.0",
+      "publisher": "Jonathan Alcantar (Atticus64)",
+      "publisher_url": "https://github.com/Atticus64",
+      "author": "Jonathan Alcantar",
+      "moniker": "news",
+      "description": "A CLI tool to watch developer news",
+      "homepage": "https://github.com/Atticus64/news/",
+      "license": "MIT",
+      "license_url": "https://github.com/Atticus64/news/blob/main/LICENSE"
+    },
+    "installer": {
+      "installer_type": "portable",
+      "installer_locale": "en-US",
+      "installer_url": "https://github.com/Atticus64/news/releases/download/v1.3.0/news.exe",
+      "installer_sha256": "e8acb931ef3a7a96bac6d3b1f47a85ae0d060c1d0b2149cbcb9692eb7d6b7bfc",
+      "release_date": "2023-06-11",
+      "offline_distribution_supported": "true",
+      "dependencies": ""
+    }
+  },
+  "confidence": "VERY_HIGH",
+  "provenance": "winget:Atticus64.news",
+  "is_cached": false
+}

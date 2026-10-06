@@ -1,0 +1,39 @@
+{
+  "package_id": "VideoLAN.VLC",
+  "package_name": "VLC media player",
+  "publisher": "VideoLAN",
+  "version": "3.0.23",
+  "license": "GPL-2.0",
+  "license_url": "https://code.videolan.org/videolan/vlc/-/blob/HEAD/COPYING",
+  "installer_url": "https://download.videolan.org/pub/videolan/vlc/3.0.23/win64/vlc-3.0.23-win64.msi",
+  "installer_sha256": "bc4b902a480b98a4a5479327a7f210f06369a59bf727649e320faba5b4ef1f5e",
+  "installer_type": "wix",
+  "homepage": "https://www.videolan.org/vlc/",
+  "description": null,
+  "copyright": null,
+  "moniker": "vlc",
+  "tags": [],
+  "raw_manifest": {
+    "general": {
+      "version": "3.0.23",
+      "publisher": "VideoLAN",
+      "publisher_url": "https://www.videolan.org/",
+      "publisher_support_url": "https://www.videolan.org/support/",
+      "author": "VideoLAN",
+      "moniker": "vlc",
+      "homepage": "https://www.videolan.org/vlc/",
+      "license": "GPL-2.0",
+      "license_url": "https://code.videolan.org/videolan/vlc/-/blob/HEAD/COPYING"
+    },
+    "installer": {
+      "installer_type": "wix",
+      "installer_url": "https://download.videolan.org/pub/videolan/vlc/3.0.23/win64/vlc-3.0.23-win64.msi",
+      "installer_sha256": "bc4b902a480b98a4a5479327a7f210f06369a59bf727649e320faba5b4ef1f5e",
+      "release_date": "2025-12-31",
+      "offline_distribution_supported": "true"
+    }
+  },
+  "confidence": "VERY_HIGH",
+  "provenance": "winget:VideoLAN.VLC",
+  "is_cached": false
+}

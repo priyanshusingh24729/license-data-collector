@@ -1,0 +1,11 @@
+Application,Vendor,Version,Hostname,Install Location
+Adobe Acrobat Pro,Adobe Systems,24.002.20895,WIN-FINANCE-01,C:\Program Files\Adobe\Acrobat DC
+Microsoft Visual Studio Professional 2022,Microsoft Corporation,17.9.6,WIN-DEV-03,C:\Program Files\Microsoft Visual Studio\2022\Professional
+Slack,Slack Technologies,4.38.125,WIN-EXEC-01,C:\Users\Executive\AppData\Local\slack
+7-Zip 24.05,Igor Pavlov,24.05,WIN-DEV-03,C:\Program Files\7-Zip
+Node.js,OpenJS Foundation,20.13.1,WIN-DEV-03,C:\Program Files\nodejs
+Windows Subsystem for Linux,Microsoft Corporation,2.1.5,WIN-DEV-03,C:\Program Files\WSL
+Git,The Git Development Community,2.45.0,WIN-DEV-03,C:\Program Files\Git
+Docker Desktop,Docker Inc.,4.30.0,WIN-DEV-03,C:\Program Files\Docker\Docker
+Google Chrome,Google LLC,124.0.6367.208,WIN-FINANCE-01,C:\Program Files\Google\Chrome\Application\chrome.exe
+Postman,Postman Inc.,11.1.14,WIN-DEV-03,C:\Users\Developer\AppData\Local\Postman

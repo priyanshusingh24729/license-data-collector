@@ -1,0 +1,46 @@
+{
+  "package_id": "ACDSystems.ACDSeeGemstone",
+  "package_name": "ACDSee Gemstone Photo Editor 15",
+  "publisher": "ACD Systems International Inc.",
+  "version": "15.0.0.1449",
+  "license": "Proprietary",
+  "license_url": null,
+  "installer_url": "https://dl.acdsystems.com/acdsee/en/acdsee-gemstone-photo-editor-15-0-0-1449-win-en.exe",
+  "installer_sha256": "07501450fa58614478c2f39aaf8f29c952b1f2d0b49f8dbf741431aa7bbdb24c",
+  "installer_type": "nullsoft",
+  "homepage": "https://www.acdsee.com/en/products/gemstone-photo-editor/",
+  "description": null,
+  "copyright": "Copyright (c) 2025 ACD Systems International Inc.",
+  "moniker": null,
+  "tags": [],
+  "raw_manifest": {
+    "general": {
+      "version": "15.0.0.1449",
+      "publisher": "ACD Systems International Inc.",
+      "publisher_url": "https://www.acdsee.com/",
+      "publisher_support_url": "https://www.acdsee.com/en/support/",
+      "author": "ACD Systems International Inc.",
+      "homepage": "https://www.acdsee.com/en/products/gemstone-photo-editor/",
+      "license": "Proprietary",
+      "privacy_url": "https://www.acdsee.com/en/privacy-policy/",
+      "copyright": "Copyright (c) 2025 ACD Systems International Inc.",
+      "copyright_url": "https://www.acdsee.com/en/legal-notices/",
+      "release_notes_url": "https://www.acdsee.com/en/support/gemstone-photo-editor/changelog/#:~:text=Version-,15.0.0.1449,-(",
+      "online_help": "https://help.acdsystems.com/en/gemstone-photo-editor-15/gemstone-photo-editor15.htm",
+      "acdtm_community": "https://community.acdsee.com/",
+      "video_tutorial_resource_center": "https://www.acdsee.com/en/video-tutorials/"
+    },
+    "installer": {
+      "installer_type": "nullsoft",
+      "installer_locale": "en-US",
+      "installer_url": "https://dl.acdsystems.com/acdsee/en/acdsee-gemstone-photo-editor-15-0-0-1449-win-en.exe",
+      "installer_sha256": "07501450fa58614478c2f39aaf8f29c952b1f2d0b49f8dbf741431aa7bbdb24c",
+      "release_date": "2025-04-07",
+      "offline_distribution_supported": "true",
+      "dependencies": ""
+    }
+  },
+  "confidence": "VERY_HIGH",
+  "provenance": "winget:ACDSystems.ACDSeeGemstone",
+  "is_cached": false
+}

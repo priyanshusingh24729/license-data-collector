@@ -1,0 +1,45 @@
+{
+  "package_id": "XP8BT8DW290MPQ",
+  "package_name": "Microsoft Teams",
+  "publisher": "Microsoft Corporation",
+  "version": "1.25.24601",
+  "license": "https://www.microsoft.com/en-us/storedocs/terms-of-sale?rtc=1",
+  "license_url": null,
+  "installer_url": "https://statics.teams.cdn.office.net/production-windows-x64/1.7.00.18901/MSTeamsSetupx64.exe",
+  "installer_sha256": "add46036fd3cc54df5e43dd626d8a3587a7dd97f0f72d7dd2a7731934a129548",
+  "installer_type": "exe",
+  "homepage": null,
+  "description": null,
+  "copyright": "https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks",
+  "moniker": null,
+  "tags": [],
+  "raw_manifest": {
+    "general": {
+      "version": "1.25.24601",
+      "publisher": "Microsoft Corporation",
+      "publisher_url": "https://privacy.microsoft.com/en-US/privacystatement",
+      "publisher_support_url": "https://go.microsoft.com/fwlink/p/?linkid=2126612",
+      "consumer_health_data_privacy_policy_https": "//go.microsoft.com/fwlink/?linkid=2259814",
+      "license": "https://www.microsoft.com/en-us/storedocs/terms-of-sale?rtc=1",
+      "https": "//support.microsoft.com/en-us/office/microsoft-software-license-terms-5476247d-05e5-4ac7-b77c-1b8cd229e91a",
+      "privacy_url": "https://privacy.microsoft.com/en-US/privacystatement#mainnoticetoendusersmodule",
+      "copyright": "https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks",
+      "category": "Productivity",
+      "pricing": "Freemium",
+      "free_trial": "No",
+      "terms_of_transaction": "https://aka.ms/microsoft-store-terms-of-transaction",
+      "seizure_warning": "https://aka.ms/microsoft-store-seizure-warning",
+      "store_license_terms": "https://aka.ms/microsoft-store-license"
+    },
+    "installer": {
+      "installer_type": "exe",
+      "installer_locale": "en-in",
+      "installer_url": "https://statics.teams.cdn.office.net/production-windows-x64/1.7.00.18901/MSTeamsSetupx64.exe",
+      "installer_sha256": "add46036fd3cc54df5e43dd626d8a3587a7dd97f0f72d7dd2a7731934a129548",
+      "offline_distribution_supported": "true"
+    }
+  },
+  "confidence": "VERY_HIGH",
+  "provenance": "winget:XP8BT8DW290MPQ",
+  "is_cached": false
+}

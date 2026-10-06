@@ -1,0 +1,101 @@
+﻿App_ID,Name,OSType,Version,Normalized_Application,Created_At,Operating_System,Major_Version,Minor_Version,Patch_Version,NoLicenseRequired,IsEndOfLife,IsEndOfSupport,Metric,Classification,License Required,License Model
+1,Docker Desktop,0,4.87.0,Docker Desktop,2026-09-14 10:32:23,Windows,4,87,0,0,0,0,Users,COMMERCIAL,YES,Commercial — Per Seat Subscription
+2,Microsoft SQL Server 2025 (64-bit),0,2025,Microsoft SQL Server,2026-09-14 10:32:23,Windows,2025,NULL,NULL,0,NULL,NULL,NULL,COMMERCIAL,YES,Commercial — Per Core
+3,Microsoft 365 Apps for business - en-us,0,16.0.20326.20132,Microsoft 365 Apps for business - en-us,2026-09-14 10:32:23,Windows,16,0,20326,0,NULL,NULL,Users,COMMERCIAL,YES,Commercial — Per Seat Subscription
+4,Microsoft OneDrive,0,26.158.0816.0003,Microsoft OneDrive,2026-09-14 10:32:23,Windows,26,158,816,0,NULL,NULL,Users,COMMERCIAL,YES,Commercial — Subscription
+5,Microsoft OneNote - en-us,0,16.0.20326.20132,Microsoft OneNote - en-us,2026-09-14 10:32:23,Windows,16,0,20326,0,NULL,NULL,Users,COMMERCIAL,YES,Commercial — Per Seat Subscription
+6,SQL Server 2025 Common Files,0,17.0.1000.7,SQL Server 2025 Common Files,2026-09-14 10:32:23,Windows,17,0,1000,0,NULL,NULL,NULL,NULL,YES,NULL
+7,Windows Subsystem for Linux,0,2.7.12.0,Windows Subsystem,2026-09-14 10:32:23,Windows,2,7,12,1,NULL,NULL,No License Required,FREE,NO,Freeware
+8,Microsoft Windows Desktop Runtime - 10.0.11 (x64),0,80.44.56884,Microsoft Windows Desktop Runtime - 10.0.11,2026-09-14 10:32:23,Windows,80,44,56884,1,NULL,NULL,No License Required,FREE,NO,Freeware
+9,Microsoft .NET Runtime - 10.0.11 (x64),0,80.44.56884,Microsoft .NET Runtime - 10.0.11,2026-09-14 10:32:23,Windows,80,44,56884,1,NULL,NULL,No License Required,FREE,NO,MIT — Free/Open Source
+10,DiagnosticsHub_CollectionService,0,18.5.37003,DiagnosticsHub_CollectionService,2026-09-14 10:32:23,Windows,18,5,37003,1,NULL,NULL,No License Required,FREE,NO,Freeware
+11,Microsoft ODBC Driver 17 for SQL Server,0,17.10.6.1,Microsoft ODBC Driver for SQL Server,2026-09-14 10:32:23,Windows,17,10,6,0,NULL,NULL,NULL,NULL,YES,NULL
+12,SQL Server 2025 Connection Info,0,17.0.1000.7,SQL Server 2025 Connection Info,2026-09-14 10:32:23,Windows,17,0,1000,0,NULL,NULL,NULL,NULL,YES,NULL
+13,Microsoft.NET.Sdk.tvOS.Manifest-10.0.100 (x64),0,255.226.10301,Microsoft.NET.Sdk.tvOS.Manifest-10.0.100,2026-09-14 10:32:23,Windows,255,226,10301,1,NULL,NULL,No License Required,FREE,NO,Freeware
+14,Microsoft .NET Host FX Resolver - 10.0.11 (x64),0,80.44.56884,Microsoft .NET Host FX Resolver - 10.0.11,2026-09-14 10:32:23,Windows,80,44,56884,1,NULL,NULL,No License Required,FREE,NO,Freeware
+15,Microsoft Windows Application Compatibility Fix Database,0,NULL,Microsoft Windows Application Compatibility Fix Database,2026-09-14 10:32:23,Windows,NULL,NULL,NULL,1,NULL,NULL,No License Required,FREE,NO,Freeware
+16,SQL Server 2025 Batch Parser,0,17.0.1000.7,SQL Server 2025 Batch Parser,2026-09-14 10:32:23,Windows,17,0,1000,0,NULL,NULL,NULL,NULL,YES,NULL
+17,SQL Server 2025 DMF,0,17.0.1000.7,SQL Server 2025 DMF,2026-09-14 10:32:23,Windows,17,0,1000,0,NULL,NULL,NULL,NULL,YES,NULL
+18,Microsoft.NET.Workload.Emscripten.net8.Manifest-10.0.100 (x64),0,81.188.56884,Microsoft.NET.Workload.Emscripten.net8.Manifest-10.0.100,2026-09-14 10:32:23,Windows,81,188,56884,1,NULL,NULL,No License Required,FREE,NO,Freeware
+19,SQL Server 2025 Database Engine Services,0,17.0.1000.7,SQL Server 2025 Database Engine Services,2026-09-14 10:32:23,Windows,17,0,1000,0,NULL,NULL,NULL,NULL,YES,NULL
+20,vs_minshellx64msi,0,18.9.11915,vs_minshellx64msi,2026-09-14 10:32:23,Windows,18,9,11915,1,NULL,NULL,No License Required,FREE,NO,Freeware
+21,vs_minshellinteropx64msi,0,18.9.11915,vs_minshellinteropx64msi,2026-09-14 10:32:23,Windows,18,9,11915,1,NULL,NULL,No License Required,FREE,NO,Freeware
+22,Microsoft.NET.Workload.Mono.Toolchain.net8.Manifest-10.0.100 (x64),0,81.188.56884,Microsoft.NET.Workload.Mono.Toolchain.net8.Manifest-10.0.100,2026-09-14 10:32:23,Windows,81,188,56884,1,NULL,NULL,No License Required,FREE,NO,Freeware
+23,Microsoft.NET.Workload.Emscripten.net9.Manifest-10.0.100 (x64),0,81.188.56884,Microsoft.NET.Workload.Emscripten.net9.Manifest-10.0.100,2026-09-14 10:32:23,Windows,81,188,56884,1,NULL,NULL,No License Required,FREE,NO,Freeware
+24,Microsoft.NET.Sdk.macOS.Manifest-10.0.100 (x64),0,255.226.10301,Microsoft.NET.Sdk.macOS.Manifest-10.0.100,2026-09-14 10:32:23,Windows,255,226,10301,1,NULL,NULL,No License Required,FREE,NO,Freeware
+25,Go Programming Language amd64 go1.26.5,0,1.26.5,Go Programming Language go1.26.5,2026-09-14 10:32:23,Windows,1,26,5,1,NULL,NULL,No License Required,OPEN_SOURCE,NO,BSD-3-Clause — Free/Open Source
+26,Microsoft.NET.Workload.Mono.Toolchain.net7.Manifest-10.0.100 (x64),0,81.188.56884,Microsoft.NET.Workload.Mono.Toolchain.net7.Manifest-10.0.100,2026-09-14 10:32:23,Windows,81,188,56884,1,NULL,NULL,No License Required,FREE,NO,Freeware
+27,Microsoft .NET Targeting Pack - 10.0.11 (x64),0,80.44.56884,Microsoft .NET Targeting Pack - 10.0.11,2026-09-14 10:32:23,Windows,80,44,56884,1,NULL,NULL,No License Required,FREE,NO,Freeware
+28,Microsoft .NET AppHost Pack - 10.0.11 (x64),0,80.44.56884,Microsoft .NET AppHost Pack - 10.0.11,2026-09-14 10:32:23,Windows,80,44,56884,1,NULL,NULL,No License Required,FREE,NO,Freeware
+29,SQL Server 2025 Shared Management Objects,0,17.0.1000.7,SQL Server 2025 Shared Management Objects,2026-09-14 10:32:23,Windows,17,0,1000,0,NULL,NULL,NULL,NULL,YES,NULL
+30,Microsoft.NET.Workload.Emscripten.Current.Manifest-10.0.100 (x64),0,81.188.56884,Microsoft.NET.Workload.Emscripten.Current.Manifest-10.0.100,2026-09-14 10:32:23,Windows,81,188,56884,1,NULL,NULL,No License Required,FREE,NO,Freeware
+31,Microsoft Visual Studio Installer,0,4.9.50.62957,Microsoft Visual Studio Installer,2026-09-14 10:32:23,Windows,4,9,50,0,NULL,NULL,Users,COMMERCIAL,YES,Commercial — Subscription
+32,Microsoft Visual C++ 2022 X64 Additional Runtime - 14.51.36247,0,14.51.36247,Microsoft Visual C++ 2022 Additional Runtime -,2026-09-14 10:32:23,Windows,14,51,36247,1,NULL,NULL,No License Required,FREE,NO,Freeware
+33,Microsoft .NET Toolset 10.0.400 (x64),0,40.11.17119,Microsoft .NET Toolset 10.0.400,2026-09-14 10:32:23,Windows,40,11,17119,1,NULL,NULL,No License Required,FREE,NO,Freeware
+34,Microsoft .NET 10.0 Templates 10.0.400 x64,0,40.11.17119,Microsoft .NET 10.0 Templates 10.0.400,2026-09-14 10:32:23,Windows,40,11,17119,1,NULL,NULL,No License Required,FREE,NO,Freeware
+35,Microsoft ODBC Driver 18 for SQL Server,0,18.6.2.1,Microsoft ODBC Driver for SQL Server,2026-09-14 10:32:23,Windows,18,6,2,0,NULL,NULL,NULL,NULL,YES,NULL
+36,Microsoft ASP.NET Core Targeting Pack - 10.0.11 (x64),0,80.44.56884,Microsoft ASP.NET Core Targeting Pack - 10.0.11,2026-09-14 10:32:23,Windows,80,44,56884,1,NULL,NULL,No License Required,FREE,NO,Freeware
+37,Microsoft SQL Server 2025 Setup (English),0,17.0.1000.7,Microsoft SQL Server 2025 Setup (English),2026-09-14 10:32:23,Windows,17,0,1000,0,NULL,NULL,Processor Cores,COMMERCIAL,YES,Commercial — Per Core
+38,Microsoft .NET SDK 10.0.400 (x64) from Visual Studio,0,40.11.17119,Microsoft .NET SDK 10.0.400 from Visual Studio,2026-09-14 10:32:23,Windows,40,11,17119,0,NULL,NULL,NULL,OPEN_SOURCE,YES,MIT — Free/Open Source
+39,Node.js,0,24.19.0,Node.js,2026-09-14 10:32:23,Windows,24,19,0,1,1,1,No License Required,OPEN_SOURCE,NO,MIT — Free/Open Source
+40,Office 16 Click-to-Run Extensibility Component,0,16.0.20326.20072,Office Click-to-Run Extensibility Component,2026-09-14 10:32:23,Windows,16,0,20326,0,NULL,NULL,Users,COMMERCIAL,YES,Commercial — Subscription
+41,Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.51.36247,0,14.51.36247,Microsoft Visual C++ 2022 Minimum Runtime -,2026-09-14 10:32:23,Windows,14,51,36247,1,NULL,NULL,No License Required,FREE,NO,Freeware
+42,SQL Server 2025 Shared Management Objects Extensions,0,17.0.1000.7,SQL Server 2025 Shared Management Objects Extensions,2026-09-14 10:32:23,Windows,17,0,1000,0,NULL,NULL,NULL,NULL,YES,NULL
+43,Microsoft OLE DB Driver for SQL Server,0,18.7.5.0,Microsoft OLE DB Driver for SQL Server,2026-09-14 10:32:23,Windows,18,7,5,0,NULL,NULL,NULL,FREE,YES,Freeware
+44,SQL Server 2025 Database Engine Shared,0,17.0.1000.7,SQL Server 2025 Database Engine Shared,2026-09-14 10:32:23,Windows,17,0,1000,0,NULL,NULL,NULL,NULL,YES,NULL
+45,Intel(R) Chipset Device Software,0,10.1.18800.8277,Intel(R) Chipset Device Software,2026-09-14 10:32:23,Windows,10,1,18800,1,NULL,NULL,No License Required,FREE,NO,Freeware
+46,Microsoft .NET Standard Targeting Pack - 2.1.0 (x64),0,24.0.28113,Microsoft .NET Standard Targeting Pack - 2.1.0,2026-09-14 10:32:23,Windows,24,0,28113,1,1,1,No License Required,FREE,NO,Freeware
+47,Microsoft Teams Meeting Add-in for Microsoft Office,0,1.26.20101,Microsoft Teams Meeting Add-in for Microsoft Office,2026-09-14 10:32:23,Windows,1,26,20101,0,NULL,NULL,Users,COMMERCIAL,YES,Commercial — Per Seat Subscription
+48,Microsoft.NET.Workload.Emscripten.net6.Manifest-10.0.100 (x64),0,81.188.56884,Microsoft.NET.Workload.Emscripten.net6.Manifest-10.0.100,2026-09-14 10:32:23,Windows,81,188,56884,1,NULL,NULL,No License Required,FREE,NO,Freeware
+49,Microsoft OLE DB Driver 19 for SQL Server,0,19.4.1.0,Microsoft OLE DB Driver for SQL Server,2026-09-14 10:32:23,Windows,19,4,1,0,NULL,NULL,NULL,FREE,YES,Freeware
+50,Microsoft .NET AppHost Pack - 10.0.11 (x64_arm64),0,80.44.56884,Microsoft .NET AppHost Pack - 10.0.11 (x64_arm64),2026-09-14 10:32:23,Windows,80,44,56884,1,NULL,NULL,No License Required,FREE,NO,Freeware
+51,Microsoft.NET.Workload.Mono.Toolchain.net9.Manifest-10.0.100 (x64),0,81.188.56884,Microsoft.NET.Workload.Mono.Toolchain.net9.Manifest-10.0.100,2026-09-14 10:32:23,Windows,81,188,56884,1,NULL,NULL,No License Required,FREE,NO,Freeware
+52,Microsoft.NET.Sdk.Maui.Manifest-10.0.100 (x64),0,10.0.20,Microsoft.NET.Sdk.Maui.Manifest-10.0.100,2026-09-14 10:32:23,Windows,10,0,20,1,NULL,NULL,No License Required,FREE,NO,Freeware
+53,SQL Server 2025 XEvent,0,17.0.1000.7,SQL Server 2025 XEvent,2026-09-14 10:32:23,Windows,17,0,1000,0,NULL,NULL,NULL,NULL,YES,NULL
+54,Lenovo Voice Service,0,3.0.26.0,Lenovo Voice Service,2026-09-14 10:32:23,Windows,3,0,26,1,NULL,NULL,No License Required,FREE,NO,Freeware
+55,Microsoft.NET.Workload.Mono.Toolchain.Current.Manifest-10.0.100 (x64),0,81.188.56884,Microsoft.NET.Workload.Mono.Toolchain.Current.Manifest-10.0.100,2026-09-14 10:32:23,Windows,81,188,56884,1,NULL,NULL,No License Required,FREE,NO,Freeware
+56,vs_communityx64msi,0,18.9.11921,vs_communityx64msi,2026-09-14 10:32:23,Windows,18,9,11921,1,NULL,NULL,No License Required,FREE,NO,Freeware
+57,Microsoft SQL Server 2025 RsFx Driver,0,17.0.1000.7,Microsoft SQL Server 2025 RsFx Driver,2026-09-14 10:32:23,Windows,17,0,1000,0,NULL,NULL,NULL,COMMERCIAL,YES,Commercial — Per Core
+58,Microsoft ASP.NET Core Runtime - 10.0.11 (x64),0,80.44.56884,Microsoft ASP.NET Core Runtime - 10.0.11,2026-09-14 10:32:23,Windows,80,44,56884,1,NULL,NULL,No License Required,FREE,NO,Freeware
+59,Microsoft .NET Host - 10.0.11 (x64),0,80.44.56884,Microsoft .NET Host - 10.0.11,2026-09-14 10:32:23,Windows,80,44,56884,1,NULL,NULL,No License Required,FREE,NO,Freeware
+60,SQL Server 2025 SQL Diagnostics,0,17.0.1000.7,SQL Server 2025 SQL Diagnostics,2026-09-14 10:32:23,Windows,17,0,1000,0,NULL,NULL,NULL,NULL,YES,NULL
+61,Microsoft Windows Desktop Targeting Pack - 10.0.11 (x64),0,80.44.56884,Microsoft Windows Desktop Targeting Pack - 10.0.11,2026-09-14 10:32:23,Windows,80,44,56884,1,NULL,NULL,No License Required,FREE,NO,Freeware
+62,Microsoft.NET.Workload.Mono.Toolchain.net6.Manifest-10.0.100 (x64),0,81.188.56884,Microsoft.NET.Workload.Mono.Toolchain.net6.Manifest-10.0.100,2026-09-14 10:32:23,Windows,81,188,56884,1,NULL,NULL,No License Required,FREE,NO,Freeware
+63,Microsoft.NET.Sdk.Android.Manifest-10.0.100 (x64),0,36.1.69,Microsoft.NET.Sdk.Android.Manifest-10.0.100,2026-09-14 10:32:23,Windows,36,1,69,1,NULL,NULL,No License Required,FREE,NO,Freeware
+64,Microsoft.NET.Sdk.iOS.Manifest-10.0.100 (x64),0,255.226.10301,Microsoft.NET.Sdk.iOS.Manifest-10.0.100,2026-09-14 10:32:23,Windows,255,226,10301,1,NULL,NULL,No License Required,FREE,NO,Freeware
+65,Microsoft.NET.Sdk.MacCatalyst.Manifest-10.0.100 (x64),0,255.226.10301,Microsoft.NET.Sdk.MacCatalyst.Manifest-10.0.100,2026-09-14 10:32:23,Windows,255,226,10301,1,NULL,NULL,No License Required,FREE,NO,Freeware
+66,osquery,0,5.23.1,osquery,2026-09-14 10:32:23,Windows,5,23,1,1,NULL,NULL,No License Required,OPEN_SOURCE,NO,Apache-2.0 — Free/Open Source
+67,Microsoft.NET.Workload.Emscripten.net7.Manifest-10.0.100 (x64),0,81.188.56884,Microsoft.NET.Workload.Emscripten.net7.Manifest-10.0.100,2026-09-14 10:32:23,Windows,81,188,56884,1,NULL,NULL,No License Required,FREE,NO,Freeware
+68,Microsoft VSS Writer for SQL Server 2025,0,17.0.1000.7,Microsoft VSS Writer for SQL Server 2025,2026-09-14 10:32:23,Windows,17,0,1000,0,NULL,NULL,NULL,NULL,YES,NULL
+69,SQL Server Management Studio 22,0,22.9.2,SQL Server Management Studio,2026-09-14 10:32:23,Windows,22,9,2,1,NULL,NULL,No License Required,FREE,NO,No License Required
+70,Adobe Creative Cloud,0,6.10.0.252.3,Adobe Creative Cloud,2026-09-14 10:32:23,Windows,6,10,0,0,NULL,NULL,Users,COMMERCIAL,YES,Commercial — Per Seat Subscription
+71,Google Chrome,0,153.0.8010.36,Google Chrome,2026-09-14 10:32:23,Windows,153,0,8010,1,NULL,NULL,No License Required,FREE,NO,Freeware
+72,Copilot,0,153.0.4234.32,Copilot,2026-09-14 10:32:23,Windows,153,0,4234,0,NULL,NULL,Users,FREE_AND_PAID,YES,Freemium / In-App & M365 Subscription
+73,Microsoft Edge,0,153.0.4234.32,Microsoft Edge,2026-09-14 10:32:23,Windows,153,0,4234,1,NULL,NULL,No License Required,FREE,NO,Freeware
+74,Microsoft Edge WebView2 Runtime,0,152.0.4191.66,Microsoft Edge WebView2 Runtime,2026-09-14 10:32:23,Windows,152,0,4191,1,NULL,NULL,No License Required,FREE,NO,Freeware
+75,Lenovo Vantage Service,0,5.1.2608.14,Lenovo Vantage Service,2026-09-14 10:32:23,Windows,5,1,2608,1,NULL,NULL,No License Required,FREE,NO,Freeware
+76,Microsoft Visual C++ v14 Redistributable (x64) - 14.51.36247,0,14.51.36247.0,Microsoft Visual C++ v14 Redistributable - 14.51.36247,2026-09-14 10:32:23,Windows,14,51,36247,1,NULL,NULL,No License Required,FREE,NO,Freeware
+77,SilverLeaf Agent,0,1.0,SilverLeaf Agent,2026-09-14 10:32:23,Windows,1,0,NULL,1,NULL,NULL,No License Required,FREE,NO,Freeware
+78,vs_CoreEditorFonts,0,17.7.40001,vs_CoreEditorFonts,2026-09-14 10:32:23,Windows,17,7,40001,1,NULL,NULL,No License Required,FREE,NO,Freeware
+79,vs_FileTracker_Singleton,0,18.9.11915,vs_FileTracker_Singleton,2026-09-14 10:32:23,Windows,18,9,11915,1,NULL,NULL,No License Required,FREE,NO,Freeware
+80,vs_minshellsharedmsi,0,18.9.11921,vs_minshellsharedmsi,2026-09-14 10:32:23,Windows,18,9,11921,1,NULL,NULL,No License Required,FREE,NO,Freeware
+81,vs_minshellinteropsharedmsi,0,18.9.11915,vs_minshellinteropsharedmsi,2026-09-14 10:32:23,Windows,18,9,11915,1,NULL,NULL,No License Required,FREE,NO,Freeware
+82,vs_minshellmsires,0,18.9.11915,vs_minshellmsires,2026-09-14 10:32:23,Windows,18,9,11915,1,NULL,NULL,No License Required,FREE,NO,Freeware
+83,Microsoft Visual Studio Setup Configuration,0,4.8.41.48107,Microsoft Visual Studio Setup Configuration,2026-09-14 10:32:23,Windows,4,8,41,0,NULL,NULL,NULL,NULL,YES,NULL
+84,vs_githubprotocolhandlermsi,0,18.9.11915,vs_githubprotocolhandlermsi,2026-09-14 10:32:23,Windows,18,9,11915,1,NULL,NULL,No License Required,FREE,NO,GPL-2.0 — Free/Open Source
+85,Microsoft Visual Studio Setup WMI Provider,0,4.8.41.48107,Microsoft Visual Studio Setup WMI Provider,2026-09-14 10:32:23,Windows,4,8,41,0,NULL,NULL,NULL,NULL,YES,NULL
+86,vs_communitysharedmsi,0,18.9.11921,vs_communitysharedmsi,2026-09-14 10:32:23,Windows,18,9,11921,1,NULL,NULL,No License Required,FREE,NO,Freeware
+87,vs_communitymsires,0,18.9.11915,vs_communitymsires,2026-09-14 10:32:23,Windows,18,9,11915,1,NULL,NULL,No License Required,FREE,NO,Freeware
+88,vs_filehandler_x86,0,18.9.11921,vs_filehandler_x86,2026-09-14 10:32:23,Windows,18,9,11921,1,NULL,NULL,No License Required,FREE,NO,Freeware
+89,Browser for SQL Server 2025,0,17.0.1000.7,Browser for SQL Server 2025,2026-09-14 10:32:23,Windows,17,0,1000,0,NULL,NULL,NULL,NULL,YES,NULL
+90,vs_vswebprotocolselectormsi,0,18.9.11915,vs_vswebprotocolselectormsi,2026-09-14 10:32:23,Windows,18,9,11915,1,NULL,NULL,No License Required,FREE,NO,Freeware
+91,vs_ssmsprotocolselectormsi,0,18.9.11915,vs_ssmsprotocolselectormsi,2026-09-14 10:32:23,Windows,18,9,11915,1,NULL,NULL,No License Required,FREE,NO,Freeware
+92,Antigravity 2.11.0,0,2.11.0,Antigravity,2026-09-14 10:32:23,Windows,2,11,0,0,NULL,NULL,Users,FREE_AND_PAID,YES,Commercial — Per Seat Subscription
+93,Brave,0,153.1.95.101,Brave,2026-09-14 10:32:23,Windows,153,1,95,1,NULL,NULL,No License Required,OPEN_SOURCE,NO,MPL — Free/Open Source
+94,Git,0,2.55.0.3,Git,2026-09-14 10:32:23,Windows,2,55,0,1,NULL,NULL,No License Required,OPEN_SOURCE,NO,GPL-2.0 — Free/Open Source
+95,IntelliJ IDEA 2026.2.1,0,262.9437.185,IntelliJ IDEA 2026.2.1,2026-09-14 10:32:23,Windows,262,9437,185,0,NULL,NULL,NULL,NULL,YES,NULL
+96,PHP 8.2,0,8.2.33,PHP 8.2,2026-09-14 10:32:23,Windows,8,2,33,1,NULL,NULL,No License Required,OPEN_SOURCE,NO,Free / Open Source
+97,Python 3.14.7,0,3.14-64,Python 3.14.7,2026-09-14 10:32:23,Windows,3,14,64,1,0,0,No License Required,OPEN_SOURCE,NO,PSF License — Free/Open Source
+98,Zoom Workplace,0,7.1.5 (43453),Zoom Workplace,2026-09-14 10:32:23,Windows,7,1,5,0,NULL,NULL,Users,FREE_AND_PAID,YES,Commercial — Per Seat Subscription
+99,Microsoft Visual Studio Code (User),0,1.134.0,Microsoft Visual Studio Code (User),2026-09-14 10:32:23,Windows,1,134,0,1,NULL,NULL,No License Required,OPEN_SOURCE,NO,MIT — Free/Open Source
+100,Antigravity IDE (User),0,2.5.5,Antigravity IDE (User),2026-09-14 10:32:23,Windows,2,5,5,0,NULL,NULL,Users,FREE_AND_PAID,YES,Commercial — Per Seat Subscription

@@ -1,0 +1,95 @@
+﻿App_ID,Name,OSType,Version,Normalized_Application,Created_At,Operating_System,Major_Version,Minor_Version,Patch_Version,NoLicenseRequired,IsEndOfLife,IsEndOfSupport,Metric,Classification,License Required,License Model
+1,Docker Desktop,0,4.87.0,Docker Desktop,2026-09-15 04:58:41,Windows,4,87,0,0,0,0,Users,COMMERCIAL,YES,Commercial — Per Seat Subscription
+2,Microsoft SQL Server 2025,0,2025,Microsoft SQL Server,2026-09-15 04:58:41,Windows,2025,NULL,NULL,0,0,0,Installations,COMMERCIAL,YES,Commercial — Per Installation
+3,Microsoft 365 Apps for business,0,16.0.20326.20158,Microsoft 365,2026-09-15 04:58:41,Windows,16,0,20326,0,0,0,Users,COMMERCIAL,YES,Commercial — Per Seat Subscription
+4,Microsoft OneDrive,0,26.163.0823.0004,Microsoft OneDrive,2026-09-15 04:58:41,Windows,26,163,823,0,0,0,Users,FREE_AND_PAID,YES,Commercial — Per Seat Subscription
+5,Microsoft OneNote,0,16.0.20326.20158,Microsoft OneNote,2026-09-15 04:58:41,Windows,16,0,20326,0,0,0,Users,COMMERCIAL,YES,Commercial — Per Seat Subscription
+6,Microsoft ODBC Driver 17 for SQL Server,0,17.10.6.1,Microsoft ODBC Driver 17 for SQL Server,2026-09-15 04:58:41,Windows,17,10,6,1,0,0,No license required,COMMERCIAL_COMPONENT,NO,No License Required
+7,Microsoft Windows Application Compatibility Fix Database,0,NULL,Windows OS Component,2026-09-15 04:58:41,Windows,NULL,NULL,NULL,1,NULL,NULL,No license required,OS_BUNDLED,NO,No License Required
+8,Go Programming Language amd64 go1.26.5,0,1.26.5,Go Programming Language,2026-09-15 04:58:41,Windows,1,26,5,1,NULL,NULL,No license required,OPEN_SOURCE,NO,BSD-3-Clause — Free/Open Source
+9,Microsoft Visual Studio Installer,0,4.9.50.62957,Microsoft Visual Studio Installer,2026-09-15 04:58:41,Windows,4,9,50,1,0,0,No license required,COMMERCIAL_COMPONENT,NO,Free Setup Utility
+10,Microsoft ODBC Driver 18 for SQL Server,0,18.6.2.1,Microsoft ODBC Driver 18 for SQL Server,2026-09-15 04:58:41,Windows,18,6,2,1,0,0,No license required,COMMERCIAL_COMPONENT,NO,No License Required
+11,Microsoft SQL Server 2025 Setup,0,17.0.1000.7,Microsoft SQL Server 2025 Setup,2026-09-15 04:58:41,Windows,17,0,1000,1,0,0,No license required,COMMERCIAL_COMPONENT,NO,Free Setup Utility
+12,Microsoft .NET SDK 10.0.400 from Visual Studio,0,40.11.17119,.NET SDK,2026-09-15 04:58:41,Windows,40,11,17119,1,0,0,No license required,OPEN_SOURCE,NO,MIT — Free/Open Source
+13,Node.js,0,24.19.0,Node.js,2026-09-15 04:58:41,Windows,24,19,0,1,0,0,No license required,OPEN_SOURCE,NO,MIT — Free/Open Source
+14,Microsoft OLE DB Driver for SQL Server,0,18.7.5.0,Microsoft OLE DB Driver for SQL Server,2026-09-15 04:58:41,Windows,18,7,5,1,0,0,No license required,COMMERCIAL_COMPONENT,NO,No License Required
+15,Microsoft Teams Meeting Add-in for Microsoft Office,0,1.26.21803,Microsoft Teams,2026-09-15 04:58:41,Windows,1,26,21803,1,NULL,NULL,No license required,COMMERCIAL_COMPONENT,NO,No License Required
+16,Microsoft OLE DB Driver 19 for SQL Server,0,19.4.1.0,Microsoft OLE DB Driver 19 for SQL Server,2026-09-15 04:58:41,Windows,19,4,1,1,0,0,No license required,COMMERCIAL_COMPONENT,NO,No License Required
+17,Lenovo Voice Service,0,3.0.26.0,Lenovo Voice Service,2026-09-15 04:58:41,Windows,3,0,26,1,NULL,NULL,No license required,FREEWARE,NO,Freeware
+18,osquery,0,5.23.1,osquery,2026-09-15 04:58:41,Windows,5,23,1,1,0,0,No license required,OPEN_SOURCE,NO,Apache-2.0 — Free/Open Source
+19,Microsoft VSS Writer for SQL Server 2025,0,17.0.1000.7,Microsoft VSS Writer for SQL Server,2026-09-15 04:58:41,Windows,17,0,1000,1,NULL,NULL,No license required,COMMERCIAL_COMPONENT,NO,No License Required
+20,SQL Server Management Studio,0,22.9.2,SQL Server Management Studio,2026-09-15 04:58:41,Windows,22,9,2,1,0,0,No license required,FREEWARE,NO,Freeware
+21,Adobe Creative Cloud,0,6.10.0.252.3,Adobe Creative Cloud,2026-09-15 04:58:41,Windows,6,10,0,0,0,0,Users,COMMERCIAL,YES,Commercial — Per Seat Subscription
+22,Google Chrome,0,154.0.8037.57,Google Chrome,2026-09-15 04:58:41,Windows,154,0,8037,1,0,0,No license required,FREEWARE,NO,Freeware
+23,Copilot,0,154.0.4258.37,Copilot,2026-09-15 04:58:41,Windows,154,0,4258,0,0,0,Installations,FREE_AND_PAID,YES,Commercial — Per Installation
+24,Microsoft Edge,0,153.0.4234.48,Microsoft Edge,2026-09-15 04:58:41,Windows,153,0,4234,1,0,0,No license required,OS_BUNDLED,NO,No License Required
+25,Lenovo Vantage Service,0,5.1.2609.9,Lenovo Vantage Service,2026-09-15 04:58:41,Windows,5,1,2609,1,0,0,No license required,FREEWARE,NO,Freeware
+26,Microsoft Visual C++ Redistributable,0,14.51.36247.0,Microsoft Visual C++ Redistributable,2026-09-15 04:58:41,Windows,14,51,36247,1,0,0,No license required,COMMERCIAL_COMPONENT,NO,No License Required
+27,SilverLeaf Agent,0,1.0,SilverLeaf Agent,2026-09-15 04:58:41,Windows,1,0,NULL,1,NULL,NULL,No license required,FREEWARE,NO,Freeware
+28,vs_CoreEditorFonts,0,17.7.40001,vs_CoreEditorFonts,2026-09-15 04:58:41,Windows,17,7,40001,1,NULL,NULL,No license required,FREEWARE,NO,Freeware
+29,Intel Chipset Device Software,0,10.1.18800.8277,Intel Chipset Device Software,2026-09-15 04:58:41,Windows,10,1,18800,1,NULL,NULL,No license required,FREEWARE,NO,Freeware
+30,Browser for SQL Server 2025,0,17.0.1000.7,Browser for SQL Server 2025,2026-09-15 04:58:41,Windows,17,0,1000,1,NULL,NULL,No license required,COMMERCIAL_COMPONENT,NO,No License Required
+31,Antigravity,0,2.17.0,Antigravity,2026-09-15 04:58:41,Windows,2,17,0,0,NULL,NULL,Users,FREE_AND_PAID,YES,Commercial — Per Seat Subscription
+32,Brave,0,153.1.95.104,Brave,2026-09-15 04:58:41,Windows,153,1,95,1,0,0,No license required,OPEN_SOURCE,NO,MPL — Free/Open Source
+33,Git,0,2.55.0.3,Git,2026-09-15 04:58:41,Windows,2,55,0,1,0,0,No license required,OPEN_SOURCE,NO,GPL-2.0 — Free/Open Source
+34,IntelliJ IDEA,0,262.9437.185,IntelliJ IDEA,2026-09-15 04:58:41,Windows,262,9437,185,0,0,0,Users,COMMERCIAL,YES,Commercial — Subscription
+35,PHP,0,8.2.33,PHP,2026-09-15 04:58:41,Windows,8,2,33,1,0,0,No license required,OPEN_SOURCE,NO,No License Required
+36,Python,0,3.14-64,Python,2026-09-15 04:58:41,Windows,3,14,64,1,0,0,No license required,OPEN_SOURCE,NO,PSF License — Free/Open Source
+37,Zoom Workplace,0,7.1.5 (43453),Zoom Workplace,2026-09-15 04:58:41,Windows,7,1,5,1,0,0,No license required,FREEWARE,NO,Freeware
+38,Lenovo Service Bridge,0,5.0.2.21,Lenovo Service Bridge,2026-09-15 04:58:41,Windows,5,0,2,1,NULL,NULL,No license required,FREEWARE,NO,Freeware
+39,Microsoft Visual Studio Code,0,1.134.0,Microsoft Visual Studio Code,2026-09-15 04:58:41,Windows,1,134,0,1,0,0,No license required,OPEN_SOURCE,NO,MIT — Free/Open Source
+40,Antigravity IDE,0,2.5.5,Antigravity,2026-09-15 04:58:41,Windows,2,5,5,0,NULL,NULL,Users,FREE_AND_PAID,YES,Commercial — Per Seat Subscription
+41,immersivecontrolpanel,0,10.0.8.1000,Windows System Component (immersivecontrolpanel),2026-09-15 04:58:41,Windows,10,0,8,1,NULL,NULL,No license required,OS_BUNDLED,NO,No License Required
+42,Amazon Alexa,0,3.25.1177.0,Amazon Alexa,2026-09-15 04:58:41,Windows,3,25,1177,1,0,0,No license required,FREEWARE,NO,Freeware
+43,Intel Graphics Experience,0,1.100.5688.0,Intel Graphics Experience,2026-09-15 04:58:41,Windows,1,100,5688,1,NULL,NULL,No license required,FREEWARE,NO,Freeware
+44,Dolby Audio,0,3.30201.210.0,Dolby Audio,2026-09-15 04:58:41,Windows,3,30201,210,1,NULL,NULL,No license required,FREEWARE,NO,Freeware
+45,Lenovo Vantage,0,10.2606.12.0,Lenovo Vantage,2026-09-15 04:58:41,Windows,10,2606,12,1,0,0,No license required,OEM_OR_BUNDLED,NO,No License Required
+46,Lenovo Voice,0,3.0.26.0,Lenovo Voice Service,2026-09-15 04:58:41,Windows,3,0,26,1,0,0,No license required,FREEWARE,NO,Freeware
+47,Lenovo Hotkeys,0,4.7.18.0,Lenovo Hotkeys,2026-09-15 04:58:41,Windows,4,7,18,1,0,0,No license required,OEM_OR_BUNDLED,NO,No License Required
+48,Smart Microphone Settings,0,1.1.51.0,Smart Microphone Settings,2026-09-15 04:58:41,Windows,1,1,51,1,NULL,NULL,No license required,FREEWARE,NO,Freeware
+49,Bing Weather,0,4.54.63045.0,MSN Weather,2026-09-15 04:58:41,Windows,4,54,63045,1,0,0,No license required,OS_BUNDLED,NO,No License Required
+50,Portal,0,2000.22041.1123.0,Windows Inbox App,2026-09-15 04:58:41,Windows,2000,22041,1123,1,0,0,No license required,OS_BUNDLED,NO,No License Required
+51,Sec Health UI,0,1000.29628.1000.0,Windows Security (SecHealthUI),2026-09-15 04:58:41,Windows,1000,29628,1000,1,NULL,NULL,No license required,OS_BUNDLED,NO,No License Required
+52,Microsoft Whiteboard,0,56.20201.588.0,Microsoft Whiteboard,2026-09-15 04:58:41,Windows,56,20201,588,1,0,0,No license required,FREEWARE,NO,Freeware
+53,windowscommunicationsapps,0,16005.14326.22342.0,Mail and Calendar,2026-09-15 04:58:41,Windows,16005,14326,22342,1,NULL,NULL,No license required,OS_BUNDLED,NO,No License Required
+54,Windows Maps,0,11.2506.3.0,Windows Maps,2026-09-15 04:58:41,Windows,11,2506,3,1,NULL,NULL,No license required,OS_BUNDLED,NO,No License Required
+55,Windows Terminal,0,1.24.11911.0,Windows Terminal,2026-09-15 04:58:41,Windows,1,24,11911,1,0,0,No license required,OS_BUNDLED,NO,No License Required
+56,Zune Video,0,10.26061.10051.0,Windows Inbox App,2026-09-15 04:58:41,Windows,10,26061,10051,1,0,0,No license required,OS_BUNDLED,NO,No License Required
+57,Microsoft Family,0,0.2.40.0,Microsoft Family Safety,2026-09-15 04:58:41,Windows,0,2,40,1,0,0,No license required,FREEWARE,NO,Freeware
+58,Microsoft Teams,0,26149.701.4759.8860,Microsoft Teams,2026-09-15 04:58:41,Windows,26149,701,4759,0,0,0,Users,COMMERCIAL,YES,Commercial — Per Seat Subscription
+59,Realtek Audio Control,0,1.44.302.0,Realtek Audio Control,2026-09-15 04:58:41,Windows,1,44,302,1,NULL,NULL,No license required,OEM_OR_BUNDLED,NO,No License Required
+60,Microsoft Sticky Notes,0,6.1.4.0,Microsoft Sticky Notes,2026-09-15 04:58:41,Windows,6,1,4,1,0,0,No license required,OS_BUNDLED,NO,No License Required
+61,Microsoft Journal,0,1.25336.1113.0,Microsoft Journal,2026-09-15 04:58:41,Windows,1,25336,1113,1,0,0,No license required,FREEWARE,NO,Freeware
+62,Solitaire & Casual Games,0,4.26.7290.0,Microsoft Solitaire Collection,2026-09-15 04:58:41,Windows,4,26,7290,1,NULL,NULL,No license required,OS_BUNDLED,NO,No License Required
+63,Todos,0,2.176.7601.0,Microsoft To Do,2026-09-15 04:58:41,Windows,2,176,7601,1,0,0,No license required,FREEWARE,NO,Freeware
+64,Bing News,0,4.56.21872.0,Microsoft News,2026-09-15 04:58:41,Windows,4,56,21872,1,NULL,NULL,No license required,FREEWARE,NO,Freeware
+65,Python Install Manager,0,26.3.240.0,Python,2026-09-15 04:58:41,Windows,26,3,240,1,NULL,NULL,No license required,OPEN_SOURCE,NO,PSF License — Free/Open Source
+66,Microsoft 365 companion apps,0,2.2605.21000.0,Microsoft 365 Companion Apps,2026-09-15 04:58:41,Windows,2,2605,21000,1,NULL,NULL,No license required,COMMERCIAL_COMPONENT,NO,No License Required
+67,Game Bar,0,7.326.8061.0,Xbox Game Bar,2026-09-15 04:58:41,Windows,7,326,8061,1,0,0,No license required,OS_BUNDLED,NO,No License Required
+68,Paint,0,11.2605.81.0,Paint,2026-09-15 04:58:41,Windows,11,2605,81,1,0,0,No license required,OS_BUNDLED,NO,No License Required
+69,Windows Notepad,0,11.2607.14.0,Windows Notepad,2026-09-15 04:58:41,Windows,11,2607,14,1,NULL,NULL,No license required,OS_BUNDLED,NO,No License Required
+70,Windows Camera,0,2026.2607.1.0,Windows Camera,2026-09-15 04:58:41,Windows,2026,2607,1,1,0,0,No license required,OS_BUNDLED,NO,No License Required
+71,PDF X,0,1.4.27.0,PDF-X (PDF Editor & Reader),2026-09-15 04:58:41,Windows,1,4,27,1,NULL,NULL,No license required,FREEWARE,NO,Freeware
+72,Windows Calculator,0,11.2607.0.0,Windows Calculator,2026-09-15 04:58:41,Windows,11,2607,0,1,0,0,No license required,OS_BUNDLED,NO,No License Required
+73,Windows Alarms,0,11.2607.6.0,Windows Clock & Alarms,2026-09-15 04:58:41,Windows,11,2607,6,1,NULL,NULL,No license required,OS_BUNDLED,NO,No License Required
+74,Windows Sound Recorder,0,11.2607.1.0,Windows Sound Recorder,2026-09-15 04:58:41,Windows,11,2607,1,1,0,0,No license required,OS_BUNDLED,NO,No License Required
+75,Zune Music,0,11.2607.16.0,Windows Media Player,2026-09-15 04:58:41,Windows,11,2607,16,1,NULL,NULL,No license required,OS_BUNDLED,NO,No License Required
+76,AutoCAD - DWG Viewer and Editor,0,10.10.0.0,AutoCAD - DWG Viewer and Editor,2026-09-15 04:58:41,Windows,10,10,0,1,NULL,NULL,No license required,FREEWARE,NO,Freeware
+77,Photos,0,2026.11080.24002.0,Photos,2026-09-15 04:58:41,Windows,2026,11080,24002,1,0,0,No license required,OS_BUNDLED,NO,No License Required
+78,Power BI Desktop,0,2.157.1354.0,Power BI Desktop,2026-09-15 04:58:41,Windows,2,157,1354,1,0,0,No license required,FREEWARE,NO,Freeware
+79,CBS,0,1000.26100.360.0,Windows System Component (Client.CBS),2026-09-15 04:58:41,Windows,1000,26100,360,1,0,0,No license required,OS_BUNDLED,NO,No License Required
+80,Windows Feedback Hub,0,2.2608.301.0,Windows Feedback Hub,2026-09-15 04:58:41,Windows,2,2608,301,1,NULL,NULL,No license required,OS_BUNDLED,NO,No License Required
+81,Core AI,0,1000.26100.9457.0,Windows System Component (Client.CoreAI),2026-09-15 04:58:41,Windows,1000,26100,9457,1,NULL,NULL,No license required,OS_BUNDLED,NO,No License Required
+82,Screen Sketch,0,11.2607.23.0,Windows Inbox App,2026-09-15 04:58:41,Windows,11,2607,23,1,NULL,NULL,No license required,OS_BUNDLED,NO,No License Required
+83,Get Help,0,10.2409.42492.0,Microsoft Get Help,2026-09-15 04:58:41,Windows,10,2409,42492,1,NULL,NULL,No license required,OS_BUNDLED,NO,No License Required
+84,Microsoft Store,0,22608.1401.3.0,Microsoft Store,2026-09-15 04:58:41,Windows,22608,1401,3,1,0,0,No license required,OS_BUNDLED,NO,No License Required
+85,Your Phone,0,1.26072.255.0,Windows Inbox App,2026-09-15 04:58:41,Windows,1,26072,255,1,NULL,NULL,No license required,OS_BUNDLED,NO,No License Required
+86,Spotify Music,0,1.301.234.0,Spotify,2026-09-15 04:58:41,Windows,1,301,234,1,0,0,No license required,FREEWARE,NO,Freeware
+87,Quick Assist,0,2.0.61.0,Quick Assist,2026-09-15 04:58:41,Windows,2,0,61,1,0,0,No license required,OS_BUNDLED,NO,No License Required
+88,XBOX,0,2609.1001.16.0,XBOX,2026-09-15 04:58:41,Windows,2609,1001,16,1,0,0,No license required,OS_BUNDLED,NO,No License Required
+89,Power Automate,0,11.2609.183.0,Power Automate,2026-09-15 04:58:41,Windows,11,2609,183,1,0,0,No license required,FREEWARE,NO,Freeware
+90,Clipchamp,0,4.6.10420.0,Clipchamp,2026-09-15 04:58:41,Windows,4,6,10420,1,0,0,No license required,OS_BUNDLED,NO,No License Required
+91,Outlook for Windows,0,1.2026.915.300,Outlook for Windows,2026-09-15 04:58:41,Windows,1,2026,915,0,0,0,Users,FREE_AND_PAID,YES,Freemium / Named User Subscription
+92,ChatGPT,0,26.917.9434.0,ChatGPT,2026-09-15 04:58:41,Windows,26,917,9434,1,0,0,No license required,FREEWARE,NO,Freeware
+93,Microsoft 365 Copilot,0,19.2609.52011.0,Microsoft 365 (Office Hub),2026-09-15 04:58:41,Windows,19,2609,52011,0,0,0,Users,FREE_AND_PAID,YES,Freemium / In-App & M365 Subscription
+94,WhatsApp,0,2.2637.100.0,WhatsApp,2026-09-15 04:58:41,Windows,2,2637,100,1,0,0,No license required,FREEWARE,NO,Freeware

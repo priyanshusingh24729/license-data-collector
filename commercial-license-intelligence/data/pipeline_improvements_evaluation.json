@@ -1,0 +1,82 @@
+{
+  "source_upload_id": "upl_20260912_064556_a210f918",
+  "eval_upload_id": "eval_upl_20260912_064556_a210f918",
+  "total_records": 112,
+  "unique_applications": 112,
+  "1_winget_enriched_records": 29,
+  "1_winget_cached_manifests_count": 20,
+  "1_winget_sample_manifests": [
+    {
+      "package_id": "Git.Git",
+      "name": "Git",
+      "license": "GPL-2.0",
+      "has_sha256": true
+    },
+    {
+      "package_id": "9WZDNCRDK3WP",
+      "name": "Slack",
+      "license": "ms-windows-store://pdp/?ProductId=9WZDNCRDK3WP",
+      "has_sha256": false
+    },
+    {
+      "package_id": "Docker.DockerDesktop",
+      "name": "Docker Desktop",
+      "license": "Proprietary",
+      "has_sha256": true
+    },
+    {
+      "package_id": "Kitware.CMake",
+      "name": "CMake",
+      "license": "BSD-3-Clause",
+      "has_sha256": true
+    },
+    {
+      "package_id": "Apple.Bonjour",
+      "name": "Bonjour",
+      "license": "Proprietary",
+      "has_sha256": true
+    }
+  ],
+  "2_web_discovery_enriched_records": 107,
+  "3_pdfs_discovered_count": 1,
+  "3_sample_harvested_pdfs": [
+    "https://assets.contentstack.io/v3/assets/blt7151619cb9560896/blt8838baa131549873/69c192eb2c3765374ee5ebbc/SSPL-compared-to-AGPL.pdf"
+  ],
+  "4_conflicts_detected": 0,
+  "5_confidence_distribution": {
+    "VERY_HIGH": 62,
+    "MEDIUM": 14,
+    "UNKNOWN": 3,
+    "LOW": 1,
+    "HIGH": 32
+  },
+  "5_average_reliability_score": 89.62,
+  "6_manual_verification_required_count": 12,
+  "6_manual_verification_sample": [
+    {
+      "app": "MECCHA CHAMELEON",
+      "vendor": null,
+      "reason": "Missing verified evidence / Unknown classification"
+    },
+    {
+      "app": "Microsoft Windows Application Compatibility Fix Database",
+      "vendor": null,
+      "reason": "Missing verified evidence / Unknown classification"
+    },
+    {
+      "app": "Branding64",
+      "vendor": null,
+      "reason": "Missing verified evidence / Unknown classification"
+    },
+    {
+      "app": "GLPI Agent 1.19",
+      "vendor": null,
+      "reason": "Missing verified evidence / Unknown classification"
+    },
+    {
+      "app": "NVIDIA Install Application",
+      "vendor": null,
+      "reason": "Missing verified evidence / Unknown classification"
+    }
+  ]
+}

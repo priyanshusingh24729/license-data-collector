@@ -1,0 +1,45 @@
+{
+  "package_id": "GitHub.Copilot",
+  "package_name": "Copilot CLI",
+  "publisher": "GitHub, Inc.",
+  "version": "v1.0.83",
+  "license": "Proprietary",
+  "license_url": "https://github.com/github/copilot-cli/blob/HEAD/LICENSE.md",
+  "installer_url": "https://github.com/github/copilot-cli/releases/download/v1.0.83/copilot-win32-x64.zip",
+  "installer_sha256": "0e07221a275fdf7e61619c53566e3a421fd646d74d8e9ca491dbbff221f22945",
+  "installer_type": "portable (zip)",
+  "homepage": "https://github.com/github/copilot-cli",
+  "description": "GitHub Copilot CLI brings AI-powered coding assistance directly to your command line, enabling you to build, debug, and understand code through natural language conversations. Powered by the same agentic harness as GitHub's Copilot coding agent, it provides intelligent assistance while staying deeply integrated with your GitHub workflow.",
+  "copyright": "Copyright (c) GitHub 2025. All rights reserved.",
+  "moniker": "copilot",
+  "tags": [],
+  "raw_manifest": {
+    "general": {
+      "version": "v1.0.83",
+      "publisher": "GitHub, Inc.",
+      "publisher_url": "https://github.com/home/",
+      "publisher_support_url": "https://support.github.com/",
+      "moniker": "copilot",
+      "description": "GitHub Copilot CLI brings AI-powered coding assistance directly to your command line, enabling you to build, debug, and understand code through natural language conversations. Powered by the same agentic harness as GitHub's Copilot coding agent, it provides intelligent assistance while staying deeply integrated with your GitHub workflow.",
+      "homepage": "https://github.com/github/copilot-cli",
+      "license": "Proprietary",
+      "license_url": "https://github.com/github/copilot-cli/blob/HEAD/LICENSE.md",
+      "privacy_url": "https://docs.github.com/site-policy/privacy-policies/github-privacy-statement",
+      "copyright": "Copyright (c) GitHub 2025. All rights reserved.",
+      "copyright_url": "https://github.com/github/copilot-cli?tab=License-1-ov-file",
+      "release_notes_url": "https://github.com/github/copilot-cli/releases/tag/v1.0.83",
+      "wiki": "https://github.com/github/copilot-cli/wiki"
+    },
+    "installer": {
+      "installer_type": "portable (zip)",
+      "installer_url": "https://github.com/github/copilot-cli/releases/download/v1.0.83/copilot-win32-x64.zip",
+      "installer_sha256": "0e07221a275fdf7e61619c53566e3a421fd646d74d8e9ca491dbbff221f22945",
+      "release_date": "2026-09-04",
+      "offline_distribution_supported": "true",
+      "dependencies": ""
+    }
+  },
+  "confidence": "VERY_HIGH",
+  "provenance": "winget:GitHub.Copilot",
+  "is_cached": false
+}

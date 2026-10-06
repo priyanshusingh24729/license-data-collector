@@ -1,0 +1,41 @@
+{
+  "package_id": "9PCFS5B6T72H",
+  "package_name": "Paint",
+  "publisher": "Microsoft Corporation",
+  "version": "Unknown",
+  "license": "https://go.microsoft.com/fwlink/?LinkId=529064",
+  "license_url": null,
+  "installer_url": null,
+  "installer_sha256": null,
+  "installer_type": "msstore",
+  "homepage": null,
+  "description": "Paint is a powerful but intuitive image editing app that has been a favorite on Windows. Quickly create and edit your masterpieces with the built-in tools, and when you\u2019re ready, save your files in almost any format and share them anywhere.",
+  "copyright": "(c) Microsoft Corporation",
+  "moniker": null,
+  "tags": [],
+  "raw_manifest": {
+    "general": {
+      "version": "Unknown",
+      "publisher": "Microsoft Corporation",
+      "publisher_url": "http://windows.microsoft.com",
+      "description": "Paint is a powerful but intuitive image editing app that has been a favorite on Windows. Quickly create and edit your masterpieces with the built-in tools, and when you\u2019re ready, save your files in almost any format and share them anywhere.",
+      "license": "https://go.microsoft.com/fwlink/?LinkId=529064",
+      "privacy_url": "https://go.microsoft.com/fwlink/?LinkId=521839",
+      "copyright": "(c) Microsoft Corporation",
+      "category": "Multimedia design",
+      "pricing": "Freemium",
+      "free_trial": "No",
+      "terms_of_transaction": "https://aka.ms/microsoft-store-terms-of-transaction",
+      "seizure_warning": "https://aka.ms/microsoft-store-seizure-warning",
+      "store_license_terms": "https://aka.ms/microsoft-store-license"
+    },
+    "installer": {
+      "installer_type": "msstore",
+      "store_product_id": "9PCFS5B6T72H",
+      "offline_distribution_supported": "true"
+    }
+  },
+  "confidence": "VERY_HIGH",
+  "provenance": "winget:9PCFS5B6T72H",
+  "is_cached": false
+}

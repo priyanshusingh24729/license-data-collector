@@ -1,0 +1,25 @@
+﻿Canonical Product,Vendor / Publisher,Installed Version(s),Install Count,Classification,License Required,Licensing Model,License Metric,Confidence,Evidence Status,Evidence URL,Device Hostname
+Adobe Creative Cloud,Adobe,6.10.0.252.3,1,COMMERCIAL,YES,Commercial Named User / Subscription,USER,HIGH,VERIFIED,,LAPTOP-TTASCMUO
+Antigravity,Google,2.11.0; 2.5.5,2,FREE_AND_PAID,CONTEXT_DEPENDENT,Freemium / Individual Free & Paid Commercial Subscriptions,USER,VERY_HIGH,VERIFIED,https://deepmind.google/technologies/antigravity/,LAPTOP-TTASCMUO
+AutoCAD - DWG Viewer and Editor,Autodesk,10.10.0.0,1,FREE_AND_PAID,CONTEXT_DEPENDENT,Freemium / In-App Upgrade & Subscription,USER,HIGH,VERIFIED,,LAPTOP-TTASCMUO
+ChatGPT,OpenAI,26.825.6671.0,1,FREE_AND_PAID,CONTEXT_DEPENDENT,Freemium / Named User Subscription,USER,VERY_HIGH,VERIFIED,,LAPTOP-TTASCMUO
+Clipchamp,Microsoft Corporation,4.5.10920.0,1,FREE_AND_PAID,CONTEXT_DEPENDENT,Freemium / In-App Upgrade / Microsoft 365 Subscription,USER,MEDIUM,VERIFIED,https://clipchamp.com/en/pricing,LAPTOP-TTASCMUO
+Copilot,Microsoft,152.0.4191.53,1,FREE_AND_PAID,CONTEXT_DEPENDENT,Freemium / In-App & M365 Subscription,USER,HIGH,VERIFIED,https://learn.microsoft.com/en-us/windows/ai/overview,LAPTOP-TTASCMUO
+Docker Desktop,Docker Inc.,4.87.0,1,COMMERCIAL,CONTEXT_DEPENDENT,Standard Commercial,USER,VERY_HIGH,VERIFIED,https://www.docker.com/legal/docker-software-end-user-license-agreement/,LAPTOP-TTASCMUO
+HEVC Video Extensions,Microsoft,2.5.33.0,1,COMMERCIAL,YES,Paid Store License / OEM Pre-licensed,DEVICE,MEDIUM,VERIFIED,https://apps.microsoft.com/detail/9n4wgh0z6vhq,LAPTOP-TTASCMUO
+IntelliJ IDEA,JetBrains,2026.2.1; 262.9437.185,2,COMMERCIAL,YES,Commercial Named User / Subscription,USER,MEDIUM,VERIFIED,,LAPTOP-TTASCMUO
+Microsoft 365 (Office Hub),Microsoft,19.2608.54041.0,1,FREE_AND_PAID,CONTEXT_DEPENDENT,Freemium / In-App & M365 Subscription,USER,MEDIUM,VERIFIED,https://www.microsoft.com/microsoft-365,LAPTOP-TTASCMUO
+Microsoft 365 Apps,Microsoft,16.0.20326.20112,1,COMMERCIAL,YES,Named User Subscription,USER,VERY_HIGH,VERIFIED,https://www.microsoft.com/licensing/terms/product/Microsoft365Apps/all,LAPTOP-TTASCMUO
+Microsoft Copilot (Windows App),Microsoft,152.0.4191.53,1,FREE_AND_PAID,CONTEXT_DEPENDENT,Freemium / In-App & M365 Subscription,USER,HIGH,VERIFIED,https://learn.microsoft.com/en-us/windows/ai/overview,LAPTOP-TTASCMUO
+Microsoft Family Safety,Microsoft,0.2.40.0,1,FREE_AND_PAID,CONTEXT_DEPENDENT,Freemium / In-App & M365 Subscription,USER,MEDIUM,VERIFIED,https://www.microsoft.com/en-us/microsoft-365/family-safety,LAPTOP-TTASCMUO
+Microsoft OneNote,Microsoft,16.0.20326.20112,1,COMMERCIAL,YES,Named User Subscription,USER,VERY_HIGH,VERIFIED,https://www.microsoft.com/microsoft-365/onenote,LAPTOP-TTASCMUO
+Microsoft SQL Server,Microsoft,N/A,1,FREE_AND_PAID,YES,Per Core / Server + CAL,CORE,VERY_HIGH,PARTIAL,https://www.microsoft.com/licensing/terms/product/SQLServer/all,LAPTOP-TTASCMUO
+Microsoft Solitaire Collection,Microsoft,4.26.7290.0,1,FREE_AND_PAID,CONTEXT_DEPENDENT,Freemium / In-App Upgrade,USER,MEDIUM,VERIFIED,https://www.xbox.com/en-US/games/store/microsoft-solitaire-collection/9wzdncrfhwd2,LAPTOP-TTASCMUO
+Microsoft Teams,Microsoft,1.26.20101; 26213.1006.5014.9784,3,COMMERCIAL,YES,Named User Subscription,USER,HIGH,VERIFIED,https://www.microsoft.com/licensing/terms/product/MicrosoftTeams/all,LAPTOP-TTASCMUO
+Microsoft To Do,Microsoft,2.176.7601.0,1,FREE_AND_PAID,CONTEXT_DEPENDENT,Freemium / In-App & M365 Subscription,USER,MEDIUM,VERIFIED,https://to-do.office.com/,LAPTOP-TTASCMUO
+Microsoft Whiteboard,Microsoft,56.20201.588.0,1,FREE_AND_PAID,CONTEXT_DEPENDENT,Freemium / In-App & M365 Subscription,USER,MEDIUM,VERIFIED,https://www.microsoft.com/en-us/microsoft-365/microsoft-whiteboard/digital-whiteboard-app,LAPTOP-TTASCMUO
+Outlook for Windows,Microsoft,1.2026.818.100,2,FREE_AND_PAID,CONTEXT_DEPENDENT,Freemium Client / Microsoft 365 Commercial Subscription,USER,HIGH,VERIFIED,,LAPTOP-TTASCMUO
+PDF-X (PDF Editor & Reader),PDF Technologies,1.4.27.0,1,FREE_AND_PAID,CONTEXT_DEPENDENT,Freemium / In-App Upgrade,USER,VERY_HIGH,VERIFIED,,LAPTOP-TTASCMUO
+Power Automate for desktop,Microsoft,11.2608.115.0,1,FREE_AND_PAID,CONTEXT_DEPENDENT,Freemium / Named User Subscription,USER,MEDIUM,VERIFIED,https://learn.microsoft.com/en-us/power-automate/desktop-flows/licensing,LAPTOP-TTASCMUO
+Spotify,Spotify AB,1.298.301.0,1,FREE_AND_PAID,CONTEXT_DEPENDENT,Freemium / Ad-Supported / User Subscription,USER,VERY_HIGH,VERIFIED,,LAPTOP-TTASCMUO
+Zoom Workplace,Zoom Video Communications,7.1.5 (43453),1,FREE_AND_PAID,CONTEXT_DEPENDENT,Freemium / Named User Subscription,USER,VERY_HIGH,VERIFIED,https://zoom.us/pricing,LAPTOP-TTASCMUO

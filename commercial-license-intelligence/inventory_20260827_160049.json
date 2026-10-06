@@ -1,0 +1,12 @@
+{
+  "device": {
+    "device_key": "WIN-AF9D3EF15A1C5A1A",
+    "hostname": "LAPTOP-TTASCMUO",
+    "operating_system": "Windows",
+    "os_version": "11 (10.0.26200)",
+    "architecture": "x64",
+    "agent_version": "1.0.0"
+  },
+  "applications": [],
+  "inventory_source": "ENDPOINT_AGENT"
+}

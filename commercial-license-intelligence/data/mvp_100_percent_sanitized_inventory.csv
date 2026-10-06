@@ -1,0 +1,604 @@
+﻿Tier,Application,Vendor,Version,Classification,License Required,License Model,Confidence,Evidence Status,Evidence URL,Hostname
+Tier 2: Freeware & Developer Open Source,360 Extreme Browser,Qihoo 360,22.3.5116.64,FREEWARE,NO,Freeware Web Browser,VERY_HIGH,VERIFIED,https://browser.360.cn/,N/A
+Tier 3: OS & System Infrastructure,Nahimic,A-Volute,1.10.11.0; 1.10.9.0,OEM_OR_BUNDLED,NO,OEM driver/utility,HIGH,VERIFIED,,N/A
+Tier 1: Commercial & Billable,Accops Workspace,Accops Systems Pvt. Ltd.,7.2.4.1013,COMMERCIAL,YES,Commercial Virtual Workspace / VDI Client License,VERY_HIGH,VERIFIED,https://accops.com/,N/A
+Tier 1: Commercial & Billable,Adobe Acrobat,Adobe,25.001.20997; 26.001.21367; 26.001.21563; 26.001.21651,COMMERCIAL,YES,Named User Subscription / Perpetual,VERY_HIGH,VERIFIED,https://www.adobe.com/products/acrobatpro/pricing.html,N/A
+Tier 1: Commercial & Billable,Adobe Creative Cloud,Adobe,6.9.0.618.5; 6.9.1.1; 6.9.1.1.3,COMMERCIAL,YES,Commercial Named User / Subscription,HIGH,VERIFIED,https://www.adobe.com/legal/terms.html,N/A
+Tier 1: Commercial & Billable,Adobe Genuine Service,Adobe,10.0.2.1; 8.4.0.63; 9.1.0.52,COMMERCIAL,YES,Standard Commercial,VERY_HIGH,VERIFIED,https://www.adobe.com/legal/terms.html,N/A
+Tier 1: Commercial & Billable,Adobe Refresh Manager,Adobe,1.8.0,COMMERCIAL,YES,Standard Commercial,VERY_HIGH,VERIFIED,https://www.adobe.com/legal/terms.html,N/A
+Tier 3: OS & System Infrastructure,AMD Radeon Software,"Advanced Micro Devices, Inc. (AMD)",10.23.19012.0,OEM_OR_BUNDLED,NO,OEM driver/utility,HIGH,VERIFIED,https://www.amd.com/en/support,N/A
+Tier 2: Freeware & Developer Open Source,Core Temp,ALCPU,1.20.1,FREEWARE,NO,Freeware Hardware Monitoring Utility,VERY_HIGH,VERIFIED,https://www.alcpu.com/CoreTemp/,N/A
+Tier 2: Freeware & Developer Open Source,Amazon Send to Kindle,Amazon,1.1.1.257,FREEWARE,NO,Free Companion Application,VERY_HIGH,VERIFIED,https://www.amazon.com/sendtokindle,N/A
+Tier 1: Commercial & Billable,Claude,Anthropic,1.1.8629.0; 1.14271.0.0; 1.15200.0.0; 1.15962.1.0; 1.25927.0,FREE_AND_PAID,CONTEXT_DEPENDENT,Freemium / Named User Subscription,VERY_HIGH,VERIFIED,https://www.anthropic.com/pricing,N/A
+Tier 1: Commercial & Billable,AnyDesk,AnyDesk Software GmbH,8.1.1; ad 9.0.10,FREE_AND_PAID,CONTEXT_DEPENDENT,Freemium (Free for Personal Use / Commercial License Required for Business),VERY_HIGH,VERIFIED,https://anydesk.com/en/order,N/A
+Tier 1: Commercial & Billable,Cursor,Anysphere,3.1.15,FREE_AND_PAID,CONTEXT_DEPENDENT,Freemium / Named User Subscription,VERY_HIGH,VERIFIED,https://www.cursor.com/pricing,N/A
+Tier 2: Freeware & Developer Open Source,Apache OpenOffice,Apache Software Foundation,4.00.9702,OPEN_SOURCE,NO,Apache License 2.0,VERY_HIGH,VERIFIED,https://www.openoffice.org/license.html,N/A
+Tier 3: OS & System Infrastructure,50onPaletteServer,Apple Inc.,1.1.0,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,ABAssistantService,Apple Inc.,14,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,About This Mac,Apple Inc.,1,OS_BUNDLED,NO,Operating System Bundled Feature,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 2: Freeware & Developer Open Source,Accessibility Inspector,Apple Inc.,5,FREEWARE,NO,Freeware Developer Tool,VERY_HIGH,VERIFIED,https://developer.apple.com/support/terms/,N/A
+Tier 3: OS & System Infrastructure,Accessibility Reader,Apple Inc.,1,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,Accessibility Tutorial,Apple Inc.,1,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,AccessibilityUIServer,Apple Inc.,1,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,AccessibilityVisualsAgent,Apple Inc.,1,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,Activity Monitor,Apple Inc.,10.14,OS_BUNDLED,NO,Operating System Bundled Feature,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,AddPrinter,Apple Inc.,607,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,AddressBookManager,Apple Inc.,14,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,AddressBookSourceSync,Apple Inc.,14,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,AddressBookSync,Apple Inc.,14,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,AddressBookUrlForwarder,Apple Inc.,14,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,AinuIM,Apple Inc.,1,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,AirDrop,Apple Inc.,14.4; 26.2; 26.4,OS_BUNDLED,NO,Operating System Bundled Feature,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,AirPlayUIAgent,Apple Inc.,2,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,AirPort Base Station Agent,Apple Inc.,2.2.1,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,AirPort Utility,Apple Inc.,6.3.9,OS_BUNDLED,NO,Operating System Bundled Feature,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,AirScanLegacyDiscovery,Apple Inc.,607,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,AirScanScanner,Apple Inc.,18,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,AMSEngagementViewService,Apple Inc.,1,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,AOSAlertManager,Apple Inc.,1.07,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,AOSHeartbeat,Apple Inc.,1.07,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,AOSPushRelay,Apple Inc.,1.07,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,AOSUIPrefPaneLauncher,Apple Inc.,1,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,App Store,Apple Inc.,3,OS_BUNDLED,NO,Operating System Bundled Feature,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,Apple Diagnostics,Apple Inc.,1,OS_BUNDLED,NO,Operating System Bundled Feature,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,Apple Mobile Device Support,Apple Inc.,16.0.0.25,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,AppleMobileDeviceHelper,Apple Inc.,5,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,AppleMobileSync,Apple Inc.,5,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,AppleScript Utility,Apple Inc.,1.1.2,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,AppleSpell,Apple Inc.,2.4,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,Apps,Apple Inc.,1,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,AppSSOAgent,Apple Inc.,1,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,AquaAppearanceHelper,Apple Inc.,1,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,Archive Utility,Apple Inc.,10.15,OS_BUNDLED,NO,Operating System Bundled Feature,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,ARDAgent,Apple Inc.,3.9.8,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,AskPermissionUI,Apple Inc.,1; 129.5.3,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,AskToMessagesHost,Apple Inc.,1,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,Setup Assistant,Apple Inc.,10.1,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,Assistive Control,Apple Inc.,2,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,Audio MIDI Setup,Apple Inc.,3.6; 3.7; 3.8,OS_BUNDLED,NO,Operating System Bundled Feature,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,AutoFillPanelService,Apple Inc.,1,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,AutomationModeUI,Apple Inc.,1,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,Automator,Apple Inc.,2.1,OS_BUNDLED,NO,Operating System Bundled Feature,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,AVB Configuration,Apple Inc.,1220.1; 1400.1; 1440.7,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,AXVisualSupportAgent,Apple Inc.,1,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,BackgroundTaskManagementAgent,Apple Inc.,1,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,Batteries,Apple Inc.,1,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,Bluetooth Setup Assistant,Apple Inc.,9,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,Bluetooth File Exchange,Apple Inc.,9,OS_BUNDLED,NO,Operating System Bundled Feature,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,BluetoothUIServer,Apple Inc.,9,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,BluetoothUIService,Apple Inc.,1,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,Books,Apple Inc.,6.3; 8.1; 8.5,OS_BUNDLED,NO,Operating System Bundled Feature,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,Boot Camp Assistant,Apple Inc.,6.1.0,OS_BUNDLED,NO,Operating System Bundled Feature,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,Build Web Page,Apple Inc.,10.1,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,Calculator,Apple Inc.,10.16; 12,OS_BUNDLED,NO,Operating System Bundled Feature,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,Calendar,Apple Inc.,14; 16,OS_BUNDLED,NO,Operating System Bundled Feature,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,CalendarFileHandler,Apple Inc.,8,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,Calibration Assistant,Apple Inc.,1,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,Captive Network Assistant,Apple Inc.,5,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,Certificate Assistant,Apple Inc.,5,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,CharacterPalette,Apple Inc.,2.0.1,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,Chess,Apple Inc.,3.18,OS_BUNDLED,NO,Operating System Bundled Feature,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,ChineseTextConverterService,Apple Inc.,2.1,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,CIMFindInputCodeTool,Apple Inc.,104,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,CinematicFramingOnboardingUI,Apple Inc.,1,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,ClassroomStudentMenuExtra,Apple Inc.,1,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,Clock,Apple Inc.,1.1,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,ColorSync Utility,Apple Inc.,12.0.0; 12.2.0,OS_BUNDLED,NO,Operating System Bundled Feature,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,Computer,Apple Inc.,14.4; 26.2; 26.4,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,Conflict Resolver,Apple Inc.,8.1,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,Console,Apple Inc.,1.1,OS_BUNDLED,NO,Operating System Bundled Feature,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,Contacts,Apple Inc.,1; 14,OS_BUNDLED,NO,Operating System Bundled Feature,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,ContinuityCaptureOnboardingUI,Apple Inc.,1,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,Control Centre,Apple Inc.,1,OS_BUNDLED,NO,Operating System Bundled Feature,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,ControlStrip,Apple Inc.,1,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,CoreLocationAgent,Apple Inc.,2890.12.17.3.2; 3064.0.10; 3075.0.8,OS_BUNDLED,NO,Operating System Bundled Feature,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,CoreServicesUIAgent,Apple Inc.,369,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,Coverage Details,Apple Inc.,1,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 2: Freeware & Developer Open Source,Create ML,Apple Inc.,6.2,FREEWARE,NO,Freeware Developer Tool,VERY_HIGH,VERIFIED,https://developer.apple.com/support/terms/,N/A
+Tier 3: OS & System Infrastructure,Database Events,Apple Inc.,1.0.6,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,Desk View,Apple Inc.,1; 2,OS_BUNDLED,NO,Operating System Bundled Feature,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,DFRHUD,Apple Inc.,1,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,Diagnostics Reporter,Apple Inc.,1,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,Dictation,Apple Inc.,6.1.82.1; 6.2.41.5; 6.2.47,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,Dictionary,Apple Inc.,2.3.0,OS_BUNDLED,NO,Operating System Bundled Feature,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,Digital Colour Meter,Apple Inc.,5.22; 6.1; 6.11,OS_BUNDLED,NO,Operating System Bundled Feature,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,Directory Utility,Apple Inc.,6.4; 7,OS_BUNDLED,NO,Operating System Bundled Feature,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,DiscHelper,Apple Inc.,1,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,Disk Utility,Apple Inc.,22.6; 22.7,OS_BUNDLED,NO,Operating System Bundled Feature,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,DiskImageMounter,Apple Inc.,1,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,DiskImages UI Agent,Apple Inc.,654.100.1; 681.60.1; 683.100.3,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,Display Calibrator,Apple Inc.,4.18; 4.19,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,Dock,Apple Inc.,1.8,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,DVD Player,Apple Inc.,6,OS_BUNDLED,NO,Operating System Bundled Feature,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,Dwell Control,Apple Inc.,1,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,eaptlstrust,Apple Inc.,13,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,EmojiFunctionRowIM,Apple Inc.,1,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,Enhanced Logging,Apple Inc.,1,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,Erase Assistant,Apple Inc.,1,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,EscrowSecurityAlert,Apple Inc.,1,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,Expansion Slot Utility,Apple Inc.,2,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,FaceTime,Apple Inc.,36; 5,OS_BUNDLED,NO,Operating System Bundled Feature,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,Family,Apple Inc.,1,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,FamilyExtensionHost,Apple Inc.,1,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,Feedback Assistant,Apple Inc.,5.1,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,FeedbackRemoteView,Apple Inc.,1,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 2: Freeware & Developer Open Source,FileMerge,Apple Inc.,2.11,FREEWARE,NO,Freeware Developer Tool,VERY_HIGH,VERIFIED,https://developer.apple.com/support/terms/,N/A
+Tier 3: OS & System Infrastructure,FileProvider-Feedback,Apple Inc.,1,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,Find My,Apple Inc.,4,OS_BUNDLED,NO,Operating System Bundled Feature,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,Finder,Apple Inc.,14.4; 26.2; 26.4,OS_BUNDLED,NO,Operating System Bundled Feature,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,FindMyMacMessenger,Apple Inc.,4.1,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,Folder Actions Setup,Apple Inc.,1.2,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,FolderActionsDispatcher,Apple Inc.,1,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,FollowUpUI,Apple Inc.,1,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,Font Book,Apple Inc.,11,OS_BUNDLED,NO,Operating System Bundled Feature,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,FontRegistryUIAgent,Apple Inc.,81,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,Freeform,Apple Inc.,2.4; 4.2; 4.5,OS_BUNDLED,NO,Operating System Bundled Feature,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,Game Center,Apple Inc.,1,OS_BUNDLED,NO,Operating System Bundled Feature,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,GameOverlayUI,Apple Inc.,1,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,Games,Apple Inc.,1; 820.2.10.1.2; 820.5.18,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,Grapher,Apple Inc.,2.7; 2.8,OS_BUNDLED,NO,Operating System Bundled Feature,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,Help Viewer,Apple Inc.,7,OS_BUNDLED,NO,Operating System Bundled Feature,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,Home,Apple Inc.,10; 8,OS_BUNDLED,NO,Operating System Bundled Feature,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,iCloud Drive,Apple Inc.,1; 14.4; 26.2; 26.4,OS_BUNDLED,NO,Operating System Bundled Feature,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,iCloud Outlook,Apple Inc.,15.6.0.113,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,iCloud+,Apple Inc.,1,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,iCloudUserNotificationsd,Apple Inc.,1,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,Icon Composer,Apple Inc.,1.5,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,identityservicesd,Apple Inc.,10,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,IDSRemoteURLConnectionAgent,Apple Inc.,10,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,Image Capture,Apple Inc.,8,OS_BUNDLED,NO,Operating System Bundled Feature,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,Image Events,Apple Inc.,1.1.6,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,Image Playground,Apple Inc.,1,OS_BUNDLED,NO,Operating System Bundled Feature,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,imagent,Apple Inc.,10,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,IMAutomaticHistoryDeletionAgent,Apple Inc.,10,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,IMTransferAgent,Apple Inc.,10,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 2: Freeware & Developer Open Source,Command Line Developer Tools,Apple Inc.,2406; 2416,FREEWARE,NO,Freeware Developer Tool,VERY_HIGH,VERIFIED,https://developer.apple.com/support/terms/,N/A
+Tier 3: OS & System Infrastructure,Install in Progress,Apple Inc.,3,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,Installer,Apple Inc.,6.2.0,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 2: Freeware & Developer Open Source,Instruments,Apple Inc.,26.5,FREEWARE,NO,Freeware Developer Tool,VERY_HIGH,VERIFIED,https://developer.apple.com/support/terms/,N/A
+Tier 3: OS & System Infrastructure,iOS App Installer,Apple Inc.,1,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,IOUIAgent,Apple Inc.,1,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,iPhone Mirroring,Apple Inc.,1.5; 1.6,OS_BUNDLED,NO,Operating System Bundled Feature,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,JapaneseIM-KanaTyping,Apple Inc.,6.3,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,JapaneseIM-RomajiTyping,Apple Inc.,6.3,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,JavaLauncher,Apple Inc.,321; 326,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,Journal,Apple Inc.,2,OS_BUNDLED,NO,Operating System Bundled Feature,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,KerberosMenuExtra,Apple Inc.,1,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,KeyboardAccessAgent,Apple Inc.,10,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,KeyboardSetupAssistant,Apple Inc.,1,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,Keychain Access,Apple Inc.,11,OS_BUNDLED,NO,Operating System Bundled Feature,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,Keychain Circle Notification,Apple Inc.,1,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,KoreanIM,Apple Inc.,1,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,Language Chooser,Apple Inc.,1,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,Launchpad,Apple Inc.,1,OS_BUNDLED,NO,Operating System Bundled Feature,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,LinkedNotesUIService,Apple Inc.,1,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,liquiddetectiond,Apple Inc.,N/A,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,Live Captions,Apple Inc.,1,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,LiveSpeech,Apple Inc.,1,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,loginwindow,Apple Inc.,9,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,Magnifier,Apple Inc.,1,OS_BUNDLED,NO,Operating System Bundled Feature,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,Mail,Apple Inc.,16,OS_BUNDLED,NO,Operating System Bundled Feature,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,MakePDF,Apple Inc.,10.1,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,ManagedClient,Apple Inc.,16.4; 18,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,Maps,Apple Inc.,3,OS_BUNDLED,NO,Operating System Bundled Feature,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,MDMMigrationTrampoline,Apple Inc.,1,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,MediaMLPluginApp,Apple Inc.,1,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,Medical Imaging Calibrator,Apple Inc.,1,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,Memory Slot Utility,Apple Inc.,1.5.3,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,Messages,Apple Inc.,14; 26,OS_BUNDLED,NO,Operating System Bundled Feature,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,Migration Assistant,Apple Inc.,14.4; 26.2; 26.5,OS_BUNDLED,NO,Operating System Bundled Feature,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,Mission Control,Apple Inc.,1.2,OS_BUNDLED,NO,Operating System Bundled Feature,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,MobileDeviceUpdater,Apple Inc.,1,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,MRT,Apple Inc.,1.93,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,MTLReplayer,Apple Inc.,270.12; 312.4; 314.14,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,Music,Apple Inc.,1.4.4; 1.6.2; 1.6.5,OS_BUNDLED,NO,Operating System Bundled Feature,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,Music Recognition,Apple Inc.,1,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,nbagent,Apple Inc.,1,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,NetAuthAgent,Apple Inc.,6.2,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,Network,Apple Inc.,14.4; 26.2; 26.4,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,News,Apple Inc.,11.2; 11.5; 4.56.242.0; 9.3.1,OS_BUNDLED,NO,Operating System Bundled Feature,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,Notes,Apple Inc.,4.11; 4.13,OS_BUNDLED,NO,Operating System Bundled Feature,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,Notification Centre,Apple Inc.,1,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,NowPlayingTouchUI,Apple Inc.,1,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,OBEXAgent,Apple Inc.,9,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,ODSAgent,Apple Inc.,1.9,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,OpenSpell,Apple Inc.,1,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,OSDUIHelper,Apple Inc.,1; 1.1,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,Paired Devices,Apple Inc.,5.4.1; 7.1,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,ParentalControls,Apple Inc.,4.1,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,Pass Viewer,Apple Inc.,1,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,Passwords,Apple Inc.,2.2; 2.5.2,OS_BUNDLED,NO,Operating System Bundled Feature,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,PeopleMessageService,Apple Inc.,1,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,Phone,Apple Inc.,1,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,Photo Booth,Apple Inc.,13.1,OS_BUNDLED,NO,Operating System Bundled Feature,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,Photos,Apple Inc.,11; 9,OS_BUNDLED,NO,Operating System Bundled Feature,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,PIPAgent,Apple Inc.,1; 2,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,PluginIM,Apple Inc.,25; 26.2,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,Podcasts,Apple Inc.,1.1.0,OS_BUNDLED,NO,Operating System Bundled Feature,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,PosterBoard,Apple Inc.,1,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,PowerChime,Apple Inc.,1,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,PressAndHold,Apple Inc.,1,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,Preview,Apple Inc.,11,OS_BUNDLED,NO,Operating System Bundled Feature,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,PreviewShell,Apple Inc.,15.3; 16,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,PreviewShellMac,Apple Inc.,16,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,Print Centre,Apple Inc.,1,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,privatecloudcomputed,Apple Inc.,1,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,Pro Display Calibrator,Apple Inc.,2.0.2; 211.25; 212.34,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,Problem Reporter,Apple Inc.,10.13,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,Profile Installer,Apple Inc.,1,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,Installer Progress,Apple Inc.,1,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,Python,Apple Inc.,3.9.6,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,qlmanage,Apple Inc.,1,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 2: Freeware & Developer Open Source,Simulator,Apple Inc.,1; 16,FREEWARE,NO,Freeware Developer Tool,VERY_HIGH,VERIFIED,https://developer.apple.com/support/terms/,N/A
+Tier 3: OS & System Infrastructure,quicklookd,Apple Inc.,5,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,QuickLookUIHelper,Apple Inc.,5,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,QuickTime Player,Apple Inc.,10.5,OS_BUNDLED,NO,Operating System Bundled Feature,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,RapportUIAgent,Apple Inc.,5.4.1; 7.1,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,rcd,Apple Inc.,361; 362,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 2: Freeware & Developer Open Source,Reality Composer Pro,Apple Inc.,2,FREEWARE,NO,Freeware Developer Tool,VERY_HIGH,VERIFIED,https://developer.apple.com/support/terms/,N/A
+Tier 3: OS & System Infrastructure,Recents,Apple Inc.,14.4; 26.2; 26.4,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,RegisterPluginIMApp,Apple Inc.,25; 26.2,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,Reminders,Apple Inc.,7,OS_BUNDLED,NO,Operating System Bundled Feature,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,Remote Desktop Message,Apple Inc.,3.9.8,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,Rosetta 2 Updater,Apple Inc.,1,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,SCIM,Apple Inc.,104,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,Screen Sharing,Apple Inc.,4.3; 6.1,OS_BUNDLED,NO,Operating System Bundled Feature,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,Screen Time,Apple Inc.,3,OS_BUNDLED,NO,Operating System Bundled Feature,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,screencaptureui,Apple Inc.,1,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,ScreenReaderUIServer,Apple Inc.,10,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,ScreenSaverEngine,Apple Inc.,5,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,Screenshot,Apple Inc.,1,OS_BUNDLED,NO,Operating System Bundled Feature,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,Script Editor,Apple Inc.,2.11,OS_BUNDLED,NO,Operating System Bundled Feature,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,Script Menu,Apple Inc.,1,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,ScriptMonitor,Apple Inc.,1.0.1,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,ShortcutDroplet,Apple Inc.,1,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,Shortcuts,Apple Inc.,7,OS_BUNDLED,NO,Operating System Bundled Feature,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,Shortcuts Events,Apple Inc.,1,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,ShortcutsActions,Apple Inc.,N/A,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,Siri,Apple Inc.,1; 3304.23.1; 3510.1.1; 3525.5.2,OS_BUNDLED,NO,Operating System Bundled Feature,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,SmartCard Pairing,Apple Inc.,1,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,sociallayerd,Apple Inc.,1,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,Software Update,Apple Inc.,6,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,SoftwareUpdateNotificationManager,Apple Inc.,1,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,SpacesTouchBarAgent,Apple Inc.,1,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,Speech Downloader,Apple Inc.,10; 9.0.68; 9.0.78,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,SpeechRecognitionServer,Apple Inc.,10; 9.0.68; 9.0.78,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,SpeechService,Apple Inc.,9.2.22,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,Spotlight,Apple Inc.,1; 3,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,SSMenuAgent,Apple Inc.,3.9.8,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,StageManagerOnboarding,Apple Inc.,1,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,Stickies,Apple Inc.,10.2; 10.3,OS_BUNDLED,NO,Operating System Bundled Feature,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,STMUIHelper,Apple Inc.,1,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,Stocks,Apple Inc.,6.2.2; 8.2; 8.5,OS_BUNDLED,NO,Operating System Bundled Feature,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,storeuid,Apple Inc.,1,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,Summary Service,Apple Inc.,2,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,SyncServer,Apple Inc.,8.1,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,syncuid,Apple Inc.,8.1,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,System Events,Apple Inc.,1.3.6,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,System Information,Apple Inc.,11,OS_BUNDLED,NO,Operating System Bundled Feature,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,System Settings,Apple Inc.,15,OS_BUNDLED,NO,Operating System Bundled Feature,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,System Speech,Apple Inc.,9.2.22,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,SystemIntents,Apple Inc.,1,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,SystemUIServer,Apple Inc.,1.7,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,TamilIM,Apple Inc.,1.6,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,TCIM,Apple Inc.,104,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,Terminal,Apple Inc.,2.14; 2.15,OS_BUNDLED,NO,Operating System Bundled Feature,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,TextEdit,Apple Inc.,1.19; 1.2,OS_BUNDLED,NO,Operating System Bundled Feature,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,TextInputMenuAgent,Apple Inc.,1,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,TextInputSwitcher,Apple Inc.,1.1,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,ThermalTrap,Apple Inc.,1,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,Ticket Viewer,Apple Inc.,4.1,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,Time Machine,Apple Inc.,1.3,OS_BUNDLED,NO,Operating System Bundled Feature,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,Tips,Apple Inc.,1; 10; 26.2; 26.5,OS_BUNDLED,NO,Operating System Bundled Feature,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,TMHelperAgent,Apple Inc.,13,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,TrackpadIM,Apple Inc.,1,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,TransliterationIM,Apple Inc.,1,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,TV,Apple Inc.,1.4.4; 1.6.2; 1.6.5,OS_BUNDLED,NO,Operating System Bundled Feature,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,TYIM,Apple Inc.,104,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,UASharedPasteboardProgressUI,Apple Inc.,54.1,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,UIKitSystem,Apple Inc.,1,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,Universal Control,Apple Inc.,1,OS_BUNDLED,NO,Operating System Bundled Feature,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,universalAccessAuthWarn,Apple Inc.,1,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,UniversalAccessControl,Apple Inc.,7,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,UnmountAssistantAgent,Apple Inc.,5,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,UserNotificationCenter,Apple Inc.,82,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,VietnameseIM,Apple Inc.,1,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,Voice Control Guide,Apple Inc.,1,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,Voice Memos,Apple Inc.,2.4; 3.2,OS_BUNDLED,NO,Operating System Bundled Feature,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,VoiceOver,Apple Inc.,10,OS_BUNDLED,NO,Operating System Bundled Feature,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,VoiceOver Quickstart,Apple Inc.,10,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,VoiceOver Utility,Apple Inc.,10,OS_BUNDLED,NO,Operating System Bundled Feature,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,Wallpaper,Apple Inc.,1,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,Watch Face Help,Apple Inc.,1,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,Weather,Apple Inc.,4.2.2; 6,OS_BUNDLED,NO,Operating System Bundled Feature,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,WiFiAgent,Apple Inc.,1; 17,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,WindowManager,Apple Inc.,175.106; 341.2.2; 341.4.4,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,WindowManagerShowDesktopEducation,Apple Inc.,1,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,"Windows Driver- Apple, Inc. (USBAAPL) USB (05/19/2017 6.0.9999.69)",Apple Inc.,05/19/2017 6.0.9999.69,OEM_OR_BUNDLED,NO,OEM driver/utility,HIGH,UNVERIFIED,,N/A
+Tier 3: OS & System Infrastructure,"Windows Driver- Apple, Inc. (USBAAPL64) USB (05/19/2017 6.0.9999.69)",Apple Inc.,05/19/2017 6.0.9999.69,OEM_OR_BUNDLED,NO,OEM driver/utility,HIGH,UNVERIFIED,,N/A
+Tier 3: OS & System Infrastructure,Wireless Diagnostics,Apple Inc.,11,OS_BUNDLED,NO,Operating System Bundled Feature,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,Wish,Apple Inc.,8.5.9,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,WorkoutAlert-Mac,Apple Inc.,1,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 3: OS & System Infrastructure,XProtect,Apple Inc.,157,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://www.apple.com/legal/sla/,N/A
+Tier 1: Commercial & Billable,ARCON PAM,ARCON,4.20.1; 5.0.0,COMMERCIAL,YES,Enterprise Privileged Access Management License,VERY_HIGH,VERIFIED,https://arconnet.com/,N/A
+Tier 1: Commercial & Billable,BitTorrent,BitTorrent Inc.,1.4.0; 3.6.0.47222; 3.6.0.47254; 5.1.4; 7.11.0.47197; 7.11.0.47225,FREE_AND_PAID,CONTEXT_DEPENDENT,Freemium / Ad-Supported with Pro Upgrade,VERY_HIGH,VERIFIED,https://www.bittorrent.com/,N/A
+Tier 2: Freeware & Developer Open Source,Brave Browser,Brave Software Inc,143.1.85.120; 146.1.88.136; 147.1.89.141; 148.1.90.124; 149.1.91.171,OPEN_SOURCE,NO,Mozilla Public License 2.0 (MPL 2.0),VERY_HIGH,VERIFIED,https://brave.com/terms-of-use/,N/A
+Tier 2: Freeware & Developer Open Source,curl,Ubuntu Community,8.19.0,OPEN_SOURCE,NO,Linux System Package / Open Source Component,HIGH,VERIFIED,https://packages.ubuntu.com/,N/A
+Tier 2: Freeware & Developer Open Source,Firefox,Ubuntu Community,148.0.2; 149.0.2; 152.0.1,OPEN_SOURCE,NO,Linux System Package / Open Source Component,HIGH,VERIFIED,https://packages.ubuntu.com/,N/A
+Tier 2: Freeware & Developer Open Source,LibreOffice,The Document Foundation,7.3.7; 24.2.7; 25.8.4.2; 25.8.5.2,OPEN_SOURCE,NO,Open Source / LGPL,VERY_HIGH,VERIFIED,https://www.libreoffice.org/,N/A
+Tier 1: Commercial & Billable,Canva,Canva Pty Ltd,1.113.0; 1.117.1; 1.119.0; 1.121.0,FREE_AND_PAID,CONTEXT_DEPENDENT,Freemium / Named User Subscription,VERY_HIGH,VERIFIED,https://www.canva.com/pricing/,N/A
+Tier 1: Commercial & Billable,Cisco Webex Meetings,"Cisco Systems, Inc.",3.1.0.24263; 44.3.0.28993; 44.4.0.29298; 44.4.0.29432; 44.6.0; 46.1.0.33913,FREE_AND_PAID,CONTEXT_DEPENDENT,Freemium / Named User Subscription,VERY_HIGH,VERIFIED,https://www.webex.com/pricing/index.html,N/A
+Tier 3: OS & System Infrastructure,Citrix Authentication Manager,"Citrix Systems, Inc.",25.11.10.6; 25.3.0.21; 25.7.2000.4; 26.3.0.28,COMMERCIAL_COMPONENT,NO,Bundled Component of Citrix Workspace,VERY_HIGH,VERIFIED,https://docs.citrix.com/,N/A
+Tier 3: OS & System Infrastructure,Citrix Browser Content Redirection Plugin,"Citrix Systems, Inc.",25.11.1.5; 25.11.10.41; 26.3.0.171; 26.3.10.54,COMMERCIAL_COMPONENT,NO,Bundled Component of Citrix Workspace,VERY_HIGH,VERIFIED,https://docs.citrix.com/,N/A
+Tier 3: OS & System Infrastructure,Citrix Workspace Component,"Citrix Systems, Inc.",1; 25.3.0.2; 25.3.2.198; 25.7.0.178; 25.10.1.10; 25.11.10.19; 25.11.10.32; 25.11.10.41; 25.11.22.0; 26.3.10.32,COMMERCIAL_COMPONENT,NO,Bundled Component of Citrix Workspace,VERY_HIGH,VERIFIED,https://docs.citrix.com/,N/A
+Tier 1: Commercial & Billable,Citrix Workspace,"Citrix Systems, Inc.",25.3.2.77; 25.3.2.81; 25.3.2.196; 25.7.2000.9; 25.11.10.19; 25.11.10.32; 25.11.10.41; 25.11.10.50; 26.3.1.64; 26.3.1.96; 26.3.1.194; 26.3.10.69,COMMERCIAL,CONTEXT_DEPENDENT,Client Access / Commercial VDI Infrastructure License,VERY_HIGH,VERIFIED,https://www.citrix.com/products/citrix-workspace/,N/A
+Tier 3: OS & System Infrastructure,Corel Graphics - Windows Shell Extension,Corel / Alludo,24.2.0.371; 24.2.371,OEM_OR_BUNDLED,NO,OEM driver/utility,HIGH,UNVERIFIED,,N/A
+Tier 2: Freeware & Developer Open Source,GPL Ghostscript,Artifex Software / Corel,8.64,OPEN_SOURCE,NO,GNU General Public License (GPL),VERY_HIGH,VERIFIED,https://www.ghostscript.com/,N/A
+Tier 1: Commercial & Billable,WinZip,Corel / Alludo,77.0.16478,COMMERCIAL,YES,Commercial Proprietary License,VERY_HIGH,VERIFIED,https://www.winzip.com/en/company/legal/eula/,N/A
+Tier 1: Commercial & Billable,CrowdStrike Falcon,"CrowdStrike, Inc.",7.10.18083.0; 7.14.18456.0; 7.15.18513.0; 7.35.20865.0; 7.37.20907.0,COMMERCIAL,YES,Commercial Enterprise Subscription,VERY_HIGH,VERIFIED,https://www.crowdstrike.com/terms-of-service/,N/A
+Tier 3: OS & System Infrastructure,Dell Optimizer,Dell,1.0.0.0; 1.1.1.0; 1.2.6; 1.11.12.0; 6.0.2.0,OEM_OR_BUNDLED,NO,OEM Hardware Optimization Utility,VERY_HIGH,VERIFIED,https://www.dell.com/,N/A
+Tier 3: OS & System Infrastructure,Dell SupportAssist,Dell,5.0.1.0; 5.0.2.2900,OEM_OR_BUNDLED,NO,OEM driver/utility,HIGH,UNVERIFIED,,N/A
+Tier 3: OS & System Infrastructure,Dell SupportAssist OS Recovery Plugin for Dell Update,Dell,5.5.16.1,OEM_OR_BUNDLED,NO,OEM driver/utility,HIGH,UNVERIFIED,,N/A
+Tier 3: OS & System Infrastructure,Dell SupportAssist Remediation,Dell,5.5.12.0,OEM_OR_BUNDLED,NO,OEM driver/utility,HIGH,UNVERIFIED,,N/A
+Tier 2: Freeware & Developer Open Source,Robware RVTools,Robware,4.7.1,FREEWARE,NO,Freeware for VMware Environments,VERY_HIGH,VERIFIED,https://www.robware.net/rvtools/,N/A
+Tier 2: Freeware & Developer Open Source,Discord,Discord Inc.,1.0.9188,FREEWARE,NO,Freeware Application / Nitro Addon,VERY_HIGH,VERIFIED,https://discord.com/terms,N/A
+Tier 1: Commercial & Billable,Docker Desktop,Docker Inc.,4.21.1; 4.70.0; 4.74.0; 4.75.0,COMMERCIAL,CONTEXT_DEPENDENT,Standard Commercial,VERY_HIGH,VERIFIED,https://www.docker.com/legal/docker-software-end-user-license-agreement/,N/A
+Tier 2: Freeware & Developer Open Source,Dolby Access,Dolby Laboratories,N/A,FREEWARE,NO,Freeware Application,MEDIUM,MISSING,,N/A
+Tier 2: Freeware & Developer Open Source,Dolby Atmos Speaker System,Dolby Laboratories,3.30100.101.0,FREEWARE,NO,Freeware Application,MEDIUM,MISSING,,N/A
+Tier 2: Freeware & Developer Open Source,Dolby Audio,Dolby Laboratories,3.30201.210.0,FREEWARE,NO,Freeware Application,MEDIUM,MISSING,,N/A
+Tier 2: Freeware & Developer Open Source,Dolby Vision HDR,Dolby Laboratories,N/A,FREEWARE,NO,Freeware Application,MEDIUM,MISSING,,N/A
+Tier 2: Freeware & Developer Open Source,Dolby Vision Provisioning Utility,Dolby Laboratories,1.7.4.4; 2.0.0.2,FREEWARE,NO,Freeware Application,MEDIUM,MISSING,,N/A
+Tier 1: Commercial & Billable,Dropbox,Dropbox,23.4.38.0,FREE_AND_PAID,CONTEXT_DEPENDENT,Freemium / Named User Subscription,VERY_HIGH,VERIFIED,https://www.dropbox.com/plans,N/A
+Tier 1: Commercial & Billable,DTS Sound Unbound,"DTS, Inc.",2026.3.0.0,FREE_AND_PAID,CONTEXT_DEPENDENT,Freemium / In-App License Purchase,VERY_HIGH,VERIFIED,https://dts.com/sound-unbound/,N/A
+Tier 1: Commercial & Billable,UltraViewer,"DucFabulous Co., Ltd.",6.6.113; 6.6.124,FREE_AND_PAID,CONTEXT_DEPENDENT,Freemium (Free with usage limits / Paid Commercial Pro),VERY_HIGH,VERIFIED,https://www.ultraviewer.net/en/order.html,N/A
+Tier 1: Commercial & Billable,EaseUS MobiMover,EaseUS,N/A,COMMERCIAL,YES,Commercial Shareware / Pro License,VERY_HIGH,VERIFIED,https://www.easeus.com/phone-transfer/mobimover.html,N/A
+Tier 1: Commercial & Billable,Symbiosis Assessments,Edutest,1.0.12,COMMERCIAL,YES,Enterprise Proctored Examination License,VERY_HIGH,VERIFIED,https://edutest.com.au/,N/A
+Tier 2: Freeware & Developer Open Source,Epic Games Launcher,"Epic Games, Inc.",1.3.161.0; 1.3.176.0,FREEWARE,NO,Freeware Desktop Client / Storefront,VERY_HIGH,VERIFIED,https://store.epicgames.com/,N/A
+Tier 2: Freeware & Developer Open Source,Epic Online Services,"Epic Games, Inc.",4.1.0,FREEWARE,NO,Freeware Developer Runtime / Redistributable,VERY_HIGH,VERIFIED,https://dev.epicgames.com/services,N/A
+Tier 1: Commercial & Billable,Figma,Figma,126.2.10; 126.4.11,FREE_AND_PAID,CONTEXT_DEPENDENT,Freemium / Named User Subscription,VERY_HIGH,VERIFIED,https://www.figma.com/pricing/,N/A
+Tier 1: Commercial & Billable,Final Round AI,FinalRound AI,1.1.7,COMMERCIAL,YES,Commercial Named User AI Subscription,VERY_HIGH,VERIFIED,https://www.finalroundai.com/,N/A
+Tier 1: Commercial & Billable,FlexNet Inventory Agent,Flexera,25.00.1739,COMMERCIAL,YES,Enterprise Software Asset Management License,VERY_HIGH,VERIFIED,https://www.flexera.com/,N/A
+Tier 3: OS & System Infrastructure,GIGABYTE Control Center & Firmware Utilities,GIGABYTE,24.06.19.01; 25.07.21.01; 25.08.20.01; 25.09.16.01,OEM_OR_BUNDLED,NO,OEM driver/utility,VERY_HIGH,VERIFIED,https://www.gigabyte.com/,N/A
+Tier 2: Freeware & Developer Open Source,Git,The Git Development Community,2.50.1; 2.52.0; 2.53.0; 2.54.0; 2.55.0.3; 2.83.1; 3.3.19.0; 3.5.4; 3.7.1; 5.2.9.100,OPEN_SOURCE,NO,GNU General Public License v2.0 (GPL-2.0),VERY_HIGH,VERIFIED,https://git-scm.com/about/free-and-open-source,N/A
+Tier 2: Freeware & Developer Open Source,Android Studio,Google,2025.3; 2026.1,OPEN_SOURCE,NO,Apache License 2.0 / Free Developer Tool,VERY_HIGH,VERIFIED,https://developer.android.com/studio/terms,N/A
+Tier 1: Commercial & Billable,Antigravity,Google,1.20.5; 1.23.2; 2.0.1; 2.1.4,FREE_AND_PAID,CONTEXT_DEPENDENT,Freemium / Individual Free & Paid Commercial Subscriptions,VERY_HIGH,VERIFIED,https://deepmind.google/technologies/antigravity/,N/A
+Tier 1: Commercial & Billable,Antigravity IDE,Google,2.0.3,FREE_AND_PAID,CONTEXT_DEPENDENT,Freemium / Individual Free & Paid Commercial Subscriptions,VERY_HIGH,VERIFIED,https://deepmind.google/technologies/antigravity/,N/A
+Tier 2: Freeware & Developer Open Source,Google Chrome,Google,143.0.7499.193; 145.0.7632.117; 145.0.7632.160; 146.0.7680.165; 146.0.7680.178,FREEWARE,NO,Freeware Application,VERY_HIGH,VERIFIED,https://www.google.com/chrome/terms/,N/A
+Tier 2: Freeware & Developer Open Source,Go Programming Language,Google / Go Authors,1; 4.3.29.0; 4.3.94.0; 144.0.7547.0; 147.0.7703.0; 148.0.7730.0; 149.0.7814.0; 150.0.7863.0,OPEN_SOURCE,NO,Open Source Permissive (BSD-3-Clause),VERY_HIGH,VERIFIED,https://golang.org/LICENSE,N/A
+Tier 2: Freeware & Developer Open Source,Google Docs,Google,1,FREEWARE,NO,Free Web Productivity Suite (Personal) / Included with Google Workspace,VERY_HIGH,VERIFIED,https://workspace.google.com/products/docs/,N/A
+Tier 2: Freeware & Developer Open Source,Facebook,"Meta Platforms, Inc.",1,FREEWARE,NO,Ad-Supported Social Platform / Free Client,VERY_HIGH,VERIFIED,https://www.facebook.com/terms.php,N/A
+Tier 2: Freeware & Developer Open Source,Gmail,Google,1,FREEWARE,NO,Free Webmail Service (Personal) / Included with Google Workspace,VERY_HIGH,VERIFIED,https://workspace.google.com/products/gmail/,N/A
+Tier 3: OS & System Infrastructure,Microsoft Teams Meeting Add-in for Microsoft Office,Microsoft,1,COMMERCIAL_COMPONENT,NO,Parent Suite Entitlement / Component,HIGH,UNVERIFIED,,N/A
+Tier 2: Freeware & Developer Open Source,Google Sheets,Google,1,FREEWARE,NO,Free Cloud Spreadsheet (Personal) / Included with Google Workspace,VERY_HIGH,VERIFIED,https://workspace.google.com/products/sheets/,N/A
+Tier 2: Freeware & Developer Open Source,Google Slides,Google,1,FREEWARE,NO,Free Cloud Presentation (Personal) / Included with Google Workspace,VERY_HIGH,VERIFIED,https://workspace.google.com/products/slides/,N/A
+Tier 2: Freeware & Developer Open Source,YouTube,Google,1,FREEWARE,NO,Ad-Supported Web Media Platform / Free Client,VERY_HIGH,VERIFIED,https://www.youtube.com/t/terms,N/A
+Tier 1: Commercial & Billable,BigFix,HCLSoftware,9.1.1117.0; 11.0.2.125,COMMERCIAL,YES,Enterprise Endpoint Management Licensing,VERY_HIGH,VERIFIED,https://www.hcl-software.com/bigfix,N/A
+Tier 2: Freeware & Developer Open Source,Mem Reduct,Henry++,3.5.2,OPEN_SOURCE,NO,Open Source (GPL v3),VERY_HIGH,VERIFIED,https://github.com/henrypp/memreduct,N/A
+Tier 2: Freeware & Developer Open Source,PHP,PHP Group,8.2; 58.52629.10977.0,OPEN_SOURCE,NO,PHP License v3.01 (Open Source),VERY_HIGH,VERIFIED,https://www.php.net/license/,N/A
+Tier 3: OS & System Infrastructure,HP Support Assistant,HP,1.0.0.1; 1.6.1.0; 2.0.20.0; 3.2.24.0; 9.54.3.0; 1101.2607.3.0,OEM_OR_BUNDLED,NO,OEM Hardware Support Utility,VERY_HIGH,VERIFIED,https://www.hp.com/go/hpsupportassistant,N/A
+Tier 2: Freeware & Developer Open Source,HP Inc. Energy Star,HP,2.0.11.0,FREEWARE,NO,Freeware Application,MEDIUM,UNVERIFIED,,N/A
+Tier 2: Freeware & Developer Open Source,HP LaserJet Professional M1130-M1210 MFP Series,HP,1.3.0,FREEWARE,NO,Freeware Application,MEDIUM,UNVERIFIED,,N/A
+Tier 3: OS & System Infrastructure,HP PC Hardware Diagnostics Windows,HP,3.2.0.0,OEM_OR_BUNDLED,NO,OEM driver/utility,HIGH,UNVERIFIED,,N/A
+Tier 2: Freeware & Developer Open Source,HP Smart,HP,165.4.1108.0,FREEWARE,NO,Freeware Application,MEDIUM,UNVERIFIED,,N/A
+Tier 2: Freeware & Developer Open Source,Scan To,HP,2.0.1,FREEWARE,NO,Freeware Application,MEDIUM,UNVERIFIED,,N/A
+Tier 3: OS & System Infrastructure,HyperPKI Token Manager,Hypersecu Information Systems Inc,1.1.25.1219,OEM_OR_BUNDLED,NO,OEM driver/utility,VERY_HIGH,VERIFIED,https://hypersecu.com/,N/A
+Tier 1: Commercial & Billable,IBM License Metric Tool,IBM,9.2.33.0; 9.2.36.1,COMMERCIAL,YES,Enterprise Software Asset Management Licensing (Sub-Capacity),VERY_HIGH,VERIFIED,https://www.ibm.com/products/license-metric-tool,N/A
+Tier 2: Freeware & Developer Open Source,7-Zip,Igor Pavlov,22.01; 24.07; 25.01; 26,OPEN_SOURCE,NO,Open Source LGPL,VERY_HIGH,VERIFIED,https://www.7-zip.org/license.txt,N/A
+Tier 2: Freeware & Developer Open Source,Intel Arc Software,Intel Corporation,26.4.2155.0; 26.14.2306.0,FREEWARE,NO,Freeware Application,MEDIUM,UNVERIFIED,,N/A
+Tier 2: Freeware & Developer Open Source,Intel Connectivity Performance Suite,Intel Corporation,40.25.829.0,FREEWARE,NO,Freeware Application,MEDIUM,UNVERIFIED,,N/A
+Tier 2: Freeware & Developer Open Source,Intel Graphics Experience,Intel Corporation,1.100.5688.0,FREEWARE,NO,Freeware Application,MEDIUM,UNVERIFIED,,N/A
+Tier 2: Freeware & Developer Open Source,Intel(R) Chipset Device Software,Intel Corporation,10.1.18460.8229; 10.1.18800.8277,FREEWARE,NO,Freeware Application,HIGH,UNVERIFIED,,N/A
+Tier 3: OS & System Infrastructure,Intel(R) Processor Graphics,Intel Corporation,25.20.100.6576,OEM_OR_BUNDLED,NO,OEM driver/utility,HIGH,VERIFIED,https://www.intel.com/content/www/us/en/support.html,N/A
+Tier 2: Freeware & Developer Open Source,Intel Optane Memory and Storage Management,Intel Corporation,N/A,FREEWARE,NO,Freeware Application,MEDIUM,UNVERIFIED,,N/A
+Tier 2: Freeware & Developer Open Source,Thunderbolt Control Center,Intel Corporation,1.0.37.0,FREEWARE,NO,Freeware Application,MEDIUM,UNVERIFIED,,N/A
+Tier 1: Commercial & Billable,Ivanti Secure Access Client,Ivanti,22.7.1.28369; 22.7.28369,COMMERCIAL,YES,Enterprise Secure Access / VPN License,VERY_HIGH,VERIFIED,https://www.ivanti.com/,N/A
+Tier 1: Commercial & Billable,Hard Disk Sentinel PRO,Janos Mathe,6.4,COMMERCIAL,YES,Commercial Shareware / Perpetual License,VERY_HIGH,VERIFIED,https://www.hdsentinel.com/store.php,N/A
+Tier 1: Commercial & Billable,IntelliJ IDEA,JetBrains,261.22158.277,COMMERCIAL,YES,Commercial Named User / Subscription,MEDIUM,VERIFIED,https://www.jetbrains.com/idea/buy/,N/A
+Tier 2: Freeware & Developer Open Source,Inno Setup,jrsoftware.org,6.5.4; 6.7.1; 6.7.3,OPEN_SOURCE,NO,Inno Setup License (Modified BSD Style / Open Source),VERY_HIGH,VERIFIED,https://jrsoftware.org/files/is/license.txt,N/A
+Tier 1: Commercial & Billable,WPS Office,Kingsoft Corp.,12.1.0.25242; 12.1.0.26880; 12.2.0.23196,FREE_AND_PAID,CONTEXT_DEPENDENT,Freemium (Free Basic / WPS Pro Commercial Subscription),VERY_HIGH,VERIFIED,https://www.wps.com/pricing/,N/A
+Tier 3: OS & System Infrastructure,WPS Office Extension Module,Kingsoft Corp.,1.0.0.1,COMMERCIAL_COMPONENT,NO,Parent Suite Entitlement / Component,VERY_HIGH,VERIFIED,https://www.wps.com/,N/A
+Tier 2: Freeware & Developer Open Source,calibre,Kovid Goyal,6.22.0,OPEN_SOURCE,NO,GNU General Public License v3.0 (GPL-3.0),VERY_HIGH,VERIFIED,https://calibre-ebook.com/about#license,N/A
+Tier 3: OS & System Infrastructure,Lenovo Hotkeys,Lenovo,4.7.18.0,OEM_OR_BUNDLED,NO,OEM driver/utility,HIGH,UNVERIFIED,,N/A
+Tier 2: Freeware & Developer Open Source,Lenovo Commercial Vantage,Lenovo,N/A,FREEWARE,NO,Freeware Application,MEDIUM,UNVERIFIED,,N/A
+Tier 2: Freeware & Developer Open Source,Lenovo Now,Lenovo,4.3.0.87; 4.4.1.1; 4.5.0.24; 4.6.0.44; 4.7.0.48,FREEWARE,NO,Freeware Application,MEDIUM,UNVERIFIED,,N/A
+Tier 2: Freeware & Developer Open Source,Lenovo Quick Clean,Lenovo,1.02.0046,FREEWARE,NO,Freeware Application,MEDIUM,UNVERIFIED,,N/A
+Tier 2: Freeware & Developer Open Source,Lenovo Service Bridge,Lenovo,5.0.2.21,FREEWARE,NO,Freeware Application,MEDIUM,UNVERIFIED,,N/A
+Tier 2: Freeware & Developer Open Source,Lenovo System Update,Lenovo,5.08.03.59,FREEWARE,NO,Freeware Application,MEDIUM,UNVERIFIED,,N/A
+Tier 3: OS & System Infrastructure,Lenovo Vantage,Lenovo,10.2511.10.0; 10.2603.12.0,OEM_OR_BUNDLED,NO,OEM driver/utility,HIGH,UNVERIFIED,,N/A
+Tier 3: OS & System Infrastructure,Legion Arena,Lenovo,1.3.1.1,OEM_OR_BUNDLED,NO,Hardware Bundled Gaming Management Software,VERY_HIGH,VERIFIED,https://support.lenovo.com/,N/A
+Tier 2: Freeware & Developer Open Source,Lenovo Vantage Service,Lenovo Group Ltd.,4.2601.21.0; 4.2601.31.0; 5.1.2607.5,FREEWARE,NO,Freeware Application,HIGH,UNVERIFIED,,N/A
+Tier 2: Freeware & Developer Open Source,Lenovo Voice Service,Lenovo Group Ltd.,3.0.26.0,FREEWARE,NO,Freeware Application,HIGH,UNVERIFIED,,N/A
+Tier 2: Freeware & Developer Open Source,LinkedIn,LinkedIn,3.0.43.0,FREEWARE,NO,Freeware Desktop Client / Social Platform,VERY_HIGH,VERIFIED,https://www.linkedin.com/,N/A
+Tier 1: Commercial & Billable,Logi Tune,Logitech,3.13.138.0,FREE_AND_PAID,CONTEXT_DEPENDENT,Freemium / Named User Subscription,VERY_HIGH,VERIFIED,https://www.logitech.com/en-us/legal/software-terms.html,N/A
+Tier 3: OS & System Infrastructure,Logitech Options,Logitech,10.26.14,OEM_OR_BUNDLED,NO,Hardware Bundled Utility,VERY_HIGH,VERIFIED,https://www.logitech.com/en-us/legal/terms.html,N/A
+Tier 2: Freeware & Developer Open Source,Psiphon,Psiphon Inc.,3.167,OPEN_SOURCE,NO,GNU General Public License v3.0 (GPL-3.0),VERY_HIGH,VERIFIED,https://psiphon.ca/,N/A
+Tier 2: Freeware & Developer Open Source,GarageBand,Apple Inc.,10.4.8,FREEWARE,NO,Freeware Application,VERY_HIGH,VERIFIED,https://www.apple.com/legal/internet-services/itunes/dev/stdeula/,N/A
+Tier 2: Freeware & Developer Open Source,iMovie,Apple Inc.,10.3.6,FREEWARE,NO,Freeware Application,VERY_HIGH,VERIFIED,https://www.apple.com/legal/internet-services/itunes/dev/stdeula/,N/A
+Tier 2: Freeware & Developer Open Source,Keynote,Apple Inc.,13.1; 14.4,FREEWARE,NO,Freeware Application,VERY_HIGH,VERIFIED,https://www.apple.com/legal/internet-services/itunes/dev/stdeula/,N/A
+Tier 1: Commercial & Billable,Microsoft Excel,Microsoft,16.100.4; 16.105.3; 16.107,COMMERCIAL,YES,Standard Commercial / Named User Subscription,VERY_HIGH,VERIFIED,https://www.microsoft.com/microsoft-365/excel,N/A
+Tier 1: Commercial & Billable,Microsoft Outlook,Microsoft,16.100.4; 16.106.1,COMMERCIAL,YES,Standard Commercial / Named User Subscription,VERY_HIGH,VERIFIED,https://www.microsoft.com/microsoft-365/outlook,N/A
+Tier 1: Commercial & Billable,Microsoft PowerPoint,Microsoft,16.106.2; 16.107,COMMERCIAL,YES,Standard Commercial / Named User Subscription,VERY_HIGH,VERIFIED,https://www.microsoft.com/microsoft-365/powerpoint,N/A
+Tier 1: Commercial & Billable,Microsoft Word,Microsoft,16.105.3; 16.106.1; 16.107,COMMERCIAL,YES,Standard Commercial / Named User Subscription,VERY_HIGH,VERIFIED,https://www.microsoft.com/microsoft-365/word,N/A
+Tier 2: Freeware & Developer Open Source,Numbers,Apple Inc.,13.1; 14.4,FREEWARE,NO,Freeware Application,VERY_HIGH,VERIFIED,https://www.apple.com/legal/internet-services/itunes/dev/stdeula/,N/A
+Tier 2: Freeware & Developer Open Source,Pages,Apple Inc.,13.1; 14.4,FREEWARE,NO,Freeware Application,VERY_HIGH,VERIFIED,https://www.apple.com/legal/internet-services/itunes/dev/stdeula/,N/A
+Tier 1: Commercial & Billable,Slack,Slack Technologies / Salesforce,4.48.95,FREE_AND_PAID,CONTEXT_DEPENDENT,Freemium / Named User Subscription,VERY_HIGH,VERIFIED,https://slack.com/pricing,N/A
+Tier 2: Freeware & Developer Open Source,WhatsApp,"Meta Platforms, Inc.",2.2607.106.0; 2.2623.103.0; 25.17.82,FREEWARE,NO,Freeware Communication Client,VERY_HIGH,VERIFIED,https://www.whatsapp.com/legal/terms-of-service,N/A
+Tier 1: Commercial & Billable,ChatGPT,OpenAI,1.2026.118; 1.2026.160; 1.2026.184; 11.3.5; 26.616.10790.0; 26.721.81911; 26.825.6671.0,FREE_AND_PAID,CONTEXT_DEPENDENT,Freemium / Named User Subscription,VERY_HIGH,VERIFIED,https://openai.com/chatgpt/pricing/,N/A
+Tier 2: Freeware & Developer Open Source,Xcode,Apple Inc.,26.5,FREEWARE,NO,Freeware Developer Tool,VERY_HIGH,VERIFIED,https://developer.apple.com/support/terms/,N/A
+Tier 2: Freeware & Developer Open Source,McAfee Security Scan Plus,"McAfee, LLC",4.2.817.1,FREEWARE,NO,Freeware Application,MEDIUM,UNVERIFIED,,N/A
+Tier 2: Freeware & Developer Open Source,WebAdvisor by McAfee,"McAfee, LLC",4.1.1.1109; 4.1.1.1120; 4.1.1.1124,FREEWARE,NO,Free Web Safety Tool,VERY_HIGH,VERIFIED,https://www.mcafee.com/en-us/antivirus/free-antivirus/webadvisor.html,N/A
+Tier 2: Freeware & Developer Open Source,Azure Data Studio,Microsoft,1.41.1,OPEN_SOURCE,NO,Open Source (Source Code MIT) / Microsoft EULA (Binary),VERY_HIGH,VERIFIED,https://learn.microsoft.com/en-us/azure-data-studio/,N/A
+Tier 2: Freeware & Developer Open Source,Microsoft News,Microsoft,1.0.2.0; 4.55.62231.0; 4.56.21872.0; 4.56.242.0,FREEWARE,NO,Microsoft Store Free App,MEDIUM,VERIFIED,https://www.microsoft.com/en-us/servicesagreement,N/A
+Tier 2: Freeware & Developer Open Source,MSN Weather,Microsoft,4.54.63029.0; 4.54.63040.0; 4.54.63045.0,FREEWARE,NO,Microsoft Store Free App,MEDIUM,VERIFIED,https://www.microsoft.com/en-us/servicesagreement,N/A
+Tier 2: Freeware & Developer Open Source,SQL Server Browser Service,Microsoft,16.0.1000.6; 17.0.1000.7,FREEWARE,NO,Free Companion Utility,VERY_HIGH,VERIFIED,https://learn.microsoft.com/en-us/sql/database-engine/configure-windows/sql-server-browser-service-database-engine,N/A
+Tier 1: Commercial & Billable,Clipchamp,Microsoft Corporation,4.5.10220.0; 4.5.10620.0; 4.5.10720.0; 4.5.10920.0,FREE_AND_PAID,CONTEXT_DEPENDENT,Freemium / In-App Upgrade / Microsoft 365 Subscription,MEDIUM,VERIFIED,https://clipchamp.com/en/pricing,N/A
+Tier 1: Commercial & Billable,Copilot,Microsoft,1.25121.84.0; 146.0.3856.109; 147.0.3912.72; 147.0.3912.84; 148.0.3967.70,FREE_AND_PAID,CONTEXT_DEPENDENT,Freemium / In-App & M365 Subscription,HIGH,VERIFIED,https://learn.microsoft.com/en-us/windows/ai/overview,N/A
+Tier 3: OS & System Infrastructure,Cortana,Microsoft Windows,4.2308.1005.0,OS_BUNDLED,NO,Operating System Bundled Feature,MEDIUM,VERIFIED,https://learn.microsoft.com/en-us/windows/apps/inbox-apps,N/A
+Tier 2: Freeware & Developer Open Source,Dev Home,Microsoft,0.1700.597.0; 0.2101.858.0; 0.300.221.0,OPEN_SOURCE,NO,Open Source (MIT),MEDIUM,VERIFIED,https://github.com/microsoft/devhome/blob/main/LICENSE,N/A
+Tier 1: Commercial & Billable,Microsoft Visual Studio,Microsoft,1.11.1; 2.1.50924.1; 3.7.2182.35401; 3.12.2140.44225; 4.0.2113.32518; 4.3.2028.6109; 4.6.52.44637; 6.2.0.0; 6.5.0.0; 10.0.50903; 10.0.50908; 14.0.24215.20170201; 14.44.35211; 15.0.28307.421; 16.0.31110; 16.0.35907; 16.11.44; 16.11.48; 17.5.3; 17.5.318.41597; 17.14.12; 17.14.28; 18.3.2; 18.6.2; 18.7.2; 18.8.2,FREE_AND_PAID,CONTEXT_DEPENDENT,Named User Subscription / Perpetual,MEDIUM,VERIFIED,https://visualstudio.microsoft.com/license-terms/,N/A
+Tier 3: OS & System Infrastructure,Xbox Game Bar,Microsoft,1.54.4001.0; 7.326.2102.0; 7.326.6011.0; 7.326.7271.0,OS_BUNDLED,NO,Operating System Bundled Feature,MEDIUM,VERIFIED,https://support.xbox.com/en-US/help/games-apps/game-setup-and-play/get-to-know-game-bar-on-windows-10,N/A
+Tier 3: OS & System Infrastructure,Microsoft Get Help,Microsoft Windows,10.2409.33293.0; 10.2409.41392.0; 10.2409.42092.0,OS_BUNDLED,NO,Operating System Bundled Feature,MEDIUM,VERIFIED,https://support.microsoft.com/en-us/windows/get-help-with-windows-8b89e377-508b-4b1a-b6e9-b541d2f1f516,N/A
+Tier 3: OS & System Infrastructure,Windows Get Started (Tips),Microsoft Windows,10.2312.1.0,OS_BUNDLED,NO,Operating System Bundled Feature,MEDIUM,VERIFIED,https://learn.microsoft.com/en-us/windows/apps/inbox-apps,N/A
+Tier 2: Freeware & Developer Open Source,IIS Express,Microsoft,10.0.07510; 10.0.2001,FREEWARE,NO,Free Companion Developer Server,VERY_HIGH,VERIFIED,https://learn.microsoft.com/en-us/iis/extensions/introduction-to-iis-express/iis-express-overview,N/A
+Tier 2: Freeware & Developer Open Source,IIS URL Rewrite Module,Microsoft,7.2.1993,FREEWARE,NO,Redistributable System Component,MEDIUM,VERIFIED,https://learn.microsoft.com/en-us/windows/,N/A
+Tier 3: OS & System Infrastructure,SQL Server Integration Services (SSIS),Microsoft,16.0.5107.0; 16.0.5107.6,COMMERCIAL_COMPONENT,NO,Parent Suite Entitlement / Component,VERY_HIGH,VERIFIED,https://learn.microsoft.com/en-us/sql/integration-services/sql-server-integration-services,N/A
+Tier 1: Commercial & Billable,Microsoft 365 / Microsoft 365 Apps,Microsoft,16.0.19725.20190; 16.0.19822.20142; 16.0.19822.20182; 16.0.19929.20090; 16.0.19929.20172; 16.0.20026.20112; 16.0.20026.20140; 16.0.20026.20182; 16.0.20131.20090; 16.0.20228.20124; 16.0.20228.20158; 102.2602.23002.0,COMMERCIAL,YES,Named User Subscription,VERY_HIGH,VERIFIED,https://www.microsoft.com/licensing/terms/product/Microsoft365Apps/all,N/A
+Tier 3: OS & System Infrastructure,Microsoft 365 Companion Apps,Microsoft Corporation,2.2510.22000.0; 2.2510.30002.0; 2.2511.21001.0; 2.2512.31002.0; 2.2604.14001.0; 2.2604.28000.0; 2.2605.21000.0,COMMERCIAL_COMPONENT,NO,Service Entitlement / Companion Component,VERY_HIGH,VERIFIED,https://learn.microsoft.com/en-us/microsoft-365-apps/overview-companion-apps,N/A
+Tier 1: Commercial & Billable,Microsoft 365 (Office Hub),Microsoft,19.2603.48201.0; 19.2606.50021.0; 19.2606.55071.0; 19.2607.58021.0; 19.2607.61021.0,FREE_AND_PAID,CONTEXT_DEPENDENT,Freemium / In-App & M365 Subscription,HIGH,VERIFIED,https://www.microsoft.com/microsoft-365,N/A
+Tier 2: Freeware & Developer Open Source,Microsoft Analysis Services OLE DB Provider,Microsoft,15.0.2000.832; 16.0.5143.0,FREEWARE,NO,Free Client Connectivity Driver,VERY_HIGH,VERIFIED,https://learn.microsoft.com/en-us/analysis-services/client-libraries,N/A
+Tier 2: Freeware & Developer Open Source,Application Request Routing (ARR),Microsoft,3.0.05311,FREEWARE,NO,Free IIS Extension Module,VERY_HIGH,VERIFIED,https://learn.microsoft.com/en-us/iis/extensions/planning-for-arr/application-request-routing-version-2-overview,N/A
+Tier 2: Freeware & Developer Open Source,ASP.NET Core Shared Framework & Runtimes,Microsoft,6.0.15.23124; 7.0.4.23119; 8.0.12.24603; 12.2.18292.0; 17.0.22116.0; 80.32.52183,FREEWARE,NO,Redistributable System Component,VERY_HIGH,VERIFIED,https://dotnet.microsoft.com/,N/A
+Tier 1: Commercial & Billable,Microsoft SQL Server,Microsoft,9.00.3042.00; 11.0.2100.60; 11.4.7462.6; 13.0.1601.5; 13.0.3225.4; 13.0.14500.10; 13.0.16107.4; 13.0.16108.4; 13.2.5026.0; 15.0.1300.359; 15.0.2000.5; 15.0.4013.40; 15.0.4153.1; 16.0.1000.6; 17.0.1000.7,FREE_AND_PAID,YES,Per Core / Server + CAL,VERY_HIGH,VERIFIED,https://www.microsoft.com/licensing/terms/product/SQLServer/all,N/A
+Tier 3: OS & System Infrastructure,Microsoft Edge for Game Bar,Microsoft,1.0.3456.0; 1.0.3590.0; 1.0.4019.0; 140.0.3485.54; 143.0.3650.139; 146.0.3856.72; 146.0.3856.97,OS_BUNDLED,NO,Operating System Bundled Feature,HIGH,VERIFIED,https://support.microsoft.com/en-us/topic/microsoft-edge-game-assist,N/A
+Tier 2: Freeware & Developer Open Source,Microsoft Edge WebView2 Runtime,Microsoft,143.0.3650.139; 146.0.3856.97; 147.0.3912.72; 148.0.3967.70; 148.0.3967.83,FREEWARE,NO,Redistributable System Runtime,VERY_HIGH,VERIFIED,https://developer.microsoft.com/en-us/microsoft-edge/webview2/,N/A
+Tier 2: Freeware & Developer Open Source,Exchange Web Services Managed API,Microsoft,15.0.847.30,FREEWARE,NO,Free Client SDK,VERY_HIGH,VERIFIED,https://learn.microsoft.com/en-us/exchange/client-developer/exchange-web-services/get-started-with-ews-managed-api-client-applications,N/A
+Tier 1: Commercial & Billable,Microsoft Family Safety,Microsoft,0.2.40.0,FREE_AND_PAID,CONTEXT_DEPENDENT,Freemium / In-App & M365 Subscription,MEDIUM,VERIFIED,https://www.microsoft.com/en-us/microsoft-365/family-safety,N/A
+Tier 3: OS & System Infrastructure,Microsoft GameInput,Microsoft,3.3.221.0,OS_BUNDLED,NO,Operating System Internal Component,VERY_HIGH,VERIFIED,https://learn.microsoft.com/en-us/gaming/gdk/_content/gc/input/overviews/input-overview,N/A
+Tier 2: Freeware & Developer Open Source,Microsoft Help Viewer,Microsoft,2.3.28307,FREEWARE,NO,Free Documentation Viewer Utility,VERY_HIGH,VERIFIED,https://learn.microsoft.com/en-us/visualstudio/help-viewer/overview,N/A
+Tier 3: OS & System Infrastructure,Microsoft Intune Management Extension,Microsoft,1.95.103.0,COMMERCIAL_COMPONENT,NO,Parent Suite Entitlement / Component,VERY_HIGH,VERIFIED,https://learn.microsoft.com/en-us/mem/intune/,N/A
+Tier 1: Commercial & Billable,Microsoft Intune Company Portal,Microsoft,N/A,COMMERCIAL,YES,Microsoft Intune / Enterprise Mobility Subscription,VERY_HIGH,VERIFIED,https://learn.microsoft.com/en-us/mem/intune/,N/A
+Tier 2: Freeware & Developer Open Source,Microsoft Journal,Microsoft,1.0.127.0,FREEWARE,NO,Microsoft Store Free App,MEDIUM,VERIFIED,https://www.microsoft.com/en-us/garage/wall-of-fame/journal/,N/A
+Tier 2: Freeware & Developer Open Source,Microsoft ODBC Driver for SQL Server,Microsoft,13.2.5026.0; 17.10.3.1; 17.10.5.1; 17.10.6.1; 17.11.1.1; 18.5.1.1; 18.6.1.1,FREEWARE,NO,Free Client Connectivity Driver,VERY_HIGH,VERIFIED,https://learn.microsoft.com/en-us/sql/connect/odbc/download-odbc-driver-for-sql-server,N/A
+Tier 1: Commercial & Billable,Microsoft OneNote,Microsoft,16.0.19725.20190; 16.0.19822.20182; 16.0.19929.20172; 16.0.20026.20112; 16.0.20026.20140; 16.0.20026.20182; 16.0.20131.20090; 16.0.20228.20158; 16.106.2; 16.107,COMMERCIAL,YES,Named User Subscription,VERY_HIGH,VERIFIED,https://www.microsoft.com/microsoft-365/onenote,N/A
+Tier 2: Freeware & Developer Open Source,Microsoft OLE DB Driver for SQL Server,Microsoft,18.2.4.0; 18.6.5.0; 18.7.4.0; 18.7.5.0; 19.4.1.0,FREEWARE,NO,Free Client Connectivity Driver,VERY_HIGH,VERIFIED,https://learn.microsoft.com/en-us/sql/connect/oledb/download-oledb-driver-for-sql-server,N/A
+Tier 1: Commercial & Billable,Microsoft OneDrive,Microsoft,18.151.0729.0013; 26.012.0119; 26.032.0217; 26.040.0301.0001; 26.045.0308.0003; 26.055.0323.0004; 26.062.0402.0001,FREE_AND_PAID,CONTEXT_DEPENDENT,Freemium Client / Cloud Subscription,HIGH,VERIFIED,https://www.microsoft.com/microsoft-365/onedrive/online-cloud-storage,N/A
+Tier 3: OS & System Infrastructure,Microsoft OneDrive Sync Client,Microsoft,26045.308.3.0; 26055.323.4.0; 26062.402.1.0; 26078.426.2.0; 26084.504.7.0; 26088.510.4.0; 26095.519.3.0,COMMERCIAL_COMPONENT,NO,Freemium Client / Cloud Subscription,HIGH,VERIFIED,https://www.microsoft.com/microsoft-365/onedrive/online-cloud-storage,N/A
+Tier 3: OS & System Infrastructure,Microsoft SQL Server Setup Support Files,Microsoft,10.3.5500.0; 13.2.5026.0; 15.0.4013.40; 16.0.1000.6; 17.0.1115.1,COMMERCIAL_COMPONENT,NO,Setup Component,VERY_HIGH,VERIFIED,https://learn.microsoft.com/en-us/sql/database-engine/install-windows/install-sql-server,N/A
+Tier 2: Freeware & Developer Open Source,SQL Server Management Studio,Microsoft,19.0.20200.0; 19.1.56.0; 21.1.3; 22.2.1; 22.6.0,FREEWARE,NO,Freeware Management Client,VERY_HIGH,VERIFIED,https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms,N/A
+Tier 3: OS & System Infrastructure,Microsoft Sticky Notes,Microsoft,4.0.6104.0; 4.0.6105.0; 6.1.4.0,OS_BUNDLED,NO,Operating System Bundled Feature,MEDIUM,VERIFIED,https://support.microsoft.com/en-us/windows/see-your-sticky-notes-on-other-devices-and-the-web,N/A
+Tier 3: OS & System Infrastructure,Microsoft Store,Microsoft Windows,22602.1401.4.0; 22605.1401.13.0; 22606.1401.12.0,OS_BUNDLED,NO,Operating System Bundled Feature,MEDIUM,VERIFIED,https://support.microsoft.com/en-us/windows/microsoft-store,N/A
+Tier 1: Commercial & Billable,Microsoft Teams,Microsoft,1.25.28902; 1.26.02603; 1.26.08901; 1.26.11802; 1.26.16801; 24.26.1.1; 25.29.1.2; 25.43.1.1; 24215.1105.3082.1600; 25212.2101.3846.4105; 26015.1401.4272.1018; 26043.2016.4478; 26043.2109.4484.3337; 26106.2113.4690.1073; 26134.1702.4747.7366,COMMERCIAL,YES,Named User Subscription,HIGH,VERIFIED,https://www.microsoft.com/licensing/terms/product/MicrosoftTeams/all,N/A
+Tier 3: OS & System Infrastructure,Microsoft Teams VDI SlimCore,Microsoft,N/A,COMMERCIAL_COMPONENT,NO,Named User Subscription / VDI Host Component,MEDIUM,VERIFIED,https://www.microsoft.com/licensing/terms/product/MicrosoftTeams/all,N/A
+Tier 2: Freeware & Developer Open Source,Microsoft Visual C++ Redistributables,Microsoft,8.0.61001; 9.0.30729.6161; 10.0.40219; 11.0.61030; 12.0.40664; 14.0.33728.0; 14.44.35211; 14.50.35719; 14.51.36247.0,FREEWARE,NO,Free Runtime Component,VERY_HIGH,VERIFIED,https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist,N/A
+Tier 3: OS & System Infrastructure,Microsoft Visual Studio Installer,Microsoft,2.0.3; 3.13.2069.59209; 3.14.2075.50697; 4.0.2168.39045; 4.3.2029.11392; 4.6.58.48107,COMMERCIAL_COMPONENT,NO,Free Setup Utility,MEDIUM,VERIFIED,https://learn.microsoft.com/en-us/visualstudio/install/install-visual-studio,N/A
+Tier 2: Freeware & Developer Open Source,Visual Studio Code,Microsoft,1.0.112.0; 1.108.1; 1.109.0; 1.112.0; 1.113.0; 1.114.0; 1.116.0,OPEN_SOURCE,NO,Freeware Developer Tool (MIT Core),VERY_HIGH,VERIFIED,https://code.visualstudio.com/License,N/A
+Tier 3: OS & System Infrastructure,Microsoft VSS Writer for SQL Server,Microsoft,16.0.1000.6; 17.0.1000.7,COMMERCIAL_COMPONENT,NO,Free Companion Utility,VERY_HIGH,VERIFIED,https://learn.microsoft.com/en-us/sql/database-engine/configure-windows/sql-server-vss-writer-overview,N/A
+Tier 1: Commercial & Billable,Microsoft Whiteboard,Microsoft,53.20111.128.0; 56.20201.588.0,FREE_AND_PAID,CONTEXT_DEPENDENT,Freemium / In-App & M365 Subscription,MEDIUM,VERIFIED,https://www.microsoft.com/en-us/microsoft-365/microsoft-whiteboard/digital-whiteboard-app,N/A
+Tier 3: OS & System Infrastructure,Visual Studio Diagnostic & Debugger Component,Microsoft,17.0.118.0; 17.0.157.0; 17.0.33312; 17.5.33306,COMMERCIAL_COMPONENT,NO,Parent Suite Entitlement / Component,VERY_HIGH,VERIFIED,https://visualstudio.microsoft.com/,N/A
+Tier 2: Freeware & Developer Open Source,Microsoft .NET Framework & SDK Packs,Microsoft,4.0.30319; 4.6.00081; 4.7.03062; 4.8.03761; 4.8.03928; 4.8.09037; 4.8.09256; 24.0.28113; 48.63.56729; 80.32.52183,FREEWARE,NO,Free Developer SDK / Targeting Pack,VERY_HIGH,VERIFIED,https://dotnet.microsoft.com/download/dotnet-framework,N/A
+Tier 2: Freeware & Developer Open Source,.NET SDK,Microsoft,7.2.223.12804; 40.11.2206,OPEN_SOURCE,NO,Open Source (MIT),VERY_HIGH,VERIFIED,https://github.com/dotnet/sdk/blob/main/LICENSE.TXT,N/A
+Tier 3: OS & System Infrastructure,Office 16 Click-to-Run Component,Microsoft,16.0.13127.20616; 16.0.19822.20104; 16.0.19929.20032; 16.0.19929.20172; 16.0.20026.20076,COMMERCIAL_COMPONENT,NO,Parent Suite Entitlement / Component,VERY_HIGH,VERIFIED,https://learn.microsoft.com/en-us/deployoffice/overview,N/A
+Tier 1: Commercial & Billable,Outlook for Windows,Microsoft,1.2025.219.400; 1.2025.911.100; 1.2026.114.100; 1.2026.303.100; 1.2026.325.600; 1.2026.421.500; 1.2026.428.200; 1.2026.504.100; 1.2026.512.400; 1.2026.520.400; 1.2026.521.100; 1.2026.609.400; 1.2026.728.100,FREE_AND_PAID,CONTEXT_DEPENDENT,Subscription / Free Client,HIGH,VERIFIED,https://support.microsoft.com/en-us/office/outlook-for-windows-overview,N/A
+Tier 3: OS & System Infrastructure,Windows Paint,Microsoft Windows,6.2405.19017.0; 11.2601.401.0; 11.2603.251.0; 11.2605.71.0,OS_BUNDLED,NO,Operating System Bundled Feature,MEDIUM,VERIFIED,https://learn.microsoft.com/en-us/windows/apps/inbox-apps,N/A
+Tier 3: OS & System Infrastructure,Windows Photos,Microsoft Windows,2026.11020.20001; 2026.11050.1001.0; 2026.11060.2004.0,OS_BUNDLED,NO,Operating System Bundled Feature,MEDIUM,VERIFIED,https://learn.microsoft.com/en-us/windows/apps/inbox-apps,N/A
+Tier 1: Commercial & Billable,Power Automate for desktop,Microsoft,1.0.2107.0; 1.0.2117.0; 11.2602.145.0; 11.2606.217.0,FREE_AND_PAID,CONTEXT_DEPENDENT,Freemium / Named User Subscription,HIGH,VERIFIED,https://learn.microsoft.com/en-us/power-automate/desktop-flows/licensing,N/A
+Tier 2: Freeware & Developer Open Source,PowerShell 7,Microsoft,7.5.3.0,OPEN_SOURCE,NO,Open Source (MIT),VERY_HIGH,VERIFIED,https://github.com/PowerShell/PowerShell,N/A
+Tier 2: Freeware & Developer Open Source,Quick Assist,Microsoft,2.0.29.0; 2.0.35.0,FREEWARE,NO,Microsoft Store Free App,MEDIUM,VERIFIED,https://learn.microsoft.com/en-us/windows/client-management/quick-assist,N/A
+Tier 2: Freeware & Developer Open Source,Microsoft Remote Desktop,Microsoft,1.2.6228.0; 1.2.6597.0; 1.2.6930.0; 1.2.7046.0,FREEWARE,NO,Free Store Client App,VERY_HIGH,VERIFIED,https://apps.microsoft.com/detail/9wzdncrfj3ps,N/A
+Tier 3: OS & System Infrastructure,Snipping Tool,Microsoft Windows,11.2601.2.0; 11.2602.49.0,OS_BUNDLED,NO,Operating System Bundled Feature,MEDIUM,VERIFIED,https://learn.microsoft.com/en-us/windows/apps/inbox-apps,N/A
+Tier 3: OS & System Infrastructure,Windows Security,Microsoft Windows,1000.29510.1001.0; 1000.29554.1001.0; 1000.29573.1002.0; 1000.29628.1000.0,OS_BUNDLED,NO,Operating System Bundled Feature,MEDIUM,VERIFIED,https://support.microsoft.com/en-us/windows/stay-protected-with-windows-security,N/A
+Tier 1: Commercial & Billable,Microsoft To Do,Microsoft,0.176.7601.0; 2.173.6671.0; 2.176.7601.0,FREE_AND_PAID,CONTEXT_DEPENDENT,Freemium / In-App & M365 Subscription,MEDIUM,VERIFIED,https://to-do.office.com/,N/A
+Tier 2: Freeware & Developer Open Source,Windows Software Development Kit,Microsoft,10.1.19041.685; 10.1.22000.832; 10.1.26100.4188; 10.1.26100.7705; 10.1.26100.8249,FREEWARE,NO,Free Windows SDK / Header Libraries,VERY_HIGH,VERIFIED,https://developer.microsoft.com/en-us/windows/downloads/windows-sdk/,N/A
+Tier 3: OS & System Infrastructure,Windows Clock & Alarms,Microsoft Windows,1.1.85.0; 1.1.146.0; 11.2512.0.0,OS_BUNDLED,NO,Operating System Bundled Feature,MEDIUM,VERIFIED,https://learn.microsoft.com/en-us/windows/apps/inbox-apps,N/A
+Tier 3: OS & System Infrastructure,Windows Calculator,Microsoft Windows,11.2508.4.0; 11.2605.9.0; 11.2606.0.0,OS_BUNDLED,NO,Operating System Bundled Feature,MEDIUM,VERIFIED,https://learn.microsoft.com/en-us/windows/apps/inbox-apps,N/A
+Tier 3: OS & System Infrastructure,Windows Camera,Microsoft Windows,2025.2510.2.0; 2026.2605.7.0,OS_BUNDLED,NO,Operating System Bundled Feature,MEDIUM,VERIFIED,https://learn.microsoft.com/en-us/windows/apps/inbox-apps,N/A
+Tier 3: OS & System Infrastructure,Windows Feedback Hub,Microsoft Windows,1.2602.13304.0; 1.2603.26301.0; 2.2606.603.0; 2.2606.701.0; 2.2606.703.0,OS_BUNDLED,NO,Operating System Bundled Feature,MEDIUM,VERIFIED,https://learn.microsoft.com/en-us/windows-insider/feedback-hub,N/A
+Tier 3: OS & System Infrastructure,Windows Maps,Microsoft Windows,11.2506.3.0,OS_BUNDLED,NO,Operating System Bundled Feature,MEDIUM,VERIFIED,https://learn.microsoft.com/en-us/windows/apps/inbox-apps,N/A
+Tier 3: OS & System Infrastructure,Windows Notepad,Microsoft Windows,11.2512.26.0; 11.2604.5.0; 11.2605.34.0; 11.2606.15.0,OS_BUNDLED,NO,Operating System Bundled Feature,MEDIUM,VERIFIED,https://learn.microsoft.com/en-us/windows/apps/inbox-apps,N/A
+Tier 3: OS & System Infrastructure,Windows Sound Recorder,Microsoft Windows,1.1.86.0; 1.1.116.0; 1.1.119.0; 11.2512.0.0,OS_BUNDLED,NO,Operating System Bundled Feature,MEDIUM,VERIFIED,https://learn.microsoft.com/en-us/windows/apps/inbox-apps,N/A
+Tier 3: OS & System Infrastructure,Windows Subsystem for Linux (WSL),Microsoft,2.7.3.0,OS_BUNDLED,NO,Optional Windows Feature / Open Source Core,VERY_HIGH,VERIFIED,https://learn.microsoft.com/en-us/windows/wsl/about,N/A
+Tier 2: Freeware & Developer Open Source,Windows Terminal,Microsoft,1.23.20211.0; 1.24.10621.0; 1.24.11321.0; 1.24.11911.0,OPEN_SOURCE,NO,Open Source (MIT) / Inbox App,VERY_HIGH,VERIFIED,https://github.com/microsoft/terminal/blob/main/LICENSE,N/A
+Tier 3: OS & System Infrastructure,Mail and Calendar,Microsoft Windows,16005.14326.22342.0,OS_BUNDLED,NO,Operating System Bundled Feature,MEDIUM,VERIFIED,https://learn.microsoft.com/en-us/windows/apps/inbox-apps,N/A
+Tier 2: Freeware & Developer Open Source,Xbox app for Windows,Microsoft,2603.1001.17.0; 2606.1001.29.0; 2608.1001.17.0,FREEWARE,NO,Freeware Desktop Client (Optional Game Pass Subscription),MEDIUM,VERIFIED,https://www.xbox.com/en-US/apps/xbox-app-for-pc,N/A
+Tier 3: OS & System Infrastructure,Phone Link,Microsoft Windows,0.26042.99.0; 0.26062.145.0; 1.26012.101.0; 1.26042.99.0; 1.26052.144.0,OS_BUNDLED,NO,Operating System Bundled Feature,MEDIUM,VERIFIED,https://learn.microsoft.com/en-us/windows/apps/inbox-apps,N/A
+Tier 3: OS & System Infrastructure,Windows Media Player,Microsoft Windows,11.2601.11.0; 11.2604.10.0; 11.2605.14.0; 11.2606.19.0,OS_BUNDLED,NO,Operating System Bundled Feature,MEDIUM,VERIFIED,https://support.microsoft.com/en-us/windows/windows-media-player,N/A
+Tier 3: OS & System Infrastructure,Movies & TV,Microsoft Windows,10.26041.10031.0,OS_BUNDLED,NO,Operating System Bundled Feature,MEDIUM,VERIFIED,https://support.microsoft.com/en-us/windows/movies-and-tv,N/A
+Tier 2: Freeware & Developer Open Source,Adobe Acrobat Reader,Adobe,24.0.0.1; 26.0.0.1; 26.1.0.0,FREEWARE,NO,Freeware PDF Reader,VERY_HIGH,VERIFIED,https://www.adobe.com/acrobat/pdf-reader.html,N/A
+Tier 1: Commercial & Billable,Adobe Notification Client,Adobe,7.0.2.14,COMMERCIAL,YES,Standard Commercial,VERY_HIGH,VERIFIED,https://www.adobe.com/legal/terms.html,N/A
+Tier 1: Commercial & Billable,HEVC Video Extensions,Microsoft,N/A,COMMERCIAL,YES,Paid Store License / OEM Pre-licensed,MEDIUM,VERIFIED,https://apps.microsoft.com/detail/9n4wgh0z6vhq,N/A
+Tier 2: Freeware & Developer Open Source,Microsoft Edge,Microsoft,140.0.3485.54; 140.0.3485.66; 140.0.3485.81; 142.0.3595.94; 146.0.3856.97; 147.0.3912.72,FREEWARE,NO,Freeware Browser License,MEDIUM,VERIFIED,https://www.microsoft.com/en-us/legal/intellectualproperty/terms-of-use,N/A
+Tier 1: Commercial & Billable,Microsoft Solitaire Collection,Microsoft,4.25.3102.0; 4.25.4290.0; 4.25.7150.0; 4.26.7290.0,FREE_AND_PAID,CONTEXT_DEPENDENT,Freemium / In-App Upgrade,MEDIUM,VERIFIED,https://www.xbox.com/en-US/games/store/microsoft-solitaire-collection/9wzdncrfhwd2,N/A
+Tier 3: OS & System Infrastructure,Glance by Mirametrix,Mirametrix,11.43.256.0,OEM_OR_BUNDLED,NO,OEM Hardware Utility,VERY_HIGH,VERIFIED,https://help.mirametrix.com/,N/A
+Tier 3: OS & System Infrastructure,Realtek Audio Control,Realtek Semiconductor Corp,1.1.137.0; 1.51.328.0,OEM_OR_BUNDLED,NO,OEM driver/utility,HIGH,UNVERIFIED,,N/A
+Tier 3: OS & System Infrastructure,Synaptics Touchpad Driver,Synaptics,N/A,OEM_OR_BUNDLED,NO,OEM driver/utility,HIGH,UNVERIFIED,,N/A
+Tier 2: Freeware & Developer Open Source,Synaptics Control Panel,Synaptics,N/A,FREEWARE,NO,Freeware Application,MEDIUM,MISSING,,N/A
+Tier 2: Freeware & Developer Open Source,Wacom Device Component,Wacom,N/A,FREEWARE,NO,Freeware Application,MEDIUM,MISSING,,N/A
+Tier 3: OS & System Infrastructure,Waves MaxxAudio Pro for Dell,Dell,N/A,OEM_OR_BUNDLED,NO,OEM driver/utility,HIGH,UNVERIFIED,,N/A
+Tier 2: Freeware & Developer Open Source,MongoDB,"MongoDB, Inc.",1.49.0; 2.8.2; 8.2.6,OPEN_SOURCE,CONTEXT_DEPENDENT,Server Side Public License (SSPL) / Enterprise,VERY_HIGH,VERIFIED,https://www.mongodb.com/pricing,N/A
+Tier 2: Freeware & Developer Open Source,Mozilla Firefox,Mozilla,147,OPEN_SOURCE,NO,Mozilla Public License 2.0 (MPL 2.0),VERY_HIGH,VERIFIED,https://www.mozilla.org/MPL/2.0/,N/A
+Tier 2: Freeware & Developer Open Source,Mozilla Maintenance Service,Mozilla,147,OPEN_SOURCE,NO,Mozilla Public License 2.0 (MPL 2.0),VERY_HIGH,VERIFIED,https://www.mozilla.org/MPL/2.0/,N/A
+Tier 1: Commercial & Billable,Skyhigh Client Proxy,Skyhigh Security,5.0.0.1586,COMMERCIAL,YES,Commercial Enterprise Subscription,VERY_HIGH,VERIFIED,https://www.skyhighsecurity.com/en-us/about/legal.html,N/A
+Tier 1: Commercial & Billable,Naarad Collector Agent,Silver Leaf Solutions,1.0.0,COMMERCIAL,YES,Commercial Enterprise Agent,VERY_HIGH,VERIFIED,https://silverleafsolutions.com,N/A
+Tier 2: Freeware & Developer Open Source,PawnIO,namazso,2.1.0.0,OPEN_SOURCE,NO,GNU General Public License v3.0 (GPL-3.0),VERY_HIGH,VERIFIED,https://github.com/namazso/PawnIO,N/A
+Tier 2: Freeware & Developer Open Source,WiX Toolset,FireGiant,3.11.2.4516; 3.11.4516; 3.14.1.8722,OPEN_SOURCE,NO,Open Source (MS-RL / Apache 2.0),VERY_HIGH,VERIFIED,https://wixtoolset.org/,N/A
+Tier 1: Commercial & Billable,Netflix,"Netflix, Inc.",7.0.8.0,FREE_AND_PAID,CONTEXT_DEPENDENT,Consumer Streaming Subscription / Free Client App,VERY_HIGH,VERIFIED,https://www.netflix.com/,N/A
+Tier 1: Commercial & Billable,Netskope Client,Netskope,135.1.10.2611; 137.1.3.2663; 138.0.0.2698; 138.0.2.2681,COMMERCIAL,YES,Commercial Cloud Security Subscription,VERY_HIGH,VERIFIED,https://www.netskope.com/terms-of-service,N/A
+Tier 1: Commercial & Billable,ngrok,ngrok,3.39.8.0,FREE_AND_PAID,CONTEXT_DEPENDENT,Freemium / Named User Subscription,VERY_HIGH,VERIFIED,https://ngrok.com/pricing,N/A
+Tier 2: Freeware & Developer Open Source,Nmap Security Scanner,Nmap Project,7.97; 7.98,OPEN_SOURCE,NO,Nmap Public Source License (NPSL) / Open Source,VERY_HIGH,VERIFIED,https://nmap.org/book/man-legal.html,N/A
+Tier 1: Commercial & Billable,Npcap,Nmap Software LLC,1.79; 1.82; 1.83,COMMERCIAL,CONTEXT_DEPENDENT,Dual License (Free for up to 5 systems / Commercial OEM),VERY_HIGH,VERIFIED,https://npcap.com/license/,N/A
+Tier 2: Freeware & Developer Open Source,Node.js,OpenJS Foundation,3.25.1.27; 22.14.0; 22.17.1; 22.22.1; 24.11.1; 24.14.0,OPEN_SOURCE,NO,Open Source Permissive (MIT),VERY_HIGH,VERIFIED,https://github.com/nodejs/node/blob/main/LICENSE,N/A
+Tier 2: Freeware & Developer Open Source,Notepad++,Don Ho,8.4.8; 8.7.4; 8.7.5; 8.8.5; 8.9.2,OPEN_SOURCE,NO,Open Source Copyleft (GPL v3),VERY_HIGH,VERIFIED,https://notepad-plus-plus.org/repository/licence/,N/A
+Tier 1: Commercial & Billable,Notion,"Notion Labs, Inc.",7.6.1,FREE_AND_PAID,CONTEXT_DEPENDENT,Freemium / Named User Subscription,VERY_HIGH,VERIFIED,https://www.notion.so/pricing,N/A
+Tier 3: OS & System Infrastructure,NVIDIA Backend & Drivers,NVIDIA Corporation,39.3.0.0; 511.73; 555.99; 591.86,OEM_OR_BUNDLED,NO,OEM driver/utility,HIGH,VERIFIED,https://www.nvidia.com/en-us/drivers/,N/A
+Tier 3: OS & System Infrastructure,NVIDIA Container Infrastructure,NVIDIA Corporation,1.37,OEM_OR_BUNDLED,NO,OEM driver/utility,HIGH,VERIFIED,https://www.nvidia.com/en-us/drivers/,N/A
+Tier 2: Freeware & Developer Open Source,NVIDIA Control Panel,NVIDIA Corporation,8.1.969.0,FREEWARE,NO,Freeware Application,MEDIUM,VERIFIED,https://apps.microsoft.com/detail/9nf8h67978cm,N/A
+Tier 2: Freeware & Developer Open Source,NVIDIA GeForce Experience,NVIDIA Corporation,3.25.1.27,FREEWARE,NO,Freeware Application,MEDIUM,VERIFIED,https://www.nvidia.com/en-us/geforce/geforce-experience/,N/A
+Tier 2: Freeware & Developer Open Source,OpenSSL,OpenSSL Software Foundation,3.0.13; 3.4.0; 3.6.0; 3.6.1; 7.1,OPEN_SOURCE,NO,Apache License 2.0,VERY_HIGH,VERIFIED,https://www.openssl.org/source/license.html,N/A
+Tier 3: OS & System Infrastructure,NVIDIA PhysX System Software,NVIDIA Corporation,9.21.0713; 9.23.1019,OEM_OR_BUNDLED,NO,OEM driver/utility,HIGH,VERIFIED,https://www.nvidia.com/en-us/drivers/,N/A
+Tier 2: Freeware & Developer Open Source,OBS Studio,OBS Project,30.0.2,OPEN_SOURCE,NO,GNU General Public License v2.0 (GPL-2.0),VERY_HIGH,VERIFIED,https://github.com/obsproject/obs-studio/blob/master/COPYING,N/A
+Tier 2: Freeware & Developer Open Source,Ollama,Ollama,0.21.0; 0.30.10,OPEN_SOURCE,NO,MIT License,VERY_HIGH,VERIFIED,https://github.com/ollama/ollama/blob/main/LICENSE,N/A
+Tier 3: OS & System Infrastructure,VMware Horizon Client Component,VMware / Omnissa,8.7.0; 8.10.0; 8.13.0; 8.14.0; 15.0.0.0,COMMERCIAL_COMPONENT,NO,Bundled Component of VMware Horizon Client,VERY_HIGH,VERIFIED,https://docs.omnissa.com/,N/A
+Tier 1: Commercial & Billable,VMware Horizon Client,Omnissa,8.7.0.31805; 8.10.0.37628; 8.13.0.8174; 8.14.0.20607,COMMERCIAL,YES,Enterprise VDI Named / Concurrent User License,VERY_HIGH,VERIFIED,https://www.omnissa.com/,N/A
+Tier 1: Commercial & Billable,Workspace ONE Experience Management,Omnissa,24.12.0.4073,COMMERCIAL,YES,Enterprise Digital Employee Experience (DEX) Subscription,VERY_HIGH,VERIFIED,https://www.omnissa.com/workspace-one/,N/A
+Tier 2: Freeware & Developer Open Source,Opera Browser,Opera Software,126.0.5750.18; 129.0.5823.70; 130.0.5847.41; 131.0.5877.116,FREEWARE,NO,Freeware Web Browser,VERY_HIGH,VERIFIED,https://www.opera.com/terms,N/A
+Tier 1: Commercial & Billable,Oracle Java SE,Oracle,2.8.481.10; 8.0.4810.10; 17.0.12.0; 22.0.0.0; 25.0.2.0,COMMERCIAL,YES,Oracle Java SE Universal Subscription / OTN License,VERY_HIGH,VERIFIED,https://www.oracle.com/java/technologies/java-se-subscription.html,N/A
+Tier 2: Freeware & Developer Open Source,Oracle VirtualBox,Oracle,7.1.0; 7.2.4; 7.2.8; 7.2.10,OPEN_SOURCE,CONTEXT_DEPENDENT,GPL-2.0 (Base Free) / PUEL (Extension Pack Commercial License),VERY_HIGH,VERIFIED,https://www.virtualbox.org/wiki/Licensing_FAQ,N/A
+Tier 2: Freeware & Developer Open Source,ParakeetAI Extension Module,ParakeetAI,3.2.13; 3.2.39; 3.6.3; 3.6.8,FREEWARE,NO,Freeware Application / Extension,VERY_HIGH,VERIFIED,https://parakeet.ai/,N/A
+Tier 1: Commercial & Billable,Perplexity,Perplexity AI,1.1.3,FREE_AND_PAID,CONTEXT_DEPENDENT,Freemium / Named User Subscription,VERY_HIGH,VERIFIED,https://www.perplexity.ai/pro,N/A
+Tier 1: Commercial & Billable,CCleaner,Piriform Software,7.8.1355.1753,FREE_AND_PAID,CONTEXT_DEPENDENT,Freemium (Free for Home Use / CCleaner Business Required for Corporate),VERY_HIGH,VERIFIED,https://www.ccleaner.com/business,N/A
+Tier 2: Freeware & Developer Open Source,PostgreSQL,PostgreSQL Global Development Group,17.6-2; 17.7-2; 17.9-2; 18.3-1,OPEN_SOURCE,NO,PostgreSQL License (Permissive BSD-style),VERY_HIGH,VERIFIED,https://www.postgresql.org/about/licence/,N/A
+Tier 1: Commercial & Billable,Postman,Postman Inc.,11.80.0; 11.82.1,FREE_AND_PAID,CONTEXT_DEPENDENT,Freemium / Named User Subscription,VERY_HIGH,VERIFIED,https://www.postman.com/pricing/,N/A
+Tier 2: Freeware & Developer Open Source,Python,Python Software Foundation,3.10.7581.0; 3.10.11150.0; 3.11.9150.0; 3.12.3150.0; 3.12.4150.0; 3.12.10150.0; 3.13.1150.0; 3.13.5; 26.2.240.0,OPEN_SOURCE,NO,Python Software Foundation License (PSF),VERY_HIGH,VERIFIED,https://www.python.org/psf/license/,N/A
+Tier 3: OS & System Infrastructure,Realtek USB Ethernet Controller All-In-One Windows Driver,Realtek Semiconductor Corp,11.17.1029.2024; 11.17.20.1030,OEM_OR_BUNDLED,NO,OEM driver/utility,HIGH,UNVERIFIED,,N/A
+Tier 3: OS & System Infrastructure,Realtek Audio Driver,Realtek Semiconductor Corp,6.0.9835.1,OEM_OR_BUNDLED,NO,OEM driver/utility,HIGH,UNVERIFIED,,N/A
+Tier 2: Freeware & Developer Open Source,Realtek Card Reader,Realtek Semiconductor Corp,10.0.22631.31285,FREEWARE,NO,Freeware Application,MEDIUM,UNVERIFIED,,N/A
+Tier 2: Freeware & Developer Open Source,Realtek USB Audio,Realtek Semiconductor Corp,6.3.9600.50,FREEWARE,NO,Freeware Application,MEDIUM,UNVERIFIED,,N/A
+Tier 2: Freeware & Developer Open Source,JSON XML Editor,"Reverse Engineering Consultants, LLC",2.7.1,FREEWARE,NO,Freeware Developer Utility,VERY_HIGH,VERIFIED,https://apps.microsoft.com/,N/A
+Tier 3: OS & System Infrastructure,SAM Inventory Agent,Software Asset Management,1,COMMERCIAL_COMPONENT,NO,Enterprise Management Component,VERY_HIGH,VERIFIED,https://silverleafsolutions.com,N/A
+Tier 3: OS & System Infrastructure,ServiceNow MID Server,ServiceNow,1.3.0.0,COMMERCIAL_COMPONENT,NO,Enterprise Subscription Component,VERY_HIGH,VERIFIED,https://docs.servicenow.com/,N/A
+Tier 3: OS & System Infrastructure,Windows Driver- Silicon Laboratories (silabenm) Ports,Silicon Laboratories,03/19/2014 6.7.0.0,OEM_OR_BUNDLED,NO,OEM driver/utility,HIGH,UNVERIFIED,,N/A
+Tier 2: Freeware & Developer Open Source,PuTTY,Simon Tatham,0.80.0.0,OPEN_SOURCE,NO,Open Source (MIT),VERY_HIGH,VERIFIED,https://www.chiark.greenend.org.uk/~sgtatham/putty/licence.html,N/A
+Tier 1: Commercial & Billable,Snow Inventory Agent,Snow Software / Flexera,6.7.1; 7.2.0; 7.5.0,COMMERCIAL,YES,Enterprise Software Asset Management Subscription,VERY_HIGH,VERIFIED,https://www.snowsoftware.com/,N/A
+Tier 1: Commercial & Billable,Snow Inventory Server,Snow Software / Flexera,25.1.0,COMMERCIAL,YES,Enterprise Software Asset Management Server License,VERY_HIGH,VERIFIED,https://www.snowsoftware.com/,N/A
+Tier 1: Commercial & Billable,Sophos Connect,Sophos,2.3.3003.0207,COMMERCIAL,YES,Enterprise Firewall / VPN Subscription,VERY_HIGH,VERIFIED,https://www.sophos.com/,N/A
+Tier 1: Commercial & Billable,Spotify,Spotify AB,1.285.519.0; 1.292.148.0; 1.295.453.0,FREE_AND_PAID,CONTEXT_DEPENDENT,Freemium / Ad-Supported / User Subscription,VERY_HIGH,VERIFIED,https://www.spotify.com/us/premium/,N/A
+Tier 1: Commercial & Billable,Qurio Assessment Platform,TeamLease EdTech,3.3.57,COMMERCIAL,YES,Commercial Enterprise Proctored Assessment License,VERY_HIGH,VERIFIED,https://teamleaseedtech.com/qurio/,N/A
+Tier 1: Commercial & Billable,TeamViewer,TeamViewer,12.0.259192,FREE_AND_PAID,CONTEXT_DEPENDENT,Free for Personal Use / Business Subscription Required,VERY_HIGH,VERIFIED,https://www.teamviewer.com/en/pricing/,N/A
+Tier 1: Commercial & Billable,Tenable Nessus Agent,"Tenable, Inc.",10.8.4.20028,COMMERCIAL,YES,Commercial Vulnerability Management Subscription,VERY_HIGH,VERIFIED,https://www.tenable.com/legal/terms-of-service,N/A
+Tier 2: Freeware & Developer Open Source,FileZilla,Tim Kosse,3.65.0,OPEN_SOURCE,NO,GNU General Public License v2.0 (GPL-2.0),VERY_HIGH,VERIFIED,https://filezilla-project.org/license.php,N/A
+Tier 2: Freeware & Developer Open Source,USBPcap,Tomasz Mon,1.5.4.0,OPEN_SOURCE,NO,BSD-2-Clause / GPL v2 (Open Source Driver for Wireshark),VERY_HIGH,VERIFIED,https://github.com/desowin/usbpcap,N/A
+Tier 1: Commercial & Billable,Internet Download Manager,Tonec Inc.,6.42.61,COMMERCIAL,YES,Commercial Shareware / Perpetual or 1-Year License,VERY_HIGH,VERIFIED,https://www.internetdownloadmanager.com/purchase.html,N/A
+Tier 1: Commercial & Billable,Trellix Agent,Trellix,5.8.3.622; 5.8.5.495; 5.8.6.185; 10.7.12,COMMERCIAL,YES,Commercial Endpoint Subscription,VERY_HIGH,VERIFIED,https://www.trellix.com/en-us/about/legal.html,N/A
+Tier 3: OS & System Infrastructure,Trellix Data Exchange Layer (DXL),Trellix,6.0.3.1466; 6.0.3.1636; 6.0.3.1683; 6.0.31466.0; 6.0.31636.0,COMMERCIAL_COMPONENT,NO,Bundled Component of Trellix Agent,VERY_HIGH,VERIFIED,https://docs.trellix.com/,N/A
+Tier 1: Commercial & Billable,Trellix Endpoint Security,Trellix,4.2.2.5109; 5.5.0.267; 10.7.12; 10.7.20.13154; 10.7.20.13219; 10.7.20.14030; 10.7.20.14066; 10.7.20.16072; 11.11.2.1172; 11.14.0.4142; 50.2.0.644,COMMERCIAL,YES,Commercial Endpoint Security Subscription,VERY_HIGH,VERIFIED,https://www.trellix.com/en-us/about/legal.html,N/A
+Tier 1: Commercial & Billable,Trellix Endpoint Detection and Response,Trellix,4.2.2.5109,COMMERCIAL,YES,Commercial Enterprise Endpoint Security Subscription,VERY_HIGH,VERIFIED,https://www.trellix.com/products/endpoint-detection-and-response/,N/A
+Tier 3: OS & System Infrastructure,Trellix Endpoint Security Component,Trellix,1; 11.13.0,COMMERCIAL_COMPONENT,NO,Parent Suite Entitlement / Component,VERY_HIGH,VERIFIED,https://docs.trellix.com/,N/A
+Tier 3: OS & System Infrastructure,Gkbd Capplet,GNOME Foundation,3.26.1; 3.28.1,OS_BUNDLED,NO,Desktop Environment Component,VERY_HIGH,VERIFIED,https://gitlab.gnome.org/GNOME/libgnomekbd,N/A
+Tier 2: Freeware & Developer Open Source,ToffeeShare,Stofkat,N/A,FREEWARE,NO,Freeware PWA / File Sharing,VERY_HIGH,VERIFIED,https://toffeeshare.com/,N/A
+Tier 2: Freeware & Developer Open Source,Chess Fusion Free,Alienforce,N/A,FREEWARE,NO,Ad-Supported Freeware Game,VERY_HIGH,VERIFIED,https://apps.microsoft.com/,N/A
+Tier 2: Freeware & Developer Open Source,AnyScan,BetterApp,N/A,FREEWARE,NO,Freeware Application,VERY_HIGH,VERIFIED,https://apps.microsoft.com/,N/A
+Tier 2: Freeware & Developer Open Source,Torrent Downloader,BetterApp,N/A,FREEWARE,NO,Freeware Application,VERY_HIGH,VERIFIED,https://apps.microsoft.com/,N/A
+Tier 2: Freeware & Developer Open Source,Asphalt 9: Legends,Gameloft,N/A,FREEWARE,NO,Free-to-play Game / In-App Purchases,VERY_HIGH,VERIFIED,https://www.gameloft.com/game/asphalt-9-legends,N/A
+Tier 2: Freeware & Developer Open Source,Amazon Prime Video,Amazon,N/A,FREEWARE,NO,Freeware Application,MEDIUM,UNVERIFIED,,N/A
+Tier 2: Freeware & Developer Open Source,Chocolatey,Chocolatey Software,1.0.0; 1.0.1; 1.0.5; 1.4.0,OPEN_SOURCE,NO,Apache License 2.0 (Open Source),VERY_HIGH,VERIFIED,https://chocolatey.org/,N/A
+Tier 1: Commercial & Billable,EonVPN,EonVPN,2.2.0.0,FREE_AND_PAID,CONTEXT_DEPENDENT,Freemium / VPN Subscription,VERY_HIGH,VERIFIED,https://eonvpn.com/,N/A
+Tier 1: Commercial & Billable,f.lux,f.lux Software LLC,N/A,FREE_AND_PAID,CONTEXT_DEPENDENT,Free for Personal Use / Corporate Site License Required for Business,VERY_HIGH,VERIFIED,https://justgetflux.com/news/pages/license/,N/A
+Tier 2: Freeware & Developer Open Source,Hill Climb Racing,Fingersoft,N/A,FREEWARE,NO,Free-to-play Game / In-App Purchases,VERY_HIGH,VERIFIED,https://fingersoft.com/games/hill-climb-racing/,N/A
+Tier 1: Commercial & Billable,Microsoft Defender,Microsoft,101.24080.0001,COMMERCIAL,YES,Microsoft 365 / Defender for Endpoint Subscription,VERY_HIGH,VERIFIED,https://www.microsoft.com/microsoft-365/microsoft-defender-for-individuals,N/A
+Tier 3: OS & System Infrastructure,App Installer (WinGet),Microsoft,N/A,OS_BUNDLED,NO,Package Manager Infrastructure,VERY_HIGH,VERIFIED,https://learn.microsoft.com/en-us/windows/package-manager/winget/,N/A
+Tier 2: Freeware & Developer Open Source,PsychoPy,Open Science Tools Ltd,2024.1.5,OPEN_SOURCE,NO,GNU General Public License v3.0 (GPL-3.0),VERY_HIGH,VERIFIED,https://www.psychopy.org/,N/A
+Tier 2: Freeware & Developer Open Source,Runner,Open Source / Flutter,1.0.0,OPEN_SOURCE,NO,Open Source BSD-3-Clause / Developer Tool,VERY_HIGH,VERIFIED,https://flutter.dev/,N/A
+Tier 3: OS & System Infrastructure,Samsung Printer Experience,Samsung Electronics,N/A,OEM_OR_BUNDLED,NO,OEM driver/utility,VERY_HIGH,VERIFIED,https://support.hp.com/,N/A
+Tier 2: Freeware & Developer Open Source,Screen Recorder Launcher,Screen Recorder,2.19.1,FREEWARE,NO,Freeware Application,VERY_HIGH,VERIFIED,https://screenrecorder.app/,N/A
+Tier 1: Commercial & Billable,Stata / SE,StataCorp LLC,18.0.124,COMMERCIAL,YES,Commercial Statistical Software License (Per Seat / Lab),VERY_HIGH,VERIFIED,https://www.stata.com/order/,N/A
+Tier 2: Freeware & Developer Open Source,Tftpd64,Ph. Jounin,N/A,OPEN_SOURCE,NO,European Union Public Licence (EUPL) / Open Source,VERY_HIGH,VERIFIED,https://pjo2.github.io/tftpd64/,N/A
+Tier 2: Freeware & Developer Open Source,UTM Virtual Machines,"Turing Software, LLC",4.7.5,OPEN_SOURCE,NO,Apache License 2.0 (Open Source),VERY_HIGH,VERIFIED,https://mac.getutm.app/,N/A
+Tier 2: Freeware & Developer Open Source,VLC Media Player,VideoLAN,3.0.18; 3.0.21; 3.0.23,OPEN_SOURCE,NO,GNU General Public License (GPL),VERY_HIGH,VERIFIED,https://www.videolan.org/legal.html,N/A
+Tier 1: Commercial & Billable,VMware Workstation Player,VMware,17.5.1,FREE_AND_PAID,CONTEXT_DEPENDENT,Free for Personal Use / Commercial License Required for Business,VERY_HIGH,VERIFIED,https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion,N/A
+Tier 2: Freeware & Developer Open Source,Dell Active Pen Service,Wacom Technology Corp.,7.7.1.117,FREEWARE,NO,Freeware Application,MEDIUM,UNVERIFIED,,N/A
+Tier 1: Commercial & Billable,WinRAR,win.rar GmbH,6.23.0,COMMERCIAL,YES,Per User / Per PC License,VERY_HIGH,VERIFIED,https://www.rarlab.com/license.htm,N/A
+Tier 1: Commercial & Billable,ManageEngine Endpoint Central Agent,Zoho Corporation,11.3.2400.35.W,COMMERCIAL,YES,Commercial Endpoint Management Subscription,VERY_HIGH,VERIFIED,https://www.manageengine.com/products/desktop-central/pricing.html,N/A
+Tier 1: Commercial & Billable,Zoho Mail Desktop,Zoho Corporation,1.7.4,FREE_AND_PAID,CONTEXT_DEPENDENT,Freemium / Zoho Workplace Subscription,VERY_HIGH,VERIFIED,https://www.zoho.com/mail/desktop/,N/A
+Tier 1: Commercial & Billable,Zoom Workplace,Zoom Video Communications,5.16.10; 5.17.11; 6.2.3; 6.6.26970; 6.7.8,FREE_AND_PAID,CONTEXT_DEPENDENT,Freemium / Named User Subscription,VERY_HIGH,VERIFIED,https://zoom.us/pricing,N/A
+Tier 3: OS & System Infrastructure,Zoom Workplace Contact Center Host,Zoom Video Communications,6.2.3,COMMERCIAL_COMPONENT,NO,Bundled Component of Zoom Workplace,VERY_HIGH,VERIFIED,https://zoom.us/,N/A
+Tier 1: Commercial & Billable,Zscaler Client Connector,Zscaler,4.3.0.190,COMMERCIAL,YES,Enterprise SASE Named User Subscription,VERY_HIGH,VERIFIED,https://www.zscaler.com/pricing-and-plans,N/A

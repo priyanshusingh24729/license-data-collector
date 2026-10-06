@@ -1,0 +1,43 @@
+{
+  "package_id": "Microsoft.AppInstaller",
+  "package_name": "App Installer",
+  "publisher": "Microsoft Corporation",
+  "version": "1.29.290",
+  "license": "Commercial",
+  "license_url": null,
+  "installer_url": "https://github.com/microsoft/winget-cli/releases/download/v1.29.290/Microsoft.DesktopAppInstaller_8wekyb3d8bbwe.msixbundle",
+  "installer_sha256": "6824b6e9484ab24687d99a0c829d2bcbcc7849a70a4d0f596fc43c89d20dff15",
+  "installer_type": "msix",
+  "homepage": "https://github.com/microsoft/winget-cli",
+  "description": null,
+  "copyright": "Copyright (c) Microsoft Corporation. All rights reserved.",
+  "moniker": "winget",
+  "tags": [],
+  "raw_manifest": {
+    "general": {
+      "version": "1.29.290",
+      "publisher": "Microsoft Corporation",
+      "publisher_url": "https://www.microsoft.com",
+      "publisher_support_url": "https://github.com/microsoft/winget-cli/issues",
+      "author": "Microsoft",
+      "moniker": "winget",
+      "homepage": "https://github.com/microsoft/winget-cli",
+      "license": "Commercial",
+      "privacy_url": "https://privacy.microsoft.com",
+      "copyright": "Copyright (c) Microsoft Corporation. All rights reserved.",
+      "release_notes_url": "https://github.com/microsoft/winget-cli/releases/tag/v1.29.290",
+      "microsoft_learn": "https://learn.microsoft.com/en-us/windows/package-manager/"
+    },
+    "installer": {
+      "installer_type": "msix",
+      "installer_url": "https://github.com/microsoft/winget-cli/releases/download/v1.29.290/Microsoft.DesktopAppInstaller_8wekyb3d8bbwe.msixbundle",
+      "installer_sha256": "6824b6e9484ab24687d99a0c829d2bcbcc7849a70a4d0f596fc43c89d20dff15",
+      "release_date": "2026-08-24",
+      "offline_distribution_supported": "true",
+      "dependencies": ""
+    }
+  },
+  "confidence": "VERY_HIGH",
+  "provenance": "winget:Microsoft.AppInstaller",
+  "is_cached": false
+}

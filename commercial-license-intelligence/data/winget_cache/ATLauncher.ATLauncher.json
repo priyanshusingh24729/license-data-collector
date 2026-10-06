@@ -1,0 +1,41 @@
+{
+  "package_id": "ATLauncher.ATLauncher",
+  "package_name": "ATLauncher Setup",
+  "publisher": "ATLauncher",
+  "version": "1.3.0.0",
+  "license": "GNU GENERAL PUBLIC LICENSE",
+  "license_url": null,
+  "installer_url": "https://atlauncher.com/download/exe-setup",
+  "installer_sha256": "4ac8068c83e84b9c9c09dcad37120ed4041e72480c4e9a36543445dcb78432d2",
+  "installer_type": "inno",
+  "homepage": "https://atlauncher.com/about",
+  "description": "ATLauncher is a simple and easy to use Minecraft Launcher which contains hundreds of modpacks for you to choose from.",
+  "copyright": "\u00a9 2012-2021 ATLauncher",
+  "moniker": null,
+  "tags": [],
+  "raw_manifest": {
+    "general": {
+      "version": "1.3.0.0",
+      "publisher": "ATLauncher",
+      "publisher_url": "https://atlauncher.com/",
+      "publisher_support_url": "https://atlauncher.com/contact-us",
+      "author": "RyanTheAllmighty",
+      "description": "ATLauncher is a simple and easy to use Minecraft Launcher which contains hundreds of modpacks for you to choose from.",
+      "homepage": "https://atlauncher.com/about",
+      "license": "GNU GENERAL PUBLIC LICENSE",
+      "privacy_url": "https://atlauncher.com/privacy-policy",
+      "copyright": "\u00a9 2012-2021 ATLauncher",
+      "copyright_url": "https://atlauncher.com/"
+    },
+    "installer": {
+      "installer_type": "inno",
+      "installer_url": "https://atlauncher.com/download/exe-setup",
+      "installer_sha256": "4ac8068c83e84b9c9c09dcad37120ed4041e72480c4e9a36543445dcb78432d2",
+      "release_date": "2023-08-25",
+      "offline_distribution_supported": "true"
+    }
+  },
+  "confidence": "VERY_HIGH",
+  "provenance": "winget:ATLauncher.ATLauncher",
+  "is_cached": false
+}

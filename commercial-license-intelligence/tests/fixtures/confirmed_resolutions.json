@@ -1,0 +1,79 @@
+[
+  {
+    "signature_id": "Docs",
+    "matched_pattern": "docs",
+    "canonical_name": "Google Docs",
+    "vendor": "Google",
+    "expected_classification": "FREE_AND_PAID",
+    "expected_license_required": "YES",
+    "expected_tier": "Tier 1: Commercial & Billable",
+    "added_by": "auditor_system",
+    "added_date": "2026-09-04"
+  },
+  {
+    "signature_id": "Facebook",
+    "matched_pattern": "facebook",
+    "canonical_name": "Facebook",
+    "vendor": "Meta Platforms, Inc.",
+    "expected_classification": "FREEWARE",
+    "expected_license_required": "NO",
+    "expected_tier": "Tier 2: Freeware & Developer Open Source",
+    "added_by": "auditor_system",
+    "added_date": "2026-09-04"
+  },
+  {
+    "signature_id": "Adobe Acrobat Reader DC",
+    "matched_pattern": "adobe acrobat reader dc",
+    "canonical_name": "Adobe Acrobat Reader",
+    "vendor": "Adobe",
+    "expected_classification": "FREEWARE",
+    "expected_license_required": "NO",
+    "expected_tier": "Tier 2: Freeware & Developer Open Source",
+    "added_by": "auditor_system",
+    "added_date": "2026-09-04"
+  },
+  {
+    "signature_id": "Java 8 Update 481",
+    "matched_pattern": "java 8 update",
+    "canonical_name": "Oracle Java SE",
+    "vendor": "Oracle",
+    "expected_classification": "COMMERCIAL",
+    "expected_license_required": "YES",
+    "expected_tier": "Tier 1: Commercial & Billable",
+    "added_by": "auditor_system",
+    "added_date": "2026-09-04"
+  },
+  {
+    "signature_id": "Oracle VirtualBox",
+    "matched_pattern": "oracle virtualbox",
+    "canonical_name": "Oracle VirtualBox",
+    "vendor": "Oracle",
+    "expected_classification": "OPEN_SOURCE",
+    "expected_license_required": "YES",
+    "expected_tier": "Tier 2: Freeware & Developer Open Source",
+    "added_by": "auditor_system",
+    "added_date": "2026-09-04"
+  },
+  {
+    "signature_id": "CustomInhouseTool_270b9d",
+    "matched_pattern": "CustomInhouseTool_270b9d",
+    "canonical_name": "Enterprise Internal Tool Suite",
+    "vendor": "Acme Corporation",
+    "expected_classification": "FREEWARE",
+    "expected_license_required": "NO",
+    "expected_tier": "Tier 2: Freeware & Developer Open Source",
+    "added_by": "auditor_jane",
+    "added_date": "2026-09-03"
+  },
+  {
+    "signature_id": "CustomInhouseTool_406c43",
+    "matched_pattern": "CustomInhouseTool_406c43",
+    "canonical_name": "Enterprise Internal Tool Suite",
+    "vendor": "Acme Corporation",
+    "expected_classification": "FREEWARE",
+    "expected_license_required": "NO",
+    "expected_tier": "Tier 2: Freeware & Developer Open Source",
+    "added_by": "auditor_jane",
+    "added_date": "2026-09-03"
+  }
+]

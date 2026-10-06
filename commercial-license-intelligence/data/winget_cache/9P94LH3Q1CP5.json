@@ -1,0 +1,43 @@
+{
+  "package_id": "9P94LH3Q1CP5",
+  "package_name": "Adobe Express",
+  "publisher": "ADOBE INC.",
+  "version": "Unknown",
+  "license": "Terms & Conditions: Your use of this application is governed by the Adobe General Terms of Use (http://www.adobe.com/go/terms) and the Adobe Privacy Policy (http://www.adobe.com/go/privacy_policy) and any successor versions thereto.",
+  "license_url": null,
+  "installer_url": null,
+  "installer_sha256": null,
+  "installer_type": "msstore",
+  "homepage": null,
+  "description": null,
+  "copyright": "Copyright \u00a9 2023 Adobe. All rights reserved.",
+  "moniker": null,
+  "tags": [],
+  "raw_manifest": {
+    "general": {
+      "version": "Unknown",
+      "publisher": "ADOBE INC.",
+      "publisher_url": "https://www.adobe.com/express/",
+      "publisher_support_url": "https://helpx.adobe.com/support/express.html",
+      "submit_feature_requests_here": "adobeexpress.uservoice.com",
+      "license": "Terms & Conditions: Your use of this application is governed by the Adobe General Terms of Use (http://www.adobe.com/go/terms) and the Adobe Privacy Policy (http://www.adobe.com/go/privacy_policy) and any successor versions thereto.",
+      "do_not_sell_or_share_my_personal_information": "www.adobe.com/go/ca-rights",
+      "privacy_url": "https://www.adobe.com/privacy.html",
+      "copyright": "Copyright \u00a9 2023 Adobe. All rights reserved.",
+      "category": "Multimedia design",
+      "pricing": "Free",
+      "free_trial": "No",
+      "terms_of_transaction": "https://aka.ms/microsoft-store-terms-of-transaction",
+      "seizure_warning": "https://aka.ms/microsoft-store-seizure-warning",
+      "store_license_terms": "https://aka.ms/microsoft-store-license"
+    },
+    "installer": {
+      "installer_type": "msstore",
+      "store_product_id": "9P94LH3Q1CP5",
+      "offline_distribution_supported": "true"
+    }
+  },
+  "confidence": "VERY_HIGH",
+  "provenance": "winget:9P94LH3Q1CP5",
+  "is_cached": false
+}

@@ -1,0 +1,44 @@
+{
+  "package_id": "Microsoft.OneDrive",
+  "package_name": "Microsoft OneDrive",
+  "publisher": "Microsoft Corporation",
+  "version": "26.134.0713.0007",
+  "license": "Proprietary",
+  "license_url": "https://www.microsoft.com/legal/terms-of-use",
+  "installer_url": "https://oneclient.sfx.ms/Win/Installers/26.134.0713.0007/amd64/OneDriveSetup.exe",
+  "installer_sha256": "1b9aa2adacc8dfd26fb888c9ce5cb63806868166ea61bfe71be7a74760c361cc",
+  "installer_type": "exe",
+  "homepage": "https://www.microsoft.com/microsoft-365/onedrive/download",
+  "description": "Keep your files and memories protected, up to date, and easily accessible across all your devices.",
+  "copyright": "\u00a9 2026 Microsoft Corporation. All rights reserved.",
+  "moniker": "onedrive",
+  "tags": [],
+  "raw_manifest": {
+    "general": {
+      "version": "26.134.0713.0007",
+      "publisher": "Microsoft Corporation",
+      "publisher_url": "https://www.microsoft.com/",
+      "publisher_support_url": "https://support.microsoft.com/",
+      "author": "Microsoft Corporation",
+      "moniker": "onedrive",
+      "description": "Keep your files and memories protected, up to date, and easily accessible across all your devices.",
+      "homepage": "https://www.microsoft.com/microsoft-365/onedrive/download",
+      "license": "Proprietary",
+      "license_url": "https://www.microsoft.com/legal/terms-of-use",
+      "privacy_url": "https://privacy.microsoft.com/privacystatement",
+      "copyright": "\u00a9 2026 Microsoft Corporation. All rights reserved.",
+      "copyright_url": "https://www.microsoft.com/legal/intellectualproperty/trademarks",
+      "release_notes_url": "https://learn.microsoft.com/en-us/sharepoint/sync-release-notes?tabs=windows#2609505190003-june-5-2026"
+    },
+    "installer": {
+      "installer_type": "exe",
+      "installer_url": "https://oneclient.sfx.ms/Win/Installers/26.134.0713.0007/amd64/OneDriveSetup.exe",
+      "installer_sha256": "1b9aa2adacc8dfd26fb888c9ce5cb63806868166ea61bfe71be7a74760c361cc",
+      "release_date": "2026-08-10",
+      "offline_distribution_supported": "true"
+    }
+  },
+  "confidence": "VERY_HIGH",
+  "provenance": "winget:Microsoft.OneDrive",
+  "is_cached": false
+}

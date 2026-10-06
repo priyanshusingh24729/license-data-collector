@@ -1,0 +1,41 @@
+{
+  "package_id": "9P6PMZTM93LR",
+  "package_name": "Microsoft Defender",
+  "publisher": "Microsoft Corporation",
+  "version": "Unknown",
+  "license": "ms-windows-store://pdp/?ProductId=9P6PMZTM93LR",
+  "license_url": null,
+  "installer_url": null,
+  "installer_sha256": null,
+  "installer_type": "msstore",
+  "homepage": null,
+  "description": null,
+  "copyright": null,
+  "moniker": null,
+  "tags": [],
+  "raw_manifest": {
+    "general": {
+      "version": "Unknown",
+      "publisher": "Microsoft Corporation",
+      "publisher_url": "https://www.microsoft.com/en-us/microsoft-365/microsoft-defender-for-individuals",
+      "publisher_support_url": "https://support.microsoft.com/topic/eb516923-2224-4b5b-9bdc-b7b62321aae8",
+      "https": "//go.microsoft.com/fwlink/?linkid=2259814",
+      "license": "ms-windows-store://pdp/?ProductId=9P6PMZTM93LR",
+      "privacy_url": "https://go.microsoft.com/fwlink/?LinkId=521839",
+      "category": "Security",
+      "pricing": "Freemium",
+      "free_trial": "No",
+      "terms_of_transaction": "https://aka.ms/microsoft-store-terms-of-transaction",
+      "seizure_warning": "https://aka.ms/microsoft-store-seizure-warning",
+      "store_license_terms": "https://aka.ms/microsoft-store-license"
+    },
+    "installer": {
+      "installer_type": "msstore",
+      "store_product_id": "9P6PMZTM93LR",
+      "offline_distribution_supported": "true"
+    }
+  },
+  "confidence": "VERY_HIGH",
+  "provenance": "winget:9P6PMZTM93LR",
+  "is_cached": false
+}

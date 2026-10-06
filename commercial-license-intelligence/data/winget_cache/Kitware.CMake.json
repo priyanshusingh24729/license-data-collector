@@ -1,0 +1,44 @@
+{
+  "package_id": "Kitware.CMake",
+  "package_name": "CMake",
+  "publisher": "Kitware",
+  "version": "4.4.3",
+  "license": "BSD-3-Clause",
+  "license_url": "https://github.com/Kitware/CMake/blob/HEAD/LICENSE.rst",
+  "installer_url": "https://github.com/Kitware/CMake/releases/download/v4.4.3/cmake-4.4.3-windows-x86_64.msi",
+  "installer_sha256": "f3b27c83979727b73540db53dbe610967656b4631746a94b17a1dd0329dd7868",
+  "installer_type": "wix",
+  "homepage": "https://cmake.org/",
+  "description": null,
+  "copyright": "Copyright 2000-2025 Kitware, Inc. and Contributors",
+  "moniker": "cmake",
+  "tags": [],
+  "raw_manifest": {
+    "general": {
+      "version": "4.4.3",
+      "publisher": "Kitware",
+      "publisher_url": "https://www.kitware.com/",
+      "publisher_support_url": "https://www.kitware.com/contact-us",
+      "author": "Kitware",
+      "moniker": "cmake",
+      "homepage": "https://cmake.org/",
+      "license": "BSD-3-Clause",
+      "license_url": "https://github.com/Kitware/CMake/blob/HEAD/LICENSE.rst",
+      "privacy_url": "https://www.kitware.com/privacy/#privacy-policy",
+      "copyright": "Copyright 2000-2025 Kitware, Inc. and Contributors",
+      "copyright_url": "https://github.com/Kitware/CMake/blob/master/LICENSE.rst",
+      "release_notes_url": "https://github.com/Kitware/CMake/releases/tag/v4.4.3"
+    },
+    "installer": {
+      "installer_type": "wix",
+      "installer_locale": "en-US",
+      "installer_url": "https://github.com/Kitware/CMake/releases/download/v4.4.3/cmake-4.4.3-windows-x86_64.msi",
+      "installer_sha256": "f3b27c83979727b73540db53dbe610967656b4631746a94b17a1dd0329dd7868",
+      "release_date": "2026-08-25",
+      "offline_distribution_supported": "true"
+    }
+  },
+  "confidence": "VERY_HIGH",
+  "provenance": "winget:Kitware.CMake",
+  "is_cached": false
+}

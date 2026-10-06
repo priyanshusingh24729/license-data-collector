@@ -1,0 +1,40 @@
+{
+  "package_id": "9PLM9XGG6VKS",
+  "package_name": "ChatGPT",
+  "publisher": "OpenAI",
+  "version": "Unknown",
+  "license": "ms-windows-store://pdp/?ProductId=9PLM9XGG6VKS",
+  "license_url": null,
+  "installer_url": null,
+  "installer_sha256": null,
+  "installer_type": "msstore",
+  "homepage": null,
+  "description": null,
+  "copyright": null,
+  "moniker": null,
+  "tags": [],
+  "raw_manifest": {
+    "general": {
+      "version": "Unknown",
+      "publisher": "OpenAI",
+      "publisher_url": "https://openai.com/codex/",
+      "publisher_support_url": "mailto:support@openai.com",
+      "license": "ms-windows-store://pdp/?ProductId=9PLM9XGG6VKS",
+      "privacy_url": "https://openai.com/policies/privacy-policy/",
+      "category": "Developer tools",
+      "pricing": "Freemium",
+      "free_trial": "No",
+      "terms_of_transaction": "https://aka.ms/microsoft-store-terms-of-transaction",
+      "seizure_warning": "https://aka.ms/microsoft-store-seizure-warning",
+      "store_license_terms": "https://aka.ms/microsoft-store-license"
+    },
+    "installer": {
+      "installer_type": "msstore",
+      "store_product_id": "9PLM9XGG6VKS",
+      "offline_distribution_supported": "true"
+    }
+  },
+  "confidence": "VERY_HIGH",
+  "provenance": "winget:9PLM9XGG6VKS",
+  "is_cached": false
+}

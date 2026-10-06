@@ -1,0 +1,38 @@
+{
+  "package_id": "Microsoft.Edge",
+  "package_name": "Microsoft Edge",
+  "publisher": "Microsoft Corporation",
+  "version": "153.0.4234.32",
+  "license": "Proprietary",
+  "license_url": "https://www.microsoft.com/en-us/servicesagreement",
+  "installer_url": "https://download.microsoft.com/download/8b75facb-082f-4cb7-8662-2e5b6e2ca625/MicrosoftEdgeEnterpriseX64.msi",
+  "installer_sha256": "4388dc0c46b5ec98aebdf9b78a07f2c70076164f322e20228dc7de366d60a385",
+  "installer_type": "msi",
+  "homepage": "https://www.microsoft.com/en-us/edge",
+  "description": null,
+  "copyright": "Copyright (C) Microsoft Corporation",
+  "moniker": null,
+  "tags": [],
+  "raw_manifest": {
+    "general": {
+      "version": "153.0.4234.32",
+      "publisher": "Microsoft Corporation",
+      "author": "Microsoft",
+      "homepage": "https://www.microsoft.com/en-us/edge",
+      "license": "Proprietary",
+      "license_url": "https://www.microsoft.com/en-us/servicesagreement",
+      "copyright": "Copyright (C) Microsoft Corporation",
+      "copyright_url": "https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks"
+    },
+    "installer": {
+      "installer_type": "msi",
+      "installer_locale": "en-US",
+      "installer_url": "https://download.microsoft.com/download/8b75facb-082f-4cb7-8662-2e5b6e2ca625/MicrosoftEdgeEnterpriseX64.msi",
+      "installer_sha256": "4388dc0c46b5ec98aebdf9b78a07f2c70076164f322e20228dc7de366d60a385",
+      "offline_distribution_supported": "true"
+    }
+  },
+  "confidence": "VERY_HIGH",
+  "provenance": "winget:Microsoft.Edge",
+  "is_cached": false
+}

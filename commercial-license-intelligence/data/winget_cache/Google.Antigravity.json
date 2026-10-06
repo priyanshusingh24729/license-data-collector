@@ -1,0 +1,43 @@
+{
+  "package_id": "Google.Antigravity",
+  "package_name": "Antigravity",
+  "publisher": "Google",
+  "version": "2.13.0",
+  "license": "Proprietary",
+  "license_url": "https://antigravity.google/terms",
+  "installer_url": "https://storage.googleapis.com/antigravity-public/antigravity-hub/2.13.0-6362815968182272/windows-x64/Antigravity-x64.exe",
+  "installer_sha256": "417d8965b8e0a4134fe30c8c18e05158ca07503a348f300d3fe4257e34dd3b38",
+  "installer_type": "nullsoft",
+  "homepage": "https://antigravity.google/",
+  "description": null,
+  "copyright": null,
+  "moniker": null,
+  "tags": [],
+  "raw_manifest": {
+    "general": {
+      "version": "2.13.0",
+      "publisher": "Google",
+      "publisher_url": "https://www.google.com/",
+      "publisher_support_url": "https://antigravity.google/support",
+      "author": "Google LLC",
+      "homepage": "https://antigravity.google/",
+      "license": "Proprietary",
+      "license_url": "https://antigravity.google/terms",
+      "privacy_url": "https://policies.google.com/privacy",
+      "copyright_url": "https://antigravity.google/terms",
+      "release_notes_url": "https://antigravity.google/changelog",
+      "purchase_url": "https://antigravity.google/pricing",
+      "docs": "https://antigravity.google/docs"
+    },
+    "installer": {
+      "installer_type": "nullsoft",
+      "installer_url": "https://storage.googleapis.com/antigravity-public/antigravity-hub/2.13.0-6362815968182272/windows-x64/Antigravity-x64.exe",
+      "installer_sha256": "417d8965b8e0a4134fe30c8c18e05158ca07503a348f300d3fe4257e34dd3b38",
+      "release_date": "2026-09-10",
+      "offline_distribution_supported": "true"
+    }
+  },
+  "confidence": "VERY_HIGH",
+  "provenance": "winget:Google.Antigravity",
+  "is_cached": false
+}

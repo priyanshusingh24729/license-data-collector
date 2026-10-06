@@ -1,0 +1,44 @@
+{
+  "package_id": "Docker.DockerDesktop",
+  "package_name": "Docker Desktop",
+  "publisher": "Docker Inc.",
+  "version": "4.91.0",
+  "license": "Proprietary",
+  "license_url": "https://www.docker.com/legal/docker-subscription-service-agreement",
+  "installer_url": "https://desktop.docker.com/win/main/amd64/239619/Docker%20Desktop%20Installer.exe",
+  "installer_sha256": "ac405b09942701770d581b173747fc1024cf0e6047cbe60f13d1df85437311ac",
+  "installer_type": "exe",
+  "homepage": "https://www.docker.com/products/docker-desktop",
+  "description": "Docker Desktop is an application for macOS and Windows machines for the building and sharing of containerized applications. Access Docker Desktop and follow the guided onboarding to build your first containerized application in minutes.",
+  "copyright": "\u00a9 2015-2026 Docker Inc. All rights reserved.",
+  "moniker": "docker",
+  "tags": [],
+  "raw_manifest": {
+    "general": {
+      "version": "4.91.0",
+      "publisher": "Docker Inc.",
+      "publisher_url": "https://www.docker.com/",
+      "publisher_support_url": "https://www.docker.com/support",
+      "author": "Docker Inc.",
+      "moniker": "docker",
+      "description": "Docker Desktop is an application for macOS and Windows machines for the building and sharing of containerized applications. Access Docker Desktop and follow the guided onboarding to build your first containerized application in minutes.",
+      "homepage": "https://www.docker.com/products/docker-desktop",
+      "license": "Proprietary",
+      "license_url": "https://www.docker.com/legal/docker-subscription-service-agreement",
+      "privacy_url": "https://www.docker.com/legal/privacy",
+      "copyright": "\u00a9 2015-2026 Docker Inc. All rights reserved.",
+      "copyright_url": "https://www.docker.com/legal/docker-subscription-service-agreement"
+    },
+    "installer": {
+      "installer_type": "exe",
+      "installer_locale": "en-US",
+      "installer_url": "https://desktop.docker.com/win/main/amd64/239619/Docker%20Desktop%20Installer.exe",
+      "installer_sha256": "ac405b09942701770d581b173747fc1024cf0e6047cbe60f13d1df85437311ac",
+      "release_date": "2026-09-12",
+      "offline_distribution_supported": "true"
+    }
+  },
+  "confidence": "VERY_HIGH",
+  "provenance": "winget:Docker.DockerDesktop",
+  "is_cached": false
+}

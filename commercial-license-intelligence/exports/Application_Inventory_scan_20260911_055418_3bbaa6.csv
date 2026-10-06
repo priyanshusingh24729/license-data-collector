@@ -1,0 +1,201 @@
+﻿App_ID,Name,OSType,Version,Normalized_Application,Created_At,Operating_System,Major_Version,Minor_Version,Patch_Version,NoLicenseRequired,IsEndOfLife,IsEndOfSupport,Metric,Classification,License Required,License Model
+1,Docker Desktop,0,4.87.0,Docker Desktop,2026-09-11 05:54:48,Windows,4,87,0,0,0,0,Users,COMMERCIAL,YES,Per User
+2,Microsoft SQL Server 2025 (64-bit),0,2025,Microsoft SQL Server,2026-09-11 05:54:48,Windows,2025,NULL,NULL,0,NULL,NULL,Processor Cores,FREE_AND_PAID,YES,Per Core / Server + CAL
+3,Microsoft 365 Apps for business - en-us,0,16.0.20326.20132,Microsoft 365 Apps for business - en-us,2026-09-11 05:54:48,Windows,16,0,20326,0,NULL,NULL,Users,COMMERCIAL,YES,Subscription
+4,Microsoft OneDrive,0,26.153.0809.0004,Microsoft OneDrive,2026-09-11 05:54:48,Windows,26,153,809,0,NULL,NULL,Users,FREE_AND_PAID,YES,Per User
+5,Microsoft OneNote - en-us,0,16.0.20326.20132,Microsoft OneNote - en-us,2026-09-11 05:54:48,Windows,16,0,20326,0,NULL,NULL,Users,COMMERCIAL,YES,Per User
+6,SQL Server 2025 Common Files,0,17.0.1000.7,SQL Server 2025 Common Files,2026-09-11 05:54:48,Windows,17,0,1000,0,NULL,NULL,Processor Cores,FREE_AND_PAID,YES,Per Core / Server + CAL
+7,Windows Subsystem for Linux,0,2.7.12.0,Windows Subsystem,2026-09-11 05:54:48,Windows,2,7,12,1,NULL,NULL,No License Required,FREE,NO,No License Required
+8,Microsoft Windows Desktop Runtime - 10.0.11 (x64),0,80.44.56884,Microsoft Windows Desktop Runtime - 10.0.11,2026-09-11 05:54:48,Windows,80,44,56884,1,NULL,NULL,No License Required,FREE,NO,No License Required
+9,Microsoft .NET Runtime - 10.0.11 (x64),0,80.44.56884,Microsoft .NET Runtime - 10.0.11,2026-09-11 05:54:48,Windows,80,44,56884,1,NULL,NULL,No License Required,FREE,NO,No License Required
+10,DiagnosticsHub_CollectionService,0,18.5.37003,DiagnosticsHub_CollectionService,2026-09-11 05:54:48,Windows,18,5,37003,1,NULL,NULL,No License Required,FREE,NO,No License Required
+11,Microsoft ODBC Driver 17 for SQL Server,0,17.10.6.1,Microsoft ODBC Driver for SQL Server,2026-09-11 05:54:48,Windows,17,10,6,1,NULL,NULL,No License Required,FREE,NO,No License Required
+12,SQL Server 2025 Connection Info,0,17.0.1000.7,SQL Server 2025 Connection Info,2026-09-11 05:54:48,Windows,17,0,1000,0,NULL,NULL,Processor Cores,FREE_AND_PAID,YES,Per Core / Server + CAL
+13,Microsoft.NET.Sdk.tvOS.Manifest-10.0.100 (x64),0,255.226.10301,Microsoft.NET.Sdk.tvOS.Manifest-10.0.100,2026-09-11 05:54:48,Windows,255,226,10301,1,NULL,NULL,No License Required,FREE,NO,No License Required
+14,Microsoft .NET Host FX Resolver - 10.0.11 (x64),0,80.44.56884,Microsoft .NET Host FX Resolver - 10.0.11,2026-09-11 05:54:48,Windows,80,44,56884,1,NULL,NULL,No License Required,FREE,NO,No License Required
+15,Microsoft Windows Application Compatibility Fix Database,0,NULL,Microsoft Windows Application Compatibility Fix Database,2026-09-11 05:54:48,Windows,NULL,NULL,NULL,1,NULL,NULL,No License Required,FREE,NO,No License Required
+16,SQL Server 2025 Batch Parser,0,17.0.1000.7,SQL Server 2025 Batch Parser,2026-09-11 05:54:48,Windows,17,0,1000,0,NULL,NULL,Processor Cores,FREE_AND_PAID,YES,Per Core / Server + CAL
+17,SQL Server 2025 DMF,0,17.0.1000.7,SQL Server 2025 DMF,2026-09-11 05:54:48,Windows,17,0,1000,0,NULL,NULL,Processor Cores,FREE_AND_PAID,YES,Per Core / Server + CAL
+18,Microsoft.NET.Workload.Emscripten.net8.Manifest-10.0.100 (x64),0,81.188.56884,Microsoft.NET.Workload.Emscripten.net8.Manifest-10.0.100,2026-09-11 05:54:48,Windows,81,188,56884,1,NULL,NULL,No License Required,FREE,NO,No License Required
+19,SQL Server 2025 Database Engine Services,0,17.0.1000.7,SQL Server 2025 Database Engine Services,2026-09-11 05:54:48,Windows,17,0,1000,0,NULL,NULL,Processor Cores,FREE_AND_PAID,YES,Per Core / Server + CAL
+20,vs_minshellx64msi,0,18.9.11915,vs_minshellx64msi,2026-09-11 05:54:48,Windows,18,9,11915,1,NULL,NULL,No License Required,FREE,NO,No License Required
+21,vs_minshellinteropx64msi,0,18.9.11915,vs_minshellinteropx64msi,2026-09-11 05:54:48,Windows,18,9,11915,1,NULL,NULL,No License Required,FREE,NO,No License Required
+22,Microsoft.NET.Workload.Mono.Toolchain.net8.Manifest-10.0.100 (x64),0,81.188.56884,Microsoft.NET.Workload.Mono.Toolchain.net8.Manifest-10.0.100,2026-09-11 05:54:48,Windows,81,188,56884,1,NULL,NULL,No License Required,FREE,NO,No License Required
+23,Microsoft.NET.Workload.Emscripten.net9.Manifest-10.0.100 (x64),0,81.188.56884,Microsoft.NET.Workload.Emscripten.net9.Manifest-10.0.100,2026-09-11 05:54:48,Windows,81,188,56884,1,NULL,NULL,No License Required,FREE,NO,No License Required
+24,Microsoft.NET.Sdk.macOS.Manifest-10.0.100 (x64),0,255.226.10301,Microsoft.NET.Sdk.macOS.Manifest-10.0.100,2026-09-11 05:54:48,Windows,255,226,10301,1,NULL,NULL,No License Required,FREE,NO,No License Required
+25,Go Programming Language amd64 go1.26.5,0,1.26.5,Go Programming Language go1.26.5,2026-09-11 05:54:48,Windows,1,26,5,1,NULL,NULL,No License Required,OPEN_SOURCE,NO,No License Required
+26,Microsoft.NET.Workload.Mono.Toolchain.net7.Manifest-10.0.100 (x64),0,81.188.56884,Microsoft.NET.Workload.Mono.Toolchain.net7.Manifest-10.0.100,2026-09-11 05:54:48,Windows,81,188,56884,1,NULL,NULL,No License Required,FREE,NO,No License Required
+27,Microsoft .NET Targeting Pack - 10.0.11 (x64),0,80.44.56884,Microsoft .NET Targeting Pack - 10.0.11,2026-09-11 05:54:48,Windows,80,44,56884,1,NULL,NULL,No License Required,FREE,NO,No License Required
+28,Microsoft .NET AppHost Pack - 10.0.11 (x64),0,80.44.56884,Microsoft .NET AppHost Pack - 10.0.11,2026-09-11 05:54:48,Windows,80,44,56884,1,NULL,NULL,No License Required,FREE,NO,No License Required
+29,SQL Server 2025 Shared Management Objects,0,17.0.1000.7,SQL Server 2025 Shared Management Objects,2026-09-11 05:54:48,Windows,17,0,1000,0,NULL,NULL,Processor Cores,FREE_AND_PAID,YES,Per Core / Server + CAL
+30,Microsoft.NET.Workload.Emscripten.Current.Manifest-10.0.100 (x64),0,81.188.56884,Microsoft.NET.Workload.Emscripten.Current.Manifest-10.0.100,2026-09-11 05:54:48,Windows,81,188,56884,1,NULL,NULL,No License Required,FREE,NO,No License Required
+31,Microsoft Visual Studio Installer,0,4.9.50.62957,Microsoft Visual Studio Installer,2026-09-11 05:54:48,Windows,4,9,50,1,NULL,NULL,No License Required,COMMERCIAL,NO,No License Required
+32,Microsoft Visual C++ 2022 X64 Additional Runtime - 14.51.36247,0,14.51.36247,Microsoft Visual C++ 2022 Additional Runtime -,2026-09-11 05:54:48,Windows,14,51,36247,1,NULL,NULL,No License Required,FREE,NO,No License Required
+33,Microsoft .NET Toolset 10.0.400 (x64),0,40.11.17119,Microsoft .NET Toolset 10.0.400,2026-09-11 05:54:48,Windows,40,11,17119,1,NULL,NULL,No License Required,FREE,NO,No License Required
+34,Microsoft .NET 10.0 Templates 10.0.400 x64,0,40.11.17119,Microsoft .NET 10.0 Templates 10.0.400,2026-09-11 05:54:48,Windows,40,11,17119,1,NULL,NULL,No License Required,FREE,NO,No License Required
+35,Microsoft ODBC Driver 18 for SQL Server,0,18.6.2.1,Microsoft ODBC Driver for SQL Server,2026-09-11 05:54:48,Windows,18,6,2,1,NULL,NULL,No License Required,FREE,NO,No License Required
+36,Microsoft ASP.NET Core Targeting Pack - 10.0.11 (x64),0,80.44.56884,Microsoft ASP.NET Core Targeting Pack - 10.0.11,2026-09-11 05:54:48,Windows,80,44,56884,1,NULL,NULL,No License Required,FREE,NO,No License Required
+37,Microsoft SQL Server 2025 Setup (English),0,17.0.1000.7,Microsoft SQL Server 2025 Setup (English),2026-09-11 05:54:48,Windows,17,0,1000,1,NULL,NULL,No License Required,COMMERCIAL,NO,No License Required
+38,Microsoft .NET SDK 10.0.400 (x64) from Visual Studio,0,40.11.17119,Microsoft .NET SDK 10.0.400 from Visual Studio,2026-09-11 05:54:48,Windows,40,11,17119,1,NULL,NULL,No License Required,OPEN_SOURCE,NO,No License Required
+39,Node.js,0,24.19.0,Node.js,2026-09-11 05:54:48,Windows,24,19,0,1,1,1,No License Required,OPEN_SOURCE,NO,No License Required
+40,Office 16 Click-to-Run Extensibility Component,0,16.0.20326.20072,Office Click-to-Run Extensibility Component,2026-09-11 05:54:48,Windows,16,0,20326,1,NULL,NULL,No License Required,COMMERCIAL,NO,No License Required
+41,Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.51.36247,0,14.51.36247,Microsoft Visual C++ 2022 Minimum Runtime -,2026-09-11 05:54:48,Windows,14,51,36247,1,NULL,NULL,No License Required,FREE,NO,No License Required
+42,SQL Server 2025 Shared Management Objects Extensions,0,17.0.1000.7,SQL Server 2025 Shared Management Objects Extensions,2026-09-11 05:54:48,Windows,17,0,1000,0,NULL,NULL,Processor Cores,FREE_AND_PAID,YES,Per Core / Server + CAL
+43,Microsoft OLE DB Driver for SQL Server,0,18.7.5.0,Microsoft OLE DB Driver for SQL Server,2026-09-11 05:54:48,Windows,18,7,5,1,NULL,NULL,No License Required,FREE,NO,No License Required
+44,SQL Server 2025 Database Engine Shared,0,17.0.1000.7,SQL Server 2025 Database Engine Shared,2026-09-11 05:54:48,Windows,17,0,1000,0,NULL,NULL,Processor Cores,FREE_AND_PAID,YES,Per Core / Server + CAL
+45,Intel(R) Chipset Device Software,0,10.1.18800.8277,Intel(R) Chipset Device Software,2026-09-11 05:54:48,Windows,10,1,18800,1,NULL,NULL,No License Required,FREE,NO,No License Required
+46,Microsoft .NET Standard Targeting Pack - 2.1.0 (x64),0,24.0.28113,Microsoft .NET Standard Targeting Pack - 2.1.0,2026-09-11 05:54:48,Windows,24,0,28113,1,1,1,No License Required,FREE,NO,No License Required
+47,Microsoft Teams Meeting Add-in for Microsoft Office,0,1.26.20101,Microsoft Teams Meeting Add-in for Microsoft Office,2026-09-11 05:54:48,Windows,1,26,20101,0,NULL,NULL,Users,COMMERCIAL,YES,Subscription
+48,Microsoft.NET.Workload.Emscripten.net6.Manifest-10.0.100 (x64),0,81.188.56884,Microsoft.NET.Workload.Emscripten.net6.Manifest-10.0.100,2026-09-11 05:54:48,Windows,81,188,56884,1,NULL,NULL,No License Required,FREE,NO,No License Required
+49,Microsoft OLE DB Driver 19 for SQL Server,0,19.4.1.0,Microsoft OLE DB Driver for SQL Server,2026-09-11 05:54:48,Windows,19,4,1,1,NULL,NULL,No License Required,FREE,NO,No License Required
+50,Microsoft .NET AppHost Pack - 10.0.11 (x64_arm64),0,80.44.56884,Microsoft .NET AppHost Pack - 10.0.11 (x64_arm64),2026-09-11 05:54:48,Windows,80,44,56884,1,NULL,NULL,No License Required,FREE,NO,No License Required
+51,Microsoft.NET.Workload.Mono.Toolchain.net9.Manifest-10.0.100 (x64),0,81.188.56884,Microsoft.NET.Workload.Mono.Toolchain.net9.Manifest-10.0.100,2026-09-11 05:54:48,Windows,81,188,56884,1,NULL,NULL,No License Required,FREE,NO,No License Required
+52,Microsoft.NET.Sdk.Maui.Manifest-10.0.100 (x64),0,10.0.20,Microsoft.NET.Sdk.Maui.Manifest-10.0.100,2026-09-11 05:54:48,Windows,10,0,20,1,NULL,NULL,No License Required,FREE,NO,No License Required
+53,SQL Server 2025 XEvent,0,17.0.1000.7,SQL Server 2025 XEvent,2026-09-11 05:54:48,Windows,17,0,1000,0,NULL,NULL,Processor Cores,FREE_AND_PAID,YES,Per Core / Server + CAL
+54,Lenovo Voice Service,0,3.0.26.0,Lenovo Voice Service,2026-09-11 05:54:48,Windows,3,0,26,1,NULL,NULL,No License Required,FREE,NO,No License Required
+55,Microsoft.NET.Workload.Mono.Toolchain.Current.Manifest-10.0.100 (x64),0,81.188.56884,Microsoft.NET.Workload.Mono.Toolchain.Current.Manifest-10.0.100,2026-09-11 05:54:48,Windows,81,188,56884,1,NULL,NULL,No License Required,FREE,NO,No License Required
+56,vs_communityx64msi,0,18.9.11921,vs_communityx64msi,2026-09-11 05:54:48,Windows,18,9,11921,1,NULL,NULL,No License Required,FREE,NO,No License Required
+57,Microsoft SQL Server 2025 RsFx Driver,0,17.0.1000.7,Microsoft SQL Server 2025 RsFx Driver,2026-09-11 05:54:48,Windows,17,0,1000,0,NULL,NULL,Processor Cores,FREE_AND_PAID,YES,Per Core / Server + CAL
+58,Microsoft ASP.NET Core Runtime - 10.0.11 (x64),0,80.44.56884,Microsoft ASP.NET Core Runtime - 10.0.11,2026-09-11 05:54:48,Windows,80,44,56884,1,NULL,NULL,No License Required,FREE,NO,No License Required
+59,Microsoft .NET Host - 10.0.11 (x64),0,80.44.56884,Microsoft .NET Host - 10.0.11,2026-09-11 05:54:48,Windows,80,44,56884,1,NULL,NULL,No License Required,FREE,NO,No License Required
+60,SQL Server 2025 SQL Diagnostics,0,17.0.1000.7,SQL Server 2025 SQL Diagnostics,2026-09-11 05:54:48,Windows,17,0,1000,0,NULL,NULL,Processor Cores,FREE_AND_PAID,YES,Per Core / Server + CAL
+61,Microsoft Windows Desktop Targeting Pack - 10.0.11 (x64),0,80.44.56884,Microsoft Windows Desktop Targeting Pack - 10.0.11,2026-09-11 05:54:48,Windows,80,44,56884,1,NULL,NULL,No License Required,FREE,NO,No License Required
+62,Microsoft.NET.Workload.Mono.Toolchain.net6.Manifest-10.0.100 (x64),0,81.188.56884,Microsoft.NET.Workload.Mono.Toolchain.net6.Manifest-10.0.100,2026-09-11 05:54:48,Windows,81,188,56884,1,NULL,NULL,No License Required,FREE,NO,No License Required
+63,Microsoft.NET.Sdk.Android.Manifest-10.0.100 (x64),0,36.1.69,Microsoft.NET.Sdk.Android.Manifest-10.0.100,2026-09-11 05:54:48,Windows,36,1,69,1,NULL,NULL,No License Required,FREE,NO,No License Required
+64,Microsoft.NET.Sdk.iOS.Manifest-10.0.100 (x64),0,255.226.10301,Microsoft.NET.Sdk.iOS.Manifest-10.0.100,2026-09-11 05:54:48,Windows,255,226,10301,1,NULL,NULL,No License Required,FREE,NO,No License Required
+65,Microsoft.NET.Sdk.MacCatalyst.Manifest-10.0.100 (x64),0,255.226.10301,Microsoft.NET.Sdk.MacCatalyst.Manifest-10.0.100,2026-09-11 05:54:48,Windows,255,226,10301,1,NULL,NULL,No License Required,FREE,NO,No License Required
+66,osquery,0,5.23.1,osquery,2026-09-11 05:54:48,Windows,5,23,1,1,NULL,NULL,No License Required,OPEN_SOURCE,NO,No License Required
+67,Microsoft.NET.Workload.Emscripten.net7.Manifest-10.0.100 (x64),0,81.188.56884,Microsoft.NET.Workload.Emscripten.net7.Manifest-10.0.100,2026-09-11 05:54:48,Windows,81,188,56884,1,NULL,NULL,No License Required,FREE,NO,No License Required
+68,Microsoft VSS Writer for SQL Server 2025,0,17.0.1000.7,Microsoft VSS Writer for SQL Server 2025,2026-09-11 05:54:48,Windows,17,0,1000,1,NULL,NULL,No License Required,COMMERCIAL,NO,No License Required
+69,SQL Server Management Studio 22,0,22.9.2,SQL Server Management Studio,2026-09-11 05:54:48,Windows,22,9,2,1,NULL,NULL,No License Required,FREE,NO,No License Required
+70,Adobe Creative Cloud,0,6.10.0.252.3,Adobe Creative Cloud,2026-09-11 05:54:48,Windows,6,10,0,0,NULL,NULL,Users,COMMERCIAL,YES,Per User
+71,Google Chrome,0,153.0.8010.36,Google Chrome,2026-09-11 05:54:48,Windows,153,0,8010,1,NULL,NULL,No License Required,FREE,NO,No License Required
+72,Copilot,0,153.0.4234.32,Copilot,2026-09-11 05:54:48,Windows,153,0,4234,0,NULL,NULL,Users,FREE_AND_PAID,YES,Subscription
+73,Microsoft Edge,0,152.0.4191.66,Microsoft Edge,2026-09-11 05:54:48,Windows,152,0,4191,1,NULL,NULL,No License Required,FREE,NO,No License Required
+74,Microsoft Edge WebView2 Runtime,0,152.0.4191.66,Microsoft Edge WebView2 Runtime,2026-09-11 05:54:48,Windows,152,0,4191,1,NULL,NULL,No License Required,FREE,NO,No License Required
+75,Lenovo Vantage Service,0,5.1.2608.14,Lenovo Vantage Service,2026-09-11 05:54:48,Windows,5,1,2608,1,NULL,NULL,No License Required,FREE,NO,No License Required
+76,Microsoft Visual C++ v14 Redistributable (x64) - 14.51.36247,0,14.51.36247.0,Microsoft Visual C++ v14 Redistributable - 14.51.36247,2026-09-11 05:54:48,Windows,14,51,36247,1,NULL,NULL,No License Required,FREE,NO,No License Required
+77,SilverLeaf Agent,0,1.0,SilverLeaf Agent,2026-09-11 05:54:48,Windows,1,0,NULL,1,NULL,NULL,No License Required,FREE,NO,No License Required
+78,vs_CoreEditorFonts,0,17.7.40001,vs_CoreEditorFonts,2026-09-11 05:54:48,Windows,17,7,40001,1,NULL,NULL,No License Required,FREE,NO,No License Required
+79,vs_FileTracker_Singleton,0,18.9.11915,vs_FileTracker_Singleton,2026-09-11 05:54:48,Windows,18,9,11915,1,NULL,NULL,No License Required,FREE,NO,No License Required
+80,vs_minshellsharedmsi,0,18.9.11921,vs_minshellsharedmsi,2026-09-11 05:54:48,Windows,18,9,11921,1,NULL,NULL,No License Required,FREE,NO,No License Required
+81,vs_minshellinteropsharedmsi,0,18.9.11915,vs_minshellinteropsharedmsi,2026-09-11 05:54:48,Windows,18,9,11915,1,NULL,NULL,No License Required,FREE,NO,No License Required
+82,vs_minshellmsires,0,18.9.11915,vs_minshellmsires,2026-09-11 05:54:48,Windows,18,9,11915,1,NULL,NULL,No License Required,FREE,NO,No License Required
+83,Microsoft Visual Studio Setup Configuration,0,4.8.41.48107,Microsoft Visual Studio Setup Configuration,2026-09-11 05:54:48,Windows,4,8,41,0,NULL,NULL,Users,FREE_AND_PAID,YES,Per User
+84,vs_githubprotocolhandlermsi,0,18.9.11915,vs_githubprotocolhandlermsi,2026-09-11 05:54:48,Windows,18,9,11915,1,NULL,NULL,No License Required,FREE,NO,No License Required
+85,Microsoft Visual Studio Setup WMI Provider,0,4.8.41.48107,Microsoft Visual Studio Setup WMI Provider,2026-09-11 05:54:48,Windows,4,8,41,0,NULL,NULL,Users,FREE_AND_PAID,YES,Per User
+86,vs_communitysharedmsi,0,18.9.11921,vs_communitysharedmsi,2026-09-11 05:54:48,Windows,18,9,11921,1,NULL,NULL,No License Required,FREE,NO,No License Required
+87,vs_communitymsires,0,18.9.11915,vs_communitymsires,2026-09-11 05:54:48,Windows,18,9,11915,1,NULL,NULL,No License Required,FREE,NO,No License Required
+88,vs_filehandler_x86,0,18.9.11921,vs_filehandler_x86,2026-09-11 05:54:48,Windows,18,9,11921,1,NULL,NULL,No License Required,FREE,NO,No License Required
+89,Browser for SQL Server 2025,0,17.0.1000.7,Browser for SQL Server 2025,2026-09-11 05:54:48,Windows,17,0,1000,1,NULL,NULL,No License Required,FREE,NO,No License Required
+90,vs_vswebprotocolselectormsi,0,18.9.11915,vs_vswebprotocolselectormsi,2026-09-11 05:54:48,Windows,18,9,11915,1,NULL,NULL,No License Required,FREE,NO,No License Required
+91,vs_ssmsprotocolselectormsi,0,18.9.11915,vs_ssmsprotocolselectormsi,2026-09-11 05:54:48,Windows,18,9,11915,1,NULL,NULL,No License Required,FREE,NO,No License Required
+92,Antigravity 2.11.0,0,2.11.0,Antigravity,2026-09-11 05:54:48,Windows,2,11,0,0,NULL,NULL,Users,FREE_AND_PAID,YES,Subscription
+93,Brave,0,152.1.94.121,Brave,2026-09-11 05:54:48,Windows,152,1,94,1,NULL,NULL,No License Required,OPEN_SOURCE,NO,No License Required
+94,Git,0,2.55.0.3,Git,2026-09-11 05:54:48,Windows,2,55,0,1,NULL,NULL,No License Required,OPEN_SOURCE,NO,No License Required
+95,IntelliJ IDEA 2026.2.1,0,262.9437.185,IntelliJ IDEA 2026.2.1,2026-09-11 05:54:48,Windows,262,9437,185,0,NULL,NULL,Users,COMMERCIAL,YES,Per User
+96,PHP 8.2,0,8.2.33,PHP 8.2,2026-09-11 05:54:48,Windows,8,2,33,1,NULL,NULL,No License Required,OPEN_SOURCE,NO,No License Required
+97,Python 3.14.7,0,3.14-64,Python 3.14.7,2026-09-11 05:54:48,Windows,3,14,64,1,0,0,No License Required,OPEN_SOURCE,NO,No License Required
+98,Zoom Workplace,0,7.1.5 (43453),Zoom Workplace,2026-09-11 05:54:48,Windows,7,1,5,0,NULL,NULL,Users,FREE_AND_PAID,YES,Per User
+99,Microsoft Visual Studio Code (User),0,1.134.0,Microsoft Visual Studio Code (User),2026-09-11 05:54:48,Windows,1,134,0,1,NULL,NULL,No License Required,OPEN_SOURCE,NO,No License Required
+100,Antigravity IDE (User),0,2.5.5,Antigravity IDE (User),2026-09-11 05:54:48,Windows,2,5,5,0,NULL,NULL,Users,FREE_AND_PAID,YES,Subscription
+101,F46D4000-FD22-4DB4-AC8E-4E1DDDE828FE,0,10.0.26100.1,F46D4000-FD22-4DB4-AC8E-4E1DDDE828FE,2026-09-11 05:54:48,Windows,10,0,26100,1,NULL,NULL,No License Required,FREE,NO,No License Required
+102,Microsoft.AAD.BrokerPlugin,0,1000.19580.1000.2,Microsoft.AAD.BrokerPlugin,2026-09-11 05:54:48,Windows,1000,19580,1000,1,NULL,NULL,No License Required,FREE,NO,No License Required
+103,Microsoft.AccountsControl,0,10.0.26100.1,Microsoft.AccountsControl,2026-09-11 05:54:48,Windows,10,0,26100,1,NULL,NULL,No License Required,FREE,NO,No License Required
+104,Microsoft.AsyncTextService,0,10.0.26100.1,Microsoft.AsyncTextService,2026-09-11 05:54:48,Windows,10,0,26100,1,NULL,NULL,No License Required,FREE,NO,No License Required
+105,Microsoft.BioEnrollment,0,10.0.19587.1000,Microsoft.BioEnrollment,2026-09-11 05:54:48,Windows,10,0,19587,1,NULL,NULL,No License Required,FREE,NO,No License Required
+106,Microsoft.CredDialogHost,0,10.0.19595.1001,Microsoft.CredDialogHost,2026-09-11 05:54:48,Windows,10,0,19595,1,NULL,NULL,No License Required,FREE,NO,No License Required
+107,Microsoft.MicrosoftEdgeDevToolsClient,0,1000.25128.1000.0,Microsoft.MicrosoftEdgeDevToolsClient,2026-09-11 05:54:48,Windows,1000,25128,1000,1,NULL,NULL,No License Required,COMMERCIAL,NO,No License Required
+108,Microsoft.Win32WebViewHost,0,10.0.26100.1,Microsoft.Win32WebViewHost,2026-09-11 05:54:48,Windows,10,0,26100,1,NULL,NULL,No License Required,FREE,NO,No License Required
+109,Microsoft.Windows.Apprep.ChxApp,0,1000.25128.1000.0,Microsoft.Windows.Apprep.ChxApp,2026-09-11 05:54:48,Windows,1000,25128,1000,1,NULL,NULL,No License Required,FREE,NO,No License Required
+110,Microsoft.Windows.AssignedAccessLockApp,0,1000.25128.1000.0,Microsoft.Windows.AssignedAccessLockApp,2026-09-11 05:54:48,Windows,1000,25128,1000,1,NULL,NULL,No License Required,FREE,NO,No License Required
+111,Microsoft.Windows.CapturePicker,0,10.0.19580.1000,Microsoft.Windows.CapturePicker,2026-09-11 05:54:48,Windows,10,0,19580,1,NULL,NULL,No License Required,FREE,NO,No License Required
+112,Microsoft.Windows.CloudExperienceHost,0,10.0.26100.1,Microsoft.Windows.CloudExperienceHost,2026-09-11 05:54:48,Windows,10,0,26100,1,NULL,NULL,No License Required,FREE,NO,No License Required
+113,Microsoft.Windows.ContentDeliveryManager,0,10.0.26100.1,Microsoft.Windows.ContentDeliveryManager,2026-09-11 05:54:48,Windows,10,0,26100,1,NULL,NULL,No License Required,FREE,NO,No License Required
+114,Microsoft.Windows.NarratorQuickStart,0,10.0.26100.1,Microsoft.Windows.NarratorQuickStart,2026-09-11 05:54:48,Windows,10,0,26100,1,NULL,NULL,No License Required,FREE,NO,No License Required
+115,Microsoft.Windows.OOBENetworkCaptivePortal,0,10.0.26569.1000,Microsoft.Windows.OOBENetworkCaptivePortal,2026-09-11 05:54:48,Windows,10,0,26569,1,NULL,NULL,No License Required,FREE,NO,No License Required
+116,Microsoft.Windows.OOBENetworkConnectionFlow,0,10.0.26569.1000,Microsoft.Windows.OOBENetworkConnectionFlow,2026-09-11 05:54:48,Windows,10,0,26569,1,NULL,NULL,No License Required,FREE,NO,No License Required
+117,Microsoft.Windows.ParentalControls,0,1000.25128.1000.0,Microsoft.Windows.ParentalControls,2026-09-11 05:54:48,Windows,1000,25128,1000,1,NULL,NULL,No License Required,FREE,NO,No License Required
+118,Microsoft.Windows.PeopleExperienceHost,0,10.0.26100.1,Microsoft.Windows.PeopleExperienceHost,2026-09-11 05:54:48,Windows,10,0,26100,1,NULL,NULL,No License Required,FREE,NO,No License Required
+119,Microsoft.Windows.PinningConfirmationDialog,0,1000.25140.1001.0,Microsoft.Windows.PinningConfirmationDialog,2026-09-11 05:54:48,Windows,1000,25140,1001,1,NULL,NULL,No License Required,FREE,NO,No License Required
+120,Microsoft.Windows.PrintQueueActionCenter,0,1.0.2.0,Microsoft.Windows.PrintQueueActionCenter,2026-09-11 05:54:48,Windows,1,0,2,1,NULL,NULL,No License Required,FREE,NO,No License Required
+121,Microsoft.Windows.SecureAssessmentBrowser,0,10.0.26100.1,Microsoft.Windows.SecureAssessmentBrowser,2026-09-11 05:54:48,Windows,10,0,26100,1,NULL,NULL,No License Required,FREE,NO,No License Required
+122,Microsoft.Windows.ShellExperienceHost,0,10.0.26100.8115,Microsoft.Windows.ShellExperienceHost,2026-09-11 05:54:48,Windows,10,0,26100,1,NULL,NULL,No License Required,FREE,NO,No License Required
+123,Microsoft.Windows.StartMenuExperienceHost,0,10.0.26100.4768,Microsoft.Windows.StartMenuExperienceHost,2026-09-11 05:54:48,Windows,10,0,26100,1,NULL,NULL,No License Required,FREE,NO,No License Required
+124,Microsoft.Windows.XGpuEjectDialog,0,10.0.26100.1,Microsoft.Windows.XGpuEjectDialog,2026-09-11 05:54:48,Windows,10,0,26100,1,NULL,NULL,No License Required,FREE,NO,No License Required
+125,Microsoft.XboxGameCallableUI,0,1000.25128.1000.0,Microsoft.XboxGameCallableUI,2026-09-11 05:54:48,Windows,1000,25128,1000,1,NULL,NULL,No License Required,FREE,NO,No License Required
+126,MicrosoftWindows.Client.Photon,0,1000.26100.10.0,MicrosoftWindows.Client.Photon,2026-09-11 05:54:48,Windows,1000,26100,10,1,NULL,NULL,No License Required,FREE,NO,No License Required
+127,MicrosoftWindows.UndockedDevKit,0,10.0.26100.1,MicrosoftWindows.UndockedDevKit,2026-09-11 05:54:48,Windows,10,0,26100,1,NULL,NULL,No License Required,FREE,NO,No License Required
+128,Windows.CBSPreview,0,10.0.19580.1000,Windows.CBSPreview,2026-09-11 05:54:48,Windows,10,0,19580,1,NULL,NULL,No License Required,FREE,NO,No License Required
+129,windows.immersivecontrolpanel,0,10.0.8.1000,windows.immersivecontrolpanel,2026-09-11 05:54:48,Windows,10,0,8,1,NULL,NULL,No License Required,FREE,NO,No License Required
+130,Windows.PrintDialog,0,6.2.3.0,Windows.PrintDialog,2026-09-11 05:54:48,Windows,6,2,3,1,NULL,NULL,No License Required,FREE,NO,No License Required
+131,57540AMZNMobileLLC.AmazonAlexa,0,3.25.1177.0,57540AMZNMobileLLC.AmazonAlexa,2026-09-11 05:54:48,Windows,3,25,1177,1,NULL,NULL,No License Required,FREE,NO,No License Required
+132,AppUp.IntelGraphicsExperience,0,1.100.5688.0,AppUp.IntelGraphicsExperience,2026-09-11 05:54:48,Windows,1,100,5688,1,NULL,NULL,No License Required,FREE,NO,No License Required
+133,Clipchamp.Clipchamp,0,4.5.10920.0,Clipchamp.Clipchamp,2026-09-11 05:54:48,Windows,4,5,10920,0,NULL,NULL,Users,FREE_AND_PAID,YES,Subscription
+134,DolbyLaboratories.DolbyAudio,0,3.30201.210.0,DolbyLaboratories.DolbyAudio,2026-09-11 05:54:48,Windows,3,30201,210,1,NULL,NULL,No License Required,FREE,NO,No License Required
+135,E046963F.LenovoCompanion,0,10.2606.12.0,E046963F.LenovoCompanion,2026-09-11 05:54:48,Windows,10,2606,12,1,NULL,NULL,No License Required,FREE,NO,No License Required
+136,E046963F.LenovoVoiceWorldWide,0,3.0.26.0,E046963F.LenovoVoiceWorldWide,2026-09-11 05:54:48,Windows,3,0,26,1,NULL,NULL,No License Required,FREE,NO,No License Required
+137,E0469640.LenovoUtility,0,4.7.18.0,E0469640.LenovoUtility,2026-09-11 05:54:48,Windows,4,7,18,1,NULL,NULL,No License Required,FREE,NO,No License Required
+138,ElevocTechnologyCo.Ltd.SmartMicrophoneSettings,0,1.1.51.0,ElevocTechnologyCo.Ltd.SmartMicrophoneSettings,2026-09-11 05:54:48,Windows,1,1,51,1,NULL,NULL,No License Required,FREE,NO,No License Required
+139,Microsoft.ApplicationCompatibilityEnhancements,0,1.2511.9.0,Microsoft.ApplicationCompatibilityEnhancements,2026-09-11 05:54:48,Windows,1,2511,9,1,NULL,NULL,No License Required,FREE,NO,No License Required
+140,Microsoft.AVCEncoderVideoExtension,0,1.1.23.0,Microsoft.AVCEncoderVideoExtension,2026-09-11 05:54:48,Windows,1,1,23,1,NULL,NULL,No License Required,FREE,NO,No License Required
+141,Microsoft.BingSearch,0,1.1.43.0,Microsoft.BingSearch,2026-09-11 05:54:48,Windows,1,1,43,1,NULL,NULL,No License Required,FREE,NO,No License Required
+142,Microsoft.BingWeather,0,4.54.63045.0,Microsoft.BingWeather,2026-09-11 05:54:48,Windows,4,54,63045,1,NULL,NULL,No License Required,FREE,NO,No License Required
+143,Microsoft.Edge.GameAssist,0,1.0.4019.0,Microsoft.Edge.GameAssist,2026-09-11 05:54:48,Windows,1,0,4019,1,NULL,NULL,No License Required,FREE,NO,No License Required
+144,Microsoft.GamingApp,0,2608.1001.17.0,Microsoft.GamingApp,2026-09-11 05:54:48,Windows,2608,1001,17,1,NULL,NULL,No License Required,FREE,NO,No License Required
+145,Microsoft.MixedReality.Portal,0,2000.22041.1123.0,Microsoft.MixedReality.Portal,2026-09-11 05:54:48,Windows,2000,22041,1123,1,NULL,NULL,No License Required,FREE,NO,No License Required
+146,Microsoft.People,0,10.2202.100.0,Microsoft.People,2026-09-11 05:54:48,Windows,10,2202,100,1,NULL,NULL,No License Required,FREE,NO,No License Required
+147,Microsoft.SecHealthUI,0,1000.29628.1000.0,Microsoft.SecHealthUI,2026-09-11 05:54:48,Windows,1000,29628,1000,1,NULL,NULL,No License Required,FREE,NO,No License Required
+148,Microsoft.VP9VideoExtensions,0,1.2.20.0,Microsoft.VP9VideoExtensions,2026-09-11 05:54:48,Windows,1,2,20,1,NULL,NULL,No License Required,FREE,NO,No License Required
+149,Microsoft.Whiteboard,0,56.20201.588.0,Microsoft.Whiteboard,2026-09-11 05:54:48,Windows,56,20201,588,0,NULL,NULL,Users,FREE_AND_PAID,YES,Subscription
+150,microsoft.windowscommunicationsapps,0,16005.14326.22342.0,microsoft.windowscommunicationsapps,2026-09-11 05:54:48,Windows,16005,14326,22342,1,NULL,NULL,No License Required,FREE,NO,No License Required
+151,Microsoft.WindowsMaps,0,11.2506.3.0,Microsoft.WindowsMaps,2026-09-11 05:54:48,Windows,11,2506,3,1,NULL,NULL,No License Required,FREE,NO,No License Required
+152,Microsoft.WindowsTerminal,0,1.24.11911.0,Microsoft.WindowsTerminal,2026-09-11 05:54:48,Windows,1,24,11911,1,NULL,NULL,No License Required,OPEN_SOURCE,NO,No License Required
+153,Microsoft.Xbox.TCUI,0,1.24.10001.0,Microsoft.Xbox.TCUI,2026-09-11 05:54:48,Windows,1,24,10001,1,NULL,NULL,No License Required,FREE,NO,No License Required
+154,Microsoft.XboxGameOverlay,0,1.54.4001.0,Microsoft.XboxGameOverlay,2026-09-11 05:54:48,Windows,1,54,4001,1,NULL,NULL,No License Required,FREE,NO,No License Required
+155,Microsoft.XboxIdentityProvider,0,12.130.16001.0,Microsoft.XboxIdentityProvider,2026-09-11 05:54:48,Windows,12,130,16001,1,NULL,NULL,No License Required,FREE,NO,No License Required
+156,Microsoft.XboxSpeechToTextOverlay,0,1.97.17002.0,Microsoft.XboxSpeechToTextOverlay,2026-09-11 05:54:48,Windows,1,97,17002,1,NULL,NULL,No License Required,FREE,NO,No License Required
+157,Microsoft.ZuneVideo,0,10.26061.10051.0,Microsoft.ZuneVideo,2026-09-11 05:54:48,Windows,10,26061,10051,1,NULL,NULL,No License Required,FREE,NO,No License Required
+158,MicrosoftCorporationII.MicrosoftFamily,0,0.2.40.0,MicrosoftCorporationII.MicrosoftFamily,2026-09-11 05:54:48,Windows,0,2,40,0,NULL,NULL,Users,FREE_AND_PAID,YES,Subscription
+159,RealtekSemiconductorCorp.RealtekAudioControl,0,1.44.302.0,RealtekSemiconductorCorp.RealtekAudioControl,2026-09-11 05:54:48,Windows,1,44,302,1,NULL,NULL,No License Required,FREE,NO,No License Required
+160,Microsoft.MicrosoftStickyNotes,0,6.1.4.0,Microsoft.MicrosoftStickyNotes,2026-09-11 05:54:48,Windows,6,1,4,1,NULL,NULL,No License Required,FREE,NO,No License Required
+161,MicrosoftCorporationII.QuickAssist,0,2.0.57.0,MicrosoftCorporationII.QuickAssist,2026-09-11 05:54:48,Windows,2,0,57,1,NULL,NULL,No License Required,FREE,NO,No License Required
+162,Microsoft.Windows.DevHome,0,0.2101.858.0,Microsoft.Windows.DevHome,2026-09-11 05:54:48,Windows,0,2101,858,1,NULL,NULL,No License Required,OPEN_SOURCE,NO,No License Required
+163,Microsoft.MicrosoftJournal,0,1.25336.1113.0,Microsoft.MicrosoftJournal,2026-09-11 05:54:48,Windows,1,25336,1113,1,NULL,NULL,No License Required,FREE,NO,No License Required
+164,Microsoft.MicrosoftSolitaireCollection,0,4.26.7290.0,Microsoft.MicrosoftSolitaireCollection,2026-09-11 05:54:48,Windows,4,26,7290,0,NULL,NULL,Users,FREE_AND_PAID,YES,Per User
+165,Microsoft.Todos,0,2.176.7601.0,Microsoft.Todos,2026-09-11 05:54:48,Windows,2,176,7601,0,NULL,NULL,Users,FREE_AND_PAID,YES,Subscription
+166,Microsoft.BingNews,0,4.56.21872.0,Microsoft.BingNews,2026-09-11 05:54:48,Windows,4,56,21872,1,NULL,NULL,No License Required,FREE,NO,No License Required
+167,PythonSoftwareFoundation.PythonManager,0,26.3.240.0,PythonSoftwareFoundation.PythonManager,2026-09-11 05:54:48,Windows,26,3,240,1,NULL,NULL,No License Required,OPEN_SOURCE,NO,No License Required
+168,Microsoft.StartExperiencesApp,0,1.380.2.0,Microsoft.StartExperiencesApp,2026-09-11 05:54:48,Windows,1,380,2,1,NULL,NULL,No License Required,FREE,NO,No License Required
+169,Microsoft.WebpImageExtension,0,1.2.31.0,Microsoft.WebpImageExtension,2026-09-11 05:54:48,Windows,1,2,31,1,NULL,NULL,No License Required,FREE,NO,No License Required
+170,Microsoft.AV1VideoExtension,0,2.0.30.0,Microsoft.AV1VideoExtension,2026-09-11 05:54:48,Windows,2,0,30,1,NULL,NULL,No License Required,FREE,NO,No License Required
+171,Microsoft.GetHelp,0,10.2409.42162.0,Microsoft.GetHelp,2026-09-11 05:54:48,Windows,10,2409,42162,1,NULL,NULL,No License Required,FREE,NO,No License Required
+172,Microsoft.M365Companions,0,2.2605.21000.0,Microsoft.M365Companions,2026-09-11 05:54:48,Windows,2,2605,21000,0,NULL,NULL,Users,COMMERCIAL,YES,Subscription
+173,Microsoft.PowerAutomateDesktop,0,11.2608.115.0,Microsoft.PowerAutomateDesktop,2026-09-11 05:54:48,Windows,11,2608,115,0,NULL,NULL,Users,FREE_AND_PAID,YES,Per User
+174,Microsoft.XboxGamingOverlay,0,7.326.8061.0,Microsoft.XboxGamingOverlay,2026-09-11 05:54:48,Windows,7,326,8061,1,NULL,NULL,No License Required,FREE,NO,No License Required
+175,MicrosoftWindows.Client.WebExperience,0,526.21100.40.0,MicrosoftWindows.Client.WebExperience,2026-09-11 05:54:48,Windows,526,21100,40,1,NULL,NULL,No License Required,FREE,NO,No License Required
+176,Microsoft.YourPhone,0,1.26071.164.0,Microsoft.YourPhone,2026-09-11 05:54:48,Windows,1,26071,164,1,NULL,NULL,No License Required,FREE,NO,No License Required
+177,MicrosoftWindows.CrossDevice,0,1.26071.84.0,MicrosoftWindows.CrossDevice,2026-09-11 05:54:48,Windows,1,26071,84,1,NULL,NULL,No License Required,FREE,NO,No License Required
+178,aimgr,0,0.20.61.0,aimgr,2026-09-11 05:54:48,Windows,0,20,61,1,NULL,NULL,No License Required,FREE,NO,No License Required
+179,Microsoft.DesktopAppInstaller,0,1.29.290.0,Microsoft.DesktopAppInstaller,2026-09-11 05:54:48,Windows,1,29,290,1,NULL,NULL,No License Required,FREE,NO,No License Required
+180,Microsoft.HEIFImageExtension,0,1.2.48.0,Microsoft.HEIFImageExtension,2026-09-11 05:54:48,Windows,1,2,48,1,NULL,NULL,No License Required,FREE,NO,No License Required
+181,Microsoft.VisualStudioCode,0,1.0.134.0,Microsoft.VisualStudioCode,2026-09-11 05:54:48,Windows,1,0,134,1,NULL,NULL,No License Required,OPEN_SOURCE,NO,No License Required
+182,Microsoft.Paint,0,11.2605.81.0,Microsoft.Paint,2026-09-11 05:54:48,Windows,11,2605,81,1,NULL,NULL,No License Required,FREE,NO,No License Required
+183,Microsoft.WindowsFeedbackHub,0,2.2607.302.0,Microsoft.WindowsFeedbackHub,2026-09-11 05:54:48,Windows,2,2607,302,1,NULL,NULL,No License Required,FREE,NO,No License Required
+184,MSTeams,0,26213.1006.5014.9784,MSTeams,2026-09-11 05:54:48,Windows,26213,1006,5014,0,NULL,NULL,Users,COMMERCIAL,YES,Per User
+185,Microsoft.WindowsNotepad,0,11.2607.14.0,Microsoft.WindowsNotepad,2026-09-11 05:54:48,Windows,11,2607,14,1,NULL,NULL,No License Required,FREE,NO,No License Required
+186,Microsoft.WindowsCamera,0,2026.2607.1.0,Microsoft.WindowsCamera,2026-09-11 05:54:48,Windows,2026,2607,1,1,NULL,NULL,No License Required,FREE,NO,No License Required
+187,Microsoft.HEVCVideoExtension,0,2.5.33.0,Microsoft.HEVCVideoExtension,2026-09-11 05:54:48,Windows,2,5,33,0,NULL,NULL,Devices,COMMERCIAL,YES,Per Device
+188,Microsoft.MPEG2VideoExtension,0,1.2.32.0,Microsoft.MPEG2VideoExtension,2026-09-11 05:54:48,Windows,1,2,32,1,NULL,NULL,No License Required,FREE,NO,No License Required
+189,Microsoft.MicrosoftEdge.Stable,0,152.0.4191.53,Microsoft.MicrosoftEdge.Stable,2026-09-11 05:54:48,Windows,152,0,4191,1,NULL,NULL,No License Required,FREE,NO,No License Required
+190,6760NGPDFLab.PDFX,0,1.4.27.0,6760NGPDFLab.PDFX,2026-09-11 05:54:48,Windows,1,4,27,0,NULL,NULL,Users,FREE_AND_PAID,YES,Per User
+191,Microsoft.StorePurchaseApp,0,22607.1401.4.0,Microsoft.StorePurchaseApp,2026-09-11 05:54:48,Windows,22607,1401,4,1,NULL,NULL,No License Required,FREE,NO,No License Required
+192,Microsoft.WindowsCalculator,0,11.2607.0.0,Microsoft.WindowsCalculator,2026-09-11 05:54:48,Windows,11,2607,0,1,NULL,NULL,No License Required,FREE,NO,No License Required
+193,Microsoft.WindowsAlarms,0,11.2607.6.0,Microsoft.WindowsAlarms,2026-09-11 05:54:48,Windows,11,2607,6,1,NULL,NULL,No License Required,FREE,NO,No License Required
+194,Microsoft.WindowsSoundRecorder,0,11.2607.1.0,Microsoft.WindowsSoundRecorder,2026-09-11 05:54:48,Windows,11,2607,1,1,NULL,NULL,No License Required,FREE,NO,No License Required
+195,Microsoft.ZuneMusic,0,11.2607.16.0,Microsoft.ZuneMusic,2026-09-11 05:54:48,Windows,11,2607,16,1,NULL,NULL,No License Required,FREE,NO,No License Required
+196,89006A2E.AutoCAD360,0,10.10.0.0,89006A2E.AutoCAD360,2026-09-11 05:54:48,Windows,10,10,0,0,NULL,NULL,Users,FREE_AND_PAID,YES,Subscription
+197,Microsoft.ScreenSketch,0,11.2605.38.0,Microsoft.ScreenSketch,2026-09-11 05:54:48,Windows,11,2605,38,1,NULL,NULL,No License Required,FREE,NO,No License Required
+198,Microsoft.OneDriveSync,0,26153.809.4.0,Microsoft.OneDriveSync,2026-09-11 05:54:48,Windows,26153,809,4,0,NULL,NULL,Users,COMMERCIAL,YES,Subscription
+199,Microsoft.Windows.Photos,0,2026.11080.24002.0,Microsoft.Windows.Photos,2026-09-11 05:54:48,Windows,2026,11080,24002,1,NULL,NULL,No License Required,FREE,NO,No License Required
+200,Microsoft.MicrosoftPowerBIDesktop,0,2.157.1354.0,Microsoft.MicrosoftPowerBIDesktop,2026-09-11 05:54:48,Windows,2,157,1354,0,NULL,NULL,Processor Cores,COMMERCIAL,YES,Per Core

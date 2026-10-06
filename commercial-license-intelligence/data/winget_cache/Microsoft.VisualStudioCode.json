@@ -1,0 +1,41 @@
+{
+  "package_id": "Microsoft.VisualStudioCode",
+  "package_name": "Microsoft Visual Studio Code",
+  "publisher": "Microsoft Corporation",
+  "version": "1.139.0",
+  "license": "Microsoft Software License",
+  "license_url": "https://code.visualstudio.com/license",
+  "installer_url": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/2242ebbb54efeeb0129e08e919e7e8d43033cd83/VSCodeUserSetup-x64-1.139.0.exe",
+  "installer_sha256": "7bb8d5f4d027ecb919c57741d8f8d82140d020628b57f1192dcbb520f91fbb02",
+  "installer_type": "inno",
+  "homepage": "https://code.visualstudio.com/",
+  "description": "Microsoft Visual Studio Code is a code editor redefined and optimized for building and debugging modern web and cloud applications. Microsoft Visual Studio Code is free and available on your favorite platform - Linux, macOS, and Windows.",
+  "copyright": null,
+  "moniker": "vscode",
+  "tags": [],
+  "raw_manifest": {
+    "general": {
+      "version": "1.139.0",
+      "publisher": "Microsoft Corporation",
+      "publisher_url": "https://www.microsoft.com/",
+      "moniker": "vscode",
+      "description": "Microsoft Visual Studio Code is a code editor redefined and optimized for building and debugging modern web and cloud applications. Microsoft Visual Studio Code is free and available on your favorite platform - Linux, macOS, and Windows.",
+      "homepage": "https://code.visualstudio.com/",
+      "license": "Microsoft Software License",
+      "license_url": "https://code.visualstudio.com/license",
+      "privacy_url": "https://privacy.microsoft.com/",
+      "release_notes_url": "https://code.visualstudio.com/updates/v1_139"
+    },
+    "installer": {
+      "installer_type": "inno",
+      "installer_locale": "en-US",
+      "installer_url": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/2242ebbb54efeeb0129e08e919e7e8d43033cd83/VSCodeUserSetup-x64-1.139.0.exe",
+      "installer_sha256": "7bb8d5f4d027ecb919c57741d8f8d82140d020628b57f1192dcbb520f91fbb02",
+      "release_date": "2026-09-22",
+      "offline_distribution_supported": "true"
+    }
+  },
+  "confidence": "VERY_HIGH",
+  "provenance": "winget:Microsoft.VisualStudioCode",
+  "is_cached": false
+}

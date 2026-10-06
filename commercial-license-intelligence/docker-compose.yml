@@ -1,0 +1,39 @@
+version: '3.8'
+
+services:
+  searxng:
+    image: searxng/searxng:latest
+    container_name: searxng
+    ports:
+      - "8080:8080"
+    environment:
+      - SEARXNG_BASE_URL=http://localhost:8080/
+      - BIND_ADDRESS=0.0.0.0:8080
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD-SHELL", "curl -f http://localhost:8080/ || exit 1"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 20s
+
+  yacy:
+    image: yacysearch/yacy:latest
+    container_name: yacy
+    ports:
+      - "8090:8090"
+    volumes:
+      - yacy_data:/opt/yacy/DATA
+    environment:
+      - JAVA_ARGS=-Xms512m -Xmx1536m
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD-SHELL", "curl -f 'http://localhost:8090/yacysearch.json?query=test' || exit 1"]
+      interval: 30s
+      timeout: 10s
+      retries: 5
+      start_period: 45s
+
+volumes:
+  yacy_data:
+    name: yacy_data

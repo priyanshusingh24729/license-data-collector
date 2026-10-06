@@ -1,0 +1,86 @@
+{
+  "device_scan_sample": {
+    "dataset_name": "Device Scan Sample (PF490A36)",
+    "total_records": 177,
+    "license_required_yes": 72,
+    "license_required_no": 105,
+    "blank_metric_count": 72,
+    "metric_distribution": {
+      "No License Required": 105,
+      "(blank)": 72
+    },
+    "license_model_distribution": {
+      "No License Required": 105,
+      "(blank)": 59,
+      "Subscription": 8,
+      "Per Core / Server + CAL": 4,
+      "Per Installation": 1
+    },
+    "license_type_distribution": {
+      "Freeware": 92,
+      "(blank)": 59,
+      "Commercial": 12,
+      "MIT": 8,
+      "MPL": 2,
+      "BSD": 2,
+      "Apache-2.0": 1,
+      "GPL-2.0": 1
+    },
+    "classification_distribution": {
+      "FREE": 95,
+      "(blank)": 59,
+      "OPEN_SOURCE": 10,
+      "COMMERCIAL": 8,
+      "FREE_AND_PAID": 5
+    },
+    "eol_verified_count": 1,
+    "eos_verified_count": 1,
+    "missing_evidence_url_count": 155,
+    "validation_failures": 0,
+    "records_corrected_by_new_logic": 0
+  },
+  "mvp_4169_sample": {
+    "dataset_name": "Full Enterprise Inventory (4,169 Apps)",
+    "total_records": 4169,
+    "license_required_yes": 311,
+    "license_required_no": 3858,
+    "blank_metric_count": 311,
+    "metric_distribution": {
+      "No License Required": 3858,
+      "(blank)": 311
+    },
+    "license_model_distribution": {
+      "No License Required": 3858,
+      "Subscription": 168,
+      "Per Installation": 76,
+      "Per Core / Server + CAL": 47,
+      "(blank)": 17,
+      "Per User": 3
+    },
+    "license_type_distribution": {
+      "(blank)": 2597,
+      "Freeware": 981,
+      "Commercial": 269,
+      "BSD": 119,
+      "MIT": 65,
+      "GPL-3.0": 35,
+      "MPL": 34,
+      "Apache-2.0": 23,
+      "LGPL": 23,
+      "GPL-2.0": 18,
+      "Proprietary": 5
+    },
+    "classification_distribution": {
+      "OPEN_SOURCE": 2681,
+      "FREE": 1002,
+      "COMMERCIAL": 220,
+      "FREE_AND_PAID": 155,
+      "(blank)": 111
+    },
+    "eol_verified_count": 32,
+    "eos_verified_count": 34,
+    "missing_evidence_url_count": 443,
+    "validation_failures": 0,
+    "records_corrected_by_new_logic": 0
+  }
+}

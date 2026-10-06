@@ -1,0 +1,46 @@
+{
+  "package_id": "Microsoft.WindowsTerminal",
+  "package_name": "Windows Terminal",
+  "publisher": "Microsoft Corporation",
+  "version": "1.24.11911.0",
+  "license": "MIT",
+  "license_url": "https://github.com/microsoft/terminal/blob/main/LICENSE",
+  "installer_url": "https://github.com/microsoft/terminal/releases/download/v1.24.11911.0/Microsoft.WindowsTerminal_1.24.11911.0_8wekyb3d8bbwe.msixbundle",
+  "installer_sha256": "54ef0c69a912de511475df02e57e5193e69193a4cf95a19d508d2705fd602e42",
+  "installer_type": "msix",
+  "homepage": "https://docs.microsoft.com/windows/terminal",
+  "description": "The new Windows Terminal, a tabbed command line experience for Windows.",
+  "copyright": "Copyright (c) Microsoft Corporation. All rights reserved.",
+  "moniker": "terminal",
+  "tags": [],
+  "raw_manifest": {
+    "general": {
+      "version": "1.24.11911.0",
+      "publisher": "Microsoft Corporation",
+      "publisher_url": "https://www.microsoft.com",
+      "publisher_support_url": "https://github.com/microsoft/terminal/issues",
+      "author": "Microsoft",
+      "moniker": "terminal",
+      "description": "The new Windows Terminal, a tabbed command line experience for Windows.",
+      "homepage": "https://docs.microsoft.com/windows/terminal",
+      "license": "MIT",
+      "license_url": "https://github.com/microsoft/terminal/blob/main/LICENSE",
+      "privacy_url": "https://privacy.microsoft.com",
+      "copyright": "Copyright (c) Microsoft Corporation. All rights reserved.",
+      "copyright_url": "https://github.com/microsoft/terminal/blob/main/LICENSE",
+      "release_notes_url": "https://github.com/microsoft/terminal/releases/tag/v1.24.11911.0",
+      "wiki": "https://github.com/microsoft/terminal/wiki"
+    },
+    "installer": {
+      "installer_type": "msix",
+      "installer_url": "https://github.com/microsoft/terminal/releases/download/v1.24.11911.0/Microsoft.WindowsTerminal_1.24.11911.0_8wekyb3d8bbwe.msixbundle",
+      "installer_sha256": "54ef0c69a912de511475df02e57e5193e69193a4cf95a19d508d2705fd602e42",
+      "release_date": "2026-07-16",
+      "offline_distribution_supported": "true",
+      "dependencies": ""
+    }
+  },
+  "confidence": "VERY_HIGH",
+  "provenance": "winget:Microsoft.WindowsTerminal",
+  "is_cached": false
+}

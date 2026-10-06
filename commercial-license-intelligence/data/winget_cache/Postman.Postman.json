@@ -1,0 +1,45 @@
+{
+  "package_id": "Postman.Postman",
+  "package_name": "Postman",
+  "publisher": "Postman",
+  "version": "12.27.7",
+  "license": "Proprietary",
+  "license_url": "https://www.postman.com/legal/terms/",
+  "installer_url": "https://dl.pstmn.io/download/version/12.27.7/windows_64",
+  "installer_sha256": "6762b5e95b4e3374092458b9cb4dec50baff13da8263c9de41326d2ab1fac3ed",
+  "installer_type": "exe",
+  "homepage": "https://www.postman.com/downloads/",
+  "description": "Postman is a collaboration platform for API development. Postman's features simplify each step of building an API and streamline collaboration so you can create better APIs \u2014 faster.",
+  "copyright": "\u00a9 2026 Postman, Inc.",
+  "moniker": "postman",
+  "tags": [],
+  "raw_manifest": {
+    "general": {
+      "version": "12.27.7",
+      "publisher": "Postman",
+      "publisher_url": "https://www.postman.com/",
+      "publisher_support_url": "https://www.postman.com/support/",
+      "author": "Postman, Inc.",
+      "moniker": "postman",
+      "description": "Postman is a collaboration platform for API development. Postman's features simplify each step of building an API and streamline collaboration so you can create better APIs \u2014 faster.",
+      "homepage": "https://www.postman.com/downloads/",
+      "license": "Proprietary",
+      "license_url": "https://www.postman.com/legal/terms/",
+      "privacy_url": "https://www.postman.com/legal/privacy-policy/",
+      "copyright": "\u00a9 2026 Postman, Inc.",
+      "copyright_url": "https://www.postman.com/legal/terms/",
+      "purchase_url": "https://www.postman.com/pricing/",
+      "learning_center": "https://learning.postman.com/"
+    },
+    "installer": {
+      "installer_type": "exe",
+      "installer_url": "https://dl.pstmn.io/download/version/12.27.7/windows_64",
+      "installer_sha256": "6762b5e95b4e3374092458b9cb4dec50baff13da8263c9de41326d2ab1fac3ed",
+      "release_date": "2026-09-11",
+      "offline_distribution_supported": "true"
+    }
+  },
+  "confidence": "VERY_HIGH",
+  "provenance": "winget:Postman.Postman",
+  "is_cached": false
+}

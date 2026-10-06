@@ -1,0 +1,45 @@
+{
+  "package_id": "Google.Chrome",
+  "package_name": "Google Chrome",
+  "publisher": "Google LLC",
+  "version": "153.0.8010.37",
+  "license": "Freeware",
+  "license_url": "https://www.google.com/chrome/terms/",
+  "installer_url": "https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise64.msi",
+  "installer_sha256": "7baa1a89de55e8ba68d3d0c912fe677ddd807e91fb0ee4532c6b6cc527197ddb",
+  "installer_type": "wix",
+  "homepage": "https://www.google.com/chrome/",
+  "description": "Chrome is the official web browser from Google, built to be fast, secure, and customizable.",
+  "copyright": "Copyright 2026 Google LLC. All rights reserved.",
+  "moniker": "chrome",
+  "tags": [],
+  "raw_manifest": {
+    "general": {
+      "version": "153.0.8010.37",
+      "publisher": "Google LLC",
+      "publisher_url": "https://www.google.com/",
+      "publisher_support_url": "https://support.google.com/",
+      "author": "Google LLC",
+      "moniker": "chrome",
+      "description": "Chrome is the official web browser from Google, built to be fast, secure, and customizable.",
+      "homepage": "https://www.google.com/chrome/",
+      "license": "Freeware",
+      "license_url": "https://www.google.com/chrome/terms/",
+      "privacy_url": "https://policies.google.com/privacy",
+      "copyright": "Copyright 2026 Google LLC. All rights reserved.",
+      "chrome_platform_status": "https://chromestatus.com/",
+      "chrome_web_store": "https://chromewebstore.google.com/",
+      "chrome_for_developers": "https://developer.chrome.com/"
+    },
+    "installer": {
+      "installer_type": "wix",
+      "installer_url": "https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise64.msi",
+      "installer_sha256": "7baa1a89de55e8ba68d3d0c912fe677ddd807e91fb0ee4532c6b6cc527197ddb",
+      "release_date": "2026-09-08",
+      "offline_distribution_supported": "true"
+    }
+  },
+  "confidence": "VERY_HIGH",
+  "provenance": "winget:Google.Chrome",
+  "is_cached": false
+}

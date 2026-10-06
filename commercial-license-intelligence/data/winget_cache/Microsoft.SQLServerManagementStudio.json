@@ -1,0 +1,44 @@
+{
+  "package_id": "Microsoft.SQLServerManagementStudio",
+  "package_name": "Microsoft SQL Server Management Studio",
+  "publisher": "Microsoft Corporation",
+  "version": "20.2.1",
+  "license": "Proprietary",
+  "license_url": "https://learn.microsoft.com/en-US/Legal/sql/sql-server-management-studio-license-terms",
+  "installer_url": "https://download.microsoft.com/download/7519f0ff-997c-4f36-b5aa-9a51d47dd34c/SSMS-Setup-ENU.exe",
+  "installer_sha256": "1b3a54a08a258c6768f4af726cfe97123478aaf7e8eda6503054d20e354638ef",
+  "installer_type": "burn",
+  "homepage": "https://learn.microsoft.com/en-US/sql/ssms/download-sql-server-management-studio-ssms",
+  "description": "SQL Server Management Studio (SSMS) is an integrated environment for managing any SQL infrastructure, from SQL Server to Azure SQL Database. SSMS provides tools to configure, monitor, and administer instances of SQL Server and databases. Use SSMS to deploy, monitor, and upgrade the data-tier components used by your applications, and build queries and scripts.",
+  "copyright": "Copyright (c) Microsoft Corporation",
+  "moniker": "ssms",
+  "tags": [],
+  "raw_manifest": {
+    "general": {
+      "version": "20.2.1",
+      "publisher": "Microsoft Corporation",
+      "publisher_url": "https://www.microsoft.com/",
+      "publisher_support_url": "https://aka.ms/ssms-feedback/",
+      "author": "Microsoft",
+      "moniker": "ssms",
+      "description": "SQL Server Management Studio (SSMS) is an integrated environment for managing any SQL infrastructure, from SQL Server to Azure SQL Database. SSMS provides tools to configure, monitor, and administer instances of SQL Server and databases. Use SSMS to deploy, monitor, and upgrade the data-tier components used by your applications, and build queries and scripts.",
+      "homepage": "https://learn.microsoft.com/en-US/sql/ssms/download-sql-server-management-studio-ssms",
+      "license": "Proprietary",
+      "license_url": "https://learn.microsoft.com/en-US/Legal/sql/sql-server-management-studio-license-terms",
+      "privacy_url": "https://privacy.microsoft.com/",
+      "copyright": "Copyright (c) Microsoft Corporation",
+      "release_notes_url": "https://learn.microsoft.com/en-US/sql/ssms/release-notes-ssms#2021"
+    },
+    "installer": {
+      "installer_type": "burn",
+      "installer_locale": "en-US",
+      "installer_url": "https://download.microsoft.com/download/7519f0ff-997c-4f36-b5aa-9a51d47dd34c/SSMS-Setup-ENU.exe",
+      "installer_sha256": "1b3a54a08a258c6768f4af726cfe97123478aaf7e8eda6503054d20e354638ef",
+      "release_date": "2025-04-08",
+      "offline_distribution_supported": "true"
+    }
+  },
+  "confidence": "VERY_HIGH",
+  "provenance": "winget:Microsoft.SQLServerManagementStudio",
+  "is_cached": false
+}

@@ -1,0 +1,40 @@
+{
+  "package_id": "Hashicorp.Terraform",
+  "package_name": "HashiCorp Terraform",
+  "publisher": "HashiCorp",
+  "version": "1.16.2",
+  "license": "BUSL-1.1",
+  "license_url": "https://github.com/hashicorp/terraform/blob/HEAD/LICENSE",
+  "installer_url": "https://releases.hashicorp.com/terraform/1.16.2/terraform_1.16.2_windows_amd64.zip",
+  "installer_sha256": "6ef140ce1d399dc43b8315194176ddc2dfb5c21d607968e82ef20a55cfff40d0",
+  "installer_type": "portable (zip)",
+  "homepage": "https://github.com/hashicorp/terraform",
+  "description": null,
+  "copyright": "Copyright (c) 2026 HashiCorp, Inc.",
+  "moniker": "terraform",
+  "tags": [],
+  "raw_manifest": {
+    "general": {
+      "version": "1.16.2",
+      "publisher": "HashiCorp",
+      "publisher_support_url": "https://github.com/hashicorp/terraform/issues",
+      "author": "HashiCorp, Inc.",
+      "moniker": "terraform",
+      "homepage": "https://github.com/hashicorp/terraform",
+      "license": "BUSL-1.1",
+      "license_url": "https://github.com/hashicorp/terraform/blob/HEAD/LICENSE",
+      "copyright": "Copyright (c) 2026 HashiCorp, Inc.",
+      "release_notes_url": "https://github.com/hashicorp/terraform/releases/tag/v1.16.2"
+    },
+    "installer": {
+      "installer_type": "portable (zip)",
+      "installer_url": "https://releases.hashicorp.com/terraform/1.16.2/terraform_1.16.2_windows_amd64.zip",
+      "installer_sha256": "6ef140ce1d399dc43b8315194176ddc2dfb5c21d607968e82ef20a55cfff40d0",
+      "release_date": "2026-09-09",
+      "offline_distribution_supported": "true"
+    }
+  },
+  "confidence": "VERY_HIGH",
+  "provenance": "winget:Hashicorp.Terraform",
+  "is_cached": false
+}

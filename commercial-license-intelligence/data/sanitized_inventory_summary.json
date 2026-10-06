@@ -1,0 +1,11 @@
+{
+  "total_unique_products": 104,
+  "total_installations": 114,
+  "tier_distribution": {
+    "Tier 1: Commercial & Billable": 24,
+    "Tier 2: Freeware & Developer Open Source": 44,
+    "Tier 3: OS & System Infrastructure": 36
+  },
+  "billable_product_count": 24,
+  "cross_contaminated_urls": 0
+}

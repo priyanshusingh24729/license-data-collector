@@ -1,0 +1,44 @@
+{
+  "package_id": "XP8K17RNMM8MTN",
+  "package_name": "Canva",
+  "publisher": "Canva",
+  "version": "1.125.0",
+  "license": "https://about.canva.com/terms-of-use",
+  "license_url": null,
+  "installer_url": "https://cdn.storeedgefd.dsx.mp.microsoft.com/wus2/cachedpackages/75626970/5f0a3fda-7e1e-4f27-b13a-cbac84763ad6/10732d24ec98ffd4411643212533764927a927911d14367daf58b540cd8d55f1/file",
+  "installer_sha256": "10732d24ec98ffd4411643212533764927a927911d14367daf58b540cd8d55f1",
+  "installer_type": "exe",
+  "homepage": null,
+  "description": null,
+  "copyright": "\u00a9 2026 All Rights Reserved, Canva\u00ae",
+  "moniker": null,
+  "tags": [],
+  "raw_manifest": {
+    "general": {
+      "version": "1.125.0",
+      "publisher": "Canva",
+      "publisher_url": "https://www.canva.com/",
+      "publisher_support_url": "https://www.canva.com/help",
+      "https": "//www.canva.com/policies/license-agreements",
+      "license": "https://about.canva.com/terms-of-use",
+      "privacy_url": "https://www.canva.com/policies/privacy-policy/",
+      "copyright": "\u00a9 2026 All Rights Reserved, Canva\u00ae",
+      "category": "Multimedia design",
+      "pricing": "Freemium",
+      "free_trial": "No",
+      "terms_of_transaction": "https://aka.ms/microsoft-store-terms-of-transaction",
+      "seizure_warning": "https://aka.ms/microsoft-store-seizure-warning",
+      "store_license_terms": "https://aka.ms/microsoft-store-license"
+    },
+    "installer": {
+      "installer_type": "exe",
+      "installer_locale": "en-in",
+      "installer_url": "https://cdn.storeedgefd.dsx.mp.microsoft.com/wus2/cachedpackages/75626970/5f0a3fda-7e1e-4f27-b13a-cbac84763ad6/10732d24ec98ffd4411643212533764927a927911d14367daf58b540cd8d55f1/file",
+      "installer_sha256": "10732d24ec98ffd4411643212533764927a927911d14367daf58b540cd8d55f1",
+      "offline_distribution_supported": "true"
+    }
+  },
+  "confidence": "VERY_HIGH",
+  "provenance": "winget:XP8K17RNMM8MTN",
+  "is_cached": false
+}

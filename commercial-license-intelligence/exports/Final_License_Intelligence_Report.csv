@@ -1,0 +1,94 @@
+Application Name,Version,OS,License Required,End of Support,End of Life,Metric,Classification,License Model,Evidence URL
+Docker Desktop,4.87.0,Windows,YES,0,0,Users,COMMERCIAL,Commercial — Per Seat Subscription,https://www.docker.com/legal/docker-software-end-user-license-agreement/
+Microsoft SQL Server 2025,2025,Windows,YES,0,0,Processor Cores,COMMERCIAL,Commercial — Per Core,https://www.microsoft.com/licensing/terms/product/SQLServer/all
+Microsoft 365 Apps for business,16.0.20326.20132,Windows,YES,0,0,Users,COMMERCIAL,Commercial — Per Seat Subscription,https://www.microsoft.com/licensing/terms/product/Microsoft365Apps/all
+Microsoft OneDrive,26.158.0816.0003,Windows,YES,0,0,Users,COMMERCIAL,Commercial — Subscription,https://www.microsoft.com/licensing/terms/
+Microsoft OneNote,16.0.20326.20132,Windows,YES,0,0,Users,COMMERCIAL,Commercial — Per Seat Subscription,https://www.microsoft.com/licensing/terms/
+Microsoft ODBC Driver 17 for SQL Server,17.10.6.1,Windows,NO,0,0,No License Required,FREEWARE,Freeware,https://www.microsoft.com/licensing/terms/
+Microsoft Windows Application Compatibility Fix Database,,Windows,NO,,,No License Required,OS_BUNDLED,No License Required,https://www.microsoft.com/licensing/terms/
+Go Programming Language amd64 go1.26.5,1.26.5,Windows,NO,,,No License Required,OPEN_SOURCE,BSD-3-Clause — Free/Open Source,https://go.dev/LICENSE
+Microsoft Visual Studio Installer,4.9.50.62957,Windows,NO,0,0,No License Required,COMMERCIAL_COMPONENT,Free Setup Utility,https://www.microsoft.com/licensing/terms/
+Microsoft ODBC Driver 18 for SQL Server,18.6.2.1,Windows,NO,0,0,No License Required,FREEWARE,Freeware,https://www.microsoft.com/licensing/terms/
+Microsoft SQL Server 2025 Setup,17.0.1000.7,Windows,NO,0,0,No License Required,COMMERCIAL_COMPONENT,Component / Dependency,https://www.microsoft.com/licensing/terms/product/SQLServer/all
+Microsoft .NET SDK 10.0.400 from Visual Studio,40.11.17119,Windows,NO,0,0,No License Required,OPEN_SOURCE,MIT — Free/Open Source,https://www.microsoft.com/licensing/terms/
+Node.js,24.19.0,Windows,NO,0,0,No License Required,OPEN_SOURCE,MIT — Free/Open Source,https://github.com/nodejs/node/blob/main/LICENSE
+Microsoft OLE DB Driver for SQL Server,18.7.5.0,Windows,NO,0,0,No License Required,FREEWARE,Freeware,https://www.microsoft.com/licensing/terms/
+Microsoft Teams Meeting Add-in for Microsoft Office,1.26.20101,Windows,NO,,,No License Required,COMMERCIAL_COMPONENT,Component / Dependency,https://www.microsoft.com/licensing/terms/product/MicrosoftTeams/all
+Microsoft OLE DB Driver 19 for SQL Server,19.4.1.0,Windows,NO,0,0,No License Required,FREEWARE,Freeware,https://www.microsoft.com/licensing/terms/
+Lenovo Voice Service,3.0.26.0,Windows,NO,,,No License Required,FREEWARE,Freeware,
+osquery,5.23.1,Windows,NO,0,0,No License Required,OPEN_SOURCE,Apache-2.0 — Free/Open Source,https://osquery.io/
+Microsoft VSS Writer for SQL Server 2025,17.0.1000.7,Windows,NO,,,No License Required,COMMERCIAL_COMPONENT,Component / Dependency,https://www.microsoft.com/licensing/terms/
+SQL Server Management Studio,22.9.2,Windows,NO,0,0,No License Required,FREEWARE,Freeware,https://visualstudio.microsoft.com/license-terms/
+Adobe Creative Cloud,6.10.0.252.3,Windows,YES,0,0,Users,COMMERCIAL,Commercial — Per Seat Subscription,https://www.adobe.com/legal/terms/enterprise-licensing/cc-product-terms.html
+Google Chrome,153.0.8010.36,Windows,NO,0,0,No License Required,FREEWARE,Freeware,https://www.google.com/chrome/terms/
+Copilot,153.0.4234.32,Windows,YES,0,0,Users,FREE_AND_PAID,Commercial — Per Seat Subscription,https://learn.microsoft.com/en-us/windows/ai/overview
+Microsoft Edge,153.0.4234.32,Windows,NO,0,0,No License Required,OS_BUNDLED,No License Required,https://www.microsoft.com/licensing/terms/
+Lenovo Vantage Service,5.1.2608.14,Windows,NO,0,0,No License Required,FREEWARE,Freeware,
+Microsoft Visual C++ Redistributable,14.51.36247.0,Windows,NO,0,0,No License Required,COMMERCIAL_COMPONENT,Component / Dependency,https://www.microsoft.com/licensing/terms/
+SilverLeaf Agent,1.0,Windows,NO,,,No License Required,FREEWARE,Freeware,
+vs_CoreEditorFonts,17.7.40001,Windows,NO,,,No License Required,FREEWARE,Freeware,
+Intel Chipset Device Software,10.1.18800.8277,Windows,NO,,,No License Required,FREEWARE,Freeware,
+Browser for SQL Server 2025,17.0.1000.7,Windows,NO,,,No License Required,FREEWARE,Freeware,https://www.microsoft.com/en-us/sql-server/sql-server-2022-pricing
+Antigravity,2.11.0,Windows,YES,,,Users,FREE_AND_PAID,Commercial — Per Seat Subscription,https://deepmind.google/technologies/antigravity/
+Brave,153.1.95.101,Windows,NO,0,0,No License Required,OPEN_SOURCE,MPL — Free/Open Source,https://brave.com/terms-of-use/
+Git,2.55.0.3,Windows,NO,0,0,No License Required,OPEN_SOURCE,GPL-2.0 — Free/Open Source,https://git-scm.com/about/free-and-open-source
+IntelliJ IDEA,262.9437.185,Windows,YES,0,0,Users,COMMERCIAL,Commercial — Per Seat Subscription,https://www.jetbrains.com/legal/agreements/
+PHP,8.2.33,Windows,NO,0,0,No License Required,OPEN_SOURCE,Free / Open Source,https://www.php.net/license/
+Python,3.14,Windows,NO,0,0,No License Required,OPEN_SOURCE,PSF License — Free/Open Source,https://www.python.org/psf/license/
+Zoom Workplace,7.1.5 (43453),Windows,NO,0,0,No License Required,FREEWARE,Freeware / Free Client,https://zoom.us/pricing
+Microsoft Visual Studio Code,1.134.0,Windows,NO,0,0,No License Required,OPEN_SOURCE,MIT — Free/Open Source,https://www.microsoft.com/licensing/terms/
+Antigravity IDE,2.5.5,Windows,YES,,,Users,FREE_AND_PAID,Commercial — Per Seat Subscription,https://deepmind.google/technologies/antigravity/
+immersivecontrolpanel,10.0.8.1000,Windows,NO,,,No License Required,OS_BUNDLED,No License Required,
+Amazon Alexa,3.25.1177.0,Windows,NO,0,0,No License Required,FREEWARE,Freeware,https://www.amazon.com/alexa
+Intel Graphics Experience,1.100.5688.0,Windows,NO,,,No License Required,FREEWARE,Freeware,
+Clipchamp,4.5.10920.0,Windows,NO,0,0,No License Required,OS_BUNDLED,OS Bundled / No License Required,https://clipchamp.com/en/pricing
+Dolby Audio,3.30201.210.0,Windows,NO,,,No License Required,FREEWARE,Freeware,
+Lenovo Vantage,10.2606.12.0,Windows,NO,0,0,No License Required,OEM_OR_BUNDLED,No License Required,
+Lenovo Voice,3.0.26.0,Windows,NO,0,0,No License Required,FREEWARE,Freeware,
+Lenovo Hotkeys,4.7.18.0,Windows,NO,0,0,No License Required,OEM_OR_BUNDLED,No License Required,
+Smart Microphone Settings,1.1.51.0,Windows,NO,,,No License Required,FREEWARE,Freeware,
+Bing Weather,4.54.63045.0,Windows,NO,0,0,No License Required,OS_BUNDLED,OS Bundled / No License Required,https://www.microsoft.com/en-us/servicesagreement
+XBOX,2608.1001.17.0,Windows,NO,0,0,No License Required,OS_BUNDLED,OS Bundled / No License Required,https://www.xbox.com/en-US/apps/xbox-app-for-pc
+Portal,2000.22041.1123.0,Windows,NO,0,0,No License Required,OS_BUNDLED,No License Required,https://learn.microsoft.com/en-us/windows/mixed-reality/
+Sec Health UI,1000.29628.1000.0,Windows,NO,,,No License Required,OS_BUNDLED,OS Bundled / No License Required,
+Microsoft Whiteboard,56.20201.588.0,Windows,NO,0,0,No License Required,FREEWARE,Freeware / Free Client,https://www.microsoft.com/licensing/terms/
+windowscommunicationsapps,16005.14326.22342.0,Windows,NO,,,No License Required,OS_BUNDLED,No License Required,https://learn.microsoft.com/en-us/windows/apps/inbox-apps
+Windows Maps,11.2506.3.0,Windows,NO,,,No License Required,OS_BUNDLED,No License Required,https://learn.microsoft.com/en-us/windows/apps/inbox-apps
+Windows Terminal,1.24.11911.0,Windows,NO,0,0,No License Required,OS_BUNDLED,OS Bundled / No License Required,https://github.com/microsoft/terminal/blob/main/LICENSE
+Zune Video,10.26061.10051.0,Windows,NO,0,0,No License Required,OS_BUNDLED,No License Required,https://support.microsoft.com/en-us/windows/movies-and-tv
+Microsoft Family,0.2.40.0,Windows,NO,0,0,No License Required,FREEWARE,Freeware / Free Client,https://www.microsoft.com/licensing/terms/
+Microsoft Teams,26149.701.4759.8860,Windows,YES,0,0,Users,COMMERCIAL,Commercial — Per Seat Subscription,https://www.microsoft.com/licensing/terms/product/MicrosoftTeams/all
+Realtek Audio Control,1.44.302.0,Windows,NO,,,No License Required,OEM_OR_BUNDLED,No License Required,
+Microsoft Sticky Notes,6.1.4.0,Windows,NO,0,0,No License Required,OS_BUNDLED,OS Bundled / No License Required,https://www.microsoft.com/licensing/terms/
+Quick Assist,2.0.57.0,Windows,NO,0,0,No License Required,OS_BUNDLED,OS Bundled / No License Required,https://learn.microsoft.com/en-us/windows/client-management/quick-assist
+Microsoft Journal,1.25336.1113.0,Windows,NO,0,0,No License Required,FREEWARE,Freeware,https://www.microsoft.com/licensing/terms/
+Solitaire & Casual Games,4.26.7290.0,Windows,NO,,,No License Required,OS_BUNDLED,OS Bundled / No License Required,https://www.xbox.com/en-US/games/store/microsoft-solitaire-collection/9wzdncrfhwd2
+Todos,2.176.7601.0,Windows,NO,0,0,No License Required,FREEWARE,Freeware / Free Client,https://to-do.office.com/
+Bing News,4.56.21872.0,Windows,NO,,,No License Required,FREEWARE,Freeware,https://www.microsoft.com/en-us/servicesagreement
+Python Install Manager,26.3.240.0,Windows,NO,,,No License Required,OPEN_SOURCE,PSF License — Free/Open Source,https://www.python.org/psf/license/
+Get Help,10.2409.42162.0,Windows,NO,,,No License Required,OS_BUNDLED,OS Bundled / No License Required,https://support.microsoft.com/en-us/windows/get-help-with-windows-8b89e377-508b-4b1a-b6e9-b541d2f1f516
+Microsoft 365 companion apps,2.2605.21000.0,Windows,NO,,,No License Required,COMMERCIAL_COMPONENT,Component / Dependency,https://www.microsoft.com/licensing/terms/
+Power Automate,11.2608.115.0,Windows,NO,0,0,No License Required,FREEWARE,Freeware / Free Client,https://learn.microsoft.com/en-us/power-automate/desktop-flows/licensing
+Game Bar,7.326.8061.0,Windows,NO,0,0,No License Required,OS_BUNDLED,OS Bundled / No License Required,https://support.xbox.com/en-US/help/games-apps/game-setup-and-play/get-to-know-game-bar-on-windows-10
+Your Phone,1.26071.164.0,Windows,NO,,,No License Required,OS_BUNDLED,OS Bundled / No License Required,https://learn.microsoft.com/en-us/windows/apps/inbox-apps
+Paint,11.2605.81.0,Windows,NO,0,0,No License Required,OS_BUNDLED,OS Bundled / No License Required,https://learn.microsoft.com/en-us/windows/apps/inbox-apps
+Windows Notepad,11.2607.14.0,Windows,NO,,,No License Required,OS_BUNDLED,No License Required,https://learn.microsoft.com/en-us/windows/apps/inbox-apps
+Windows Camera,2026.2607.1.0,Windows,NO,0,0,No License Required,OS_BUNDLED,OS Bundled / No License Required,https://learn.microsoft.com/en-us/windows/apps/inbox-apps
+PDF X,1.4.27.0,Windows,NO,,,No License Required,FREEWARE,Freeware / Free Client,
+Windows Calculator,11.2607.0.0,Windows,NO,0,0,No License Required,OS_BUNDLED,OS Bundled / No License Required,https://learn.microsoft.com/en-us/windows/apps/inbox-apps
+Windows Alarms,11.2607.6.0,Windows,NO,,,No License Required,OS_BUNDLED,OS Bundled / No License Required,https://learn.microsoft.com/en-us/windows/apps/inbox-apps
+Windows Sound Recorder,11.2607.1.0,Windows,NO,0,0,No License Required,OS_BUNDLED,OS Bundled / No License Required,https://learn.microsoft.com/en-us/windows/apps/inbox-apps
+Zune Music,11.2607.16.0,Windows,NO,,,No License Required,OS_BUNDLED,OS Bundled / No License Required,https://support.microsoft.com/en-us/windows/windows-media-player
+AutoCAD - DWG Viewer and Editor,10.10.0.0,Windows,NO,,,No License Required,FREEWARE,Freeware / Free Client,https://www.autodesk.com/company/terms-of-use/en/general-terms
+Screen Sketch,11.2605.38.0,Windows,NO,,,No License Required,OS_BUNDLED,OS Bundled / No License Required,https://learn.microsoft.com/en-us/windows/apps/inbox-apps
+Photos,2026.11080.24002.0,Windows,NO,0,0,No License Required,OS_BUNDLED,No License Required,https://www.apple.com/legal/sla/
+Power BI Desktop,2.157.1354.0,Windows,NO,0,0,No License Required,FREEWARE,Freeware / Free Client,https://www.microsoft.com/en-us/power-platform/products/power-bi/desktop
+CBS,1000.26100.360.0,Windows,NO,0,0,No License Required,OS_BUNDLED,No License Required,
+Core AI,1000.26100.9444.0,Windows,NO,,,No License Required,OS_BUNDLED,No License Required,
+Outlook for Windows,1.2026.902.100,Windows,NO,0,0,No License Required,FREEWARE,Freeware / Free Client,https://support.microsoft.com/en-us/office/outlook-for-windows-overview
+Spotify Music,1.299.317.0,Windows,NO,0,0,No License Required,FREEWARE,Freeware / Free Client,
+Microsoft Store,22607.1401.9.0,Windows,NO,0,0,No License Required,OS_BUNDLED,No License Required,https://www.microsoft.com/licensing/terms/
+Microsoft 365 Copilot,19.2609.37021.0,Windows,YES,0,0,Users,FREE_AND_PAID,Commercial — Per Seat Subscription,https://www.microsoft.com/licensing/terms/
+WhatsApp,2.2635.100.0,Windows,NO,0,0,No License Required,FREEWARE,Freeware / Free Client,
+Windows Feedback Hub,2.2608.301.0,Windows,NO,,,No License Required,OS_BUNDLED,OS Bundled / No License Required,https://learn.microsoft.com/en-us/windows-insider/feedback-hub
+ChatGPT,26.908.4834.0,Windows,NO,0,0,No License Required,FREEWARE,Freeware / Free Client,

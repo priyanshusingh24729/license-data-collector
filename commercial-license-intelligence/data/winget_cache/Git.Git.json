@@ -1,0 +1,41 @@
+{
+  "package_id": "Git.Git",
+  "package_name": "Git",
+  "publisher": "The Git Development Community",
+  "version": "2.55.0.3",
+  "license": "GPL-2.0",
+  "license_url": "https://github.com/git-for-windows/build-extra/blob/HEAD/LICENSE.txt",
+  "installer_url": "https://github.com/git-for-windows/git/releases/download/v2.55.0.windows.3/Git-2.55.0.3-64-bit.exe",
+  "installer_sha256": "af12577d0fdff74243a5988197aa49b957d5044edc17004f6ddf0768996f1dca",
+  "installer_type": "inno",
+  "homepage": "https://gitforwindows.org/",
+  "description": null,
+  "copyright": "Copyright (C) 1989, 1991 Free Software Foundation, Inc.",
+  "moniker": "git",
+  "tags": [],
+  "raw_manifest": {
+    "general": {
+      "version": "2.55.0.3",
+      "publisher": "The Git Development Community",
+      "publisher_url": "https://gitforwindows.org/",
+      "publisher_support_url": "https://github.com/git-for-windows/git/issues",
+      "moniker": "git",
+      "homepage": "https://gitforwindows.org/",
+      "license": "GPL-2.0",
+      "license_url": "https://github.com/git-for-windows/build-extra/blob/HEAD/LICENSE.txt",
+      "copyright": "Copyright (C) 1989, 1991 Free Software Foundation, Inc.",
+      "release_notes_url": "https://github.com/git-for-windows/git/releases/tag/v2.55.0.windows.3",
+      "wiki": "https://github.com/git-for-windows/git/wiki"
+    },
+    "installer": {
+      "installer_type": "inno",
+      "installer_url": "https://github.com/git-for-windows/git/releases/download/v2.55.0.windows.3/Git-2.55.0.3-64-bit.exe",
+      "installer_sha256": "af12577d0fdff74243a5988197aa49b957d5044edc17004f6ddf0768996f1dca",
+      "release_date": "2026-07-14",
+      "offline_distribution_supported": "true"
+    }
+  },
+  "confidence": "VERY_HIGH",
+  "provenance": "winget:Git.Git",
+  "is_cached": false
+}

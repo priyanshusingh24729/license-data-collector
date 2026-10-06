@@ -1,0 +1,45 @@
+{
+  "package_id": "Python.Python.3.12",
+  "package_name": "Python 3.12",
+  "publisher": "Python Software Foundation",
+  "version": "3.12.10",
+  "license": "PSF-2.0",
+  "license_url": "https://docs.python.org/3/license.html",
+  "installer_url": "https://www.python.org/ftp/python/3.12.10/python-3.12.10-amd64.exe",
+  "installer_sha256": "67b5635e80ea51072b87941312d00ec8927c4db9ba18938f7ad2d27b328b95fb",
+  "installer_type": "burn",
+  "homepage": "https://www.python.org/",
+  "description": "Python is a programming language that lets you work more quickly and integrate your systems more effectively.",
+  "copyright": "Copyright (c) 2001-2024 Python Software Foundation. All Rights Reserved.",
+  "moniker": "python3.12",
+  "tags": [],
+  "raw_manifest": {
+    "general": {
+      "version": "3.12.10",
+      "publisher": "Python Software Foundation",
+      "publisher_url": "https://www.python.org/",
+      "publisher_support_url": "https://www.python.org/about/help/",
+      "author": "Python Software Foundation",
+      "moniker": "python3.12",
+      "description": "Python is a programming language that lets you work more quickly and integrate your systems more effectively.",
+      "homepage": "https://www.python.org/",
+      "license": "PSF-2.0",
+      "license_url": "https://docs.python.org/3/license.html",
+      "privacy_url": "https://www.python.org/privacy/",
+      "copyright": "Copyright (c) 2001-2024 Python Software Foundation. All Rights Reserved.",
+      "copyright_url": "https://www.python.org/about/legal/",
+      "release_notes_url": "https://docs.python.org/release/3.12.10/whatsnew/changelog.html#python-3-12-10",
+      "documentation": "https://www.python.org/doc/"
+    },
+    "installer": {
+      "installer_type": "burn",
+      "installer_url": "https://www.python.org/ftp/python/3.12.10/python-3.12.10-amd64.exe",
+      "installer_sha256": "67b5635e80ea51072b87941312d00ec8927c4db9ba18938f7ad2d27b328b95fb",
+      "release_date": "2025-04-08",
+      "offline_distribution_supported": "true"
+    }
+  },
+  "confidence": "VERY_HIGH",
+  "provenance": "winget:Python.Python.3.12",
+  "is_cached": false
+}

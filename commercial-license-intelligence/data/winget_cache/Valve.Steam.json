@@ -1,0 +1,46 @@
+{
+  "package_id": "Valve.Steam",
+  "package_name": "Steam",
+  "publisher": "Valve Corporation",
+  "version": "2.10.91.91",
+  "license": "Proprietary",
+  "license_url": "https://store.steampowered.com/subscriber_agreement/",
+  "installer_url": "https://cdn.akamai.steamstatic.com/client/installer/SteamSetup.exe",
+  "installer_sha256": "7d3654531c32d941b8cae81c4137fc542172bfa9635f169cb392f245a0a12bcb",
+  "installer_type": "nullsoft",
+  "homepage": "https://store.steampowered.com/about/",
+  "description": null,
+  "copyright": "Copyright \u00a9 2024 Valve Corporation. All rights reserved.",
+  "moniker": "steam",
+  "tags": [],
+  "raw_manifest": {
+    "general": {
+      "version": "2.10.91.91",
+      "publisher": "Valve Corporation",
+      "publisher_url": "https://www.valvesoftware.com/",
+      "publisher_support_url": "https://help.steampowered.com/",
+      "author": "Valve Corporation",
+      "moniker": "steam",
+      "homepage": "https://store.steampowered.com/about/",
+      "license": "Proprietary",
+      "license_url": "https://store.steampowered.com/subscriber_agreement/",
+      "privacy_url": "https://store.steampowered.com/privacy_agreement/",
+      "copyright": "Copyright \u00a9 2024 Valve Corporation. All rights reserved.",
+      "copyright_url": "https://store.steampowered.com/legal/",
+      "online_conduct": "https://store.steampowered.com/online_conduct/",
+      "refunds": "https://store.steampowered.com/steam_refunds/",
+      "security": "https://www.valvesoftware.com/security/",
+      "steamworks": "https://partner.steamgames.com/"
+    },
+    "installer": {
+      "installer_type": "nullsoft",
+      "installer_url": "https://cdn.akamai.steamstatic.com/client/installer/SteamSetup.exe",
+      "installer_sha256": "7d3654531c32d941b8cae81c4137fc542172bfa9635f169cb392f245a0a12bcb",
+      "release_date": "2024-05-20",
+      "offline_distribution_supported": "true"
+    }
+  },
+  "confidence": "VERY_HIGH",
+  "provenance": "winget:Valve.Steam",
+  "is_cached": false
+}

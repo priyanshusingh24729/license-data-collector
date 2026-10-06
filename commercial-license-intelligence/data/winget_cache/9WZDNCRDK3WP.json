@@ -1,0 +1,44 @@
+{
+  "package_id": "9WZDNCRDK3WP",
+  "package_name": "Slack",
+  "publisher": "Slack Technologies Inc.",
+  "version": "Unknown",
+  "license": "ms-windows-store://pdp/?ProductId=9WZDNCRDK3WP",
+  "license_url": null,
+  "installer_url": null,
+  "installer_sha256": null,
+  "installer_type": "msstore",
+  "homepage": null,
+  "description": null,
+  "copyright": "\u00a9 Slack Technologies, Inc.",
+  "moniker": null,
+  "tags": [],
+  "raw_manifest": {
+    "general": {
+      "version": "Unknown",
+      "publisher": "Slack Technologies Inc.",
+      "publisher_url": "https://www.slack.com",
+      "publisher_support_url": "https://get.slack.help/hc/en-us",
+      "use_slack_to": "",
+      "stop_by_and_learn_more_at": "https://slack.com/",
+      "license": "ms-windows-store://pdp/?ProductId=9WZDNCRDK3WP",
+      "privacy_url": "https://slack.com/privacy-policy",
+      "copyright": "\u00a9 Slack Technologies, Inc.",
+      "category": "Business",
+      "pricing": "Freemium",
+      "free_trial": "No",
+      "age_ratings": "12",
+      "terms_of_transaction": "https://aka.ms/microsoft-store-terms-of-transaction",
+      "seizure_warning": "https://aka.ms/microsoft-store-seizure-warning",
+      "store_license_terms": "https://aka.ms/microsoft-store-license"
+    },
+    "installer": {
+      "installer_type": "msstore",
+      "store_product_id": "9WZDNCRDK3WP",
+      "offline_distribution_supported": "true"
+    }
+  },
+  "confidence": "VERY_HIGH",
+  "provenance": "winget:9WZDNCRDK3WP",
+  "is_cached": false
+}

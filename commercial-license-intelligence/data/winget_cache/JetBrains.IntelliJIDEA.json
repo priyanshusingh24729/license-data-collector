@@ -1,0 +1,45 @@
+{
+  "package_id": "JetBrains.IntelliJIDEA",
+  "package_name": "IntelliJ IDEA",
+  "publisher": "JetBrains s.r.o.",
+  "version": "2026.2.2",
+  "license": "Proprietary",
+  "license_url": "https://www.jetbrains.com/legal/docs/toolbox/user/",
+  "installer_url": "https://download.jetbrains.com/idea/idea-2026.2.2.exe",
+  "installer_sha256": "692855b1b85f6d9291cf2fa78c95f3dc331316e150506c300d6860bd7f6f3907",
+  "installer_type": "nullsoft",
+  "homepage": "https://www.jetbrains.com/idea/",
+  "description": "IntelliJ IDEA is undoubtedly the top-choice IDE for software developers. It makes Java and Kotlin development a more productive and enjoyable experience.",
+  "copyright": "Copyright \u00a9 2000-2026 JetBrains s.r.o.",
+  "moniker": "intellij-idea",
+  "tags": [],
+  "raw_manifest": {
+    "general": {
+      "version": "2026.2.2",
+      "publisher": "JetBrains s.r.o.",
+      "publisher_url": "https://www.jetbrains.com/",
+      "publisher_support_url": "https://www.jetbrains.com/support/",
+      "author": "JetBrains s.r.o.",
+      "moniker": "intellij-idea",
+      "description": "IntelliJ IDEA is undoubtedly the top-choice IDE for software developers. It makes Java and Kotlin development a more productive and enjoyable experience.",
+      "homepage": "https://www.jetbrains.com/idea/",
+      "license": "Proprietary",
+      "license_url": "https://www.jetbrains.com/legal/docs/toolbox/user/",
+      "privacy_url": "https://www.jetbrains.com/legal/docs/privacy/privacy/",
+      "copyright": "Copyright \u00a9 2000-2026 JetBrains s.r.o.",
+      "release_notes_url": "https://youtrack.jetbrains.com/articles/IDEA-A-2100662739",
+      "purchase_url": "https://www.jetbrains.com/idea/buy/",
+      "resources": "https://www.jetbrains.com/idea/resources/"
+    },
+    "installer": {
+      "installer_type": "nullsoft",
+      "installer_url": "https://download.jetbrains.com/idea/idea-2026.2.2.exe",
+      "installer_sha256": "692855b1b85f6d9291cf2fa78c95f3dc331316e150506c300d6860bd7f6f3907",
+      "release_date": "2026-09-02",
+      "offline_distribution_supported": "true"
+    }
+  },
+  "confidence": "VERY_HIGH",
+  "provenance": "winget:JetBrains.IntelliJIDEA",
+  "is_cached": false
+}

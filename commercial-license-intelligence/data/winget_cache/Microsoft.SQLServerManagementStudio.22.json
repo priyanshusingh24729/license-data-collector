@@ -1,0 +1,44 @@
+{
+  "package_id": "Microsoft.SQLServerManagementStudio.22",
+  "package_name": "Microsoft SQL Server Management Studio 22",
+  "publisher": "Microsoft Corporation",
+  "version": "22.10.0",
+  "license": "Microsoft Release Software License",
+  "license_url": "https://aka.ms/ssms-license",
+  "installer_url": "https://download.visualstudio.microsoft.com/download/pr/af2bf19c-59e9-48c4-bac6-019f173389ac/1dab93450311bab4a759f4e85f76ebe749b261041b00fd24a6a2db5f21971a0a/vs_SSMS.exe",
+  "installer_sha256": "1dab93450311bab4a759f4e85f76ebe749b261041b00fd24a6a2db5f21971a0a",
+  "installer_type": "exe",
+  "homepage": "https://learn.microsoft.com/sql/ssms/download-sql-server-management-studio-ssms",
+  "description": "SQL Server Management Studio (SSMS) is an integrated environment for managing any SQL infrastructure, from SQL Server to Azure SQL Database. SSMS provides tools to configure, monitor, and administer instances of SQL Server and databases. Use SSMS to deploy, monitor, and upgrade the data-tier components used by your applications, and build queries and scripts.",
+  "copyright": "Copyright (c) Microsoft Corporation. All rights reserved.",
+  "moniker": "ssms",
+  "tags": [],
+  "raw_manifest": {
+    "general": {
+      "version": "22.10.0",
+      "publisher": "Microsoft Corporation",
+      "publisher_url": "https://www.microsoft.com/",
+      "publisher_support_url": "https://aka.ms/ssms-feedback/",
+      "author": "Microsoft",
+      "moniker": "ssms",
+      "description": "SQL Server Management Studio (SSMS) is an integrated environment for managing any SQL infrastructure, from SQL Server to Azure SQL Database. SSMS provides tools to configure, monitor, and administer instances of SQL Server and databases. Use SSMS to deploy, monitor, and upgrade the data-tier components used by your applications, and build queries and scripts.",
+      "homepage": "https://learn.microsoft.com/sql/ssms/download-sql-server-management-studio-ssms",
+      "license": "Microsoft Release Software License",
+      "license_url": "https://aka.ms/ssms-license",
+      "privacy_url": "https://privacy.microsoft.com/",
+      "copyright": "Copyright (c) Microsoft Corporation. All rights reserved.",
+      "release_notes_url": "https://aka.ms/SSMSReleaseNotes-22#22100"
+    },
+    "installer": {
+      "installer_type": "exe",
+      "installer_locale": "en-US",
+      "installer_url": "https://download.visualstudio.microsoft.com/download/pr/af2bf19c-59e9-48c4-bac6-019f173389ac/1dab93450311bab4a759f4e85f76ebe749b261041b00fd24a6a2db5f21971a0a/vs_SSMS.exe",
+      "installer_sha256": "1dab93450311bab4a759f4e85f76ebe749b261041b00fd24a6a2db5f21971a0a",
+      "release_date": "2026-09-08",
+      "offline_distribution_supported": "true"
+    }
+  },
+  "confidence": "VERY_HIGH",
+  "provenance": "winget:Microsoft.SQLServerManagementStudio.22",
+  "is_cached": false
+}

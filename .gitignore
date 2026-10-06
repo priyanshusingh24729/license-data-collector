@@ -1,0 +1,61 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual Environments
+env/
+venv/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Environment Variables & Secrets
+.env
+*.env
+!.env.example
+.device_key
+*.device_key
+
+# Databases & SQLite files (exceeds GitHub file size limits)
+*.db
+*.db-shm
+*.db-wal
+*.sqlite
+*.sqlite3
+
+# Large data exports (>50MB / GitHub limits)
+commercial-license-intelligence/exports/srs_apps_improved_metric.csv
+*.csv.gz
+
+# Data artifacts and caches
+commercial-license-intelligence/data/raw/*
+!commercial-license-intelligence/data/raw/.gitkeep
+commercial-license-intelligence/data/processed/*
+!commercial-license-intelligence/data/processed/.gitkeep
+
+# Testing & Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Streamlit
+.streamlit/
+
+# Logs
+*.log
+
+# IDE & OS files
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# External third-party cloned repositories
+searxng/

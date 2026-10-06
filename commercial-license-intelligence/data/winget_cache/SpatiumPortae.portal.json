@@ -1,0 +1,37 @@
+{
+  "package_id": "SpatiumPortae.portal",
+  "package_name": "portal",
+  "publisher": "SpatiumPortae",
+  "version": "1.2.3",
+  "license": "MIT",
+  "license_url": null,
+  "installer_url": "https://github.com/SpatiumPortae/portal/releases/download/v1.2.3/portal_1.2.3_Windows_x86_64.zip",
+  "installer_sha256": "f775a4a9362da02d9ad19436deb18b01a371ad9ab5ba337c4815a2d00dcfef04",
+  "installer_type": "portable (zip)",
+  "homepage": "https://github.com/SpatiumPortae/portal",
+  "description": "Portal is a quick and easy command-line file transfer utility from any computer to another",
+  "copyright": null,
+  "moniker": "portal",
+  "tags": [],
+  "raw_manifest": {
+    "general": {
+      "version": "1.2.3",
+      "publisher": "SpatiumPortae",
+      "publisher_url": "https://github.com/SpatiumPortae",
+      "author": "SpatiumPortae",
+      "moniker": "portal",
+      "description": "Portal is a quick and easy command-line file transfer utility from any computer to another",
+      "homepage": "https://github.com/SpatiumPortae/portal",
+      "license": "MIT"
+    },
+    "installer": {
+      "installer_type": "portable (zip)",
+      "installer_url": "https://github.com/SpatiumPortae/portal/releases/download/v1.2.3/portal_1.2.3_Windows_x86_64.zip",
+      "installer_sha256": "f775a4a9362da02d9ad19436deb18b01a371ad9ab5ba337c4815a2d00dcfef04",
+      "offline_distribution_supported": "true"
+    }
+  },
+  "confidence": "VERY_HIGH",
+  "provenance": "winget:SpatiumPortae.portal",
+  "is_cached": false
+}

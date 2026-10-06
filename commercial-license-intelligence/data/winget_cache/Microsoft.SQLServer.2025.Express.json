@@ -1,0 +1,38 @@
+{
+  "package_id": "Microsoft.SQLServer.2025.Express",
+  "package_name": "Microsoft SQL Server 2025 Express",
+  "publisher": "Microsoft Corporation",
+  "version": "17.0.1000.7",
+  "license": "Proprietary",
+  "license_url": null,
+  "installer_url": "https://download.microsoft.com/download/7ab8f535-7eb8-4b16-82eb-eca0fa2d38f3/SQL2025-SSEI-Expr.exe",
+  "installer_sha256": "1c677a33b318481c3217128835f8405cf0026621dcd04b13eb6cb0982e823f27",
+  "installer_type": "exe",
+  "homepage": "https://www.microsoft.com/en-us/",
+  "description": "SQL Server 2025 Express is a free edition of SQL Server, ideal for development and production for desktop, web, and small server applications.",
+  "copyright": "Copyright (c) Microsoft Corporation. All rights reserved.",
+  "moniker": null,
+  "tags": [],
+  "raw_manifest": {
+    "general": {
+      "version": "17.0.1000.7",
+      "publisher": "Microsoft Corporation",
+      "publisher_url": "https://www.microsoft.com/en-us/sql-server/",
+      "author": "Microsoft Corporation",
+      "description": "SQL Server 2025 Express is a free edition of SQL Server, ideal for development and production for desktop, web, and small server applications.",
+      "homepage": "https://www.microsoft.com/en-us/",
+      "license": "Proprietary",
+      "copyright": "Copyright (c) Microsoft Corporation. All rights reserved."
+    },
+    "installer": {
+      "installer_type": "exe",
+      "installer_url": "https://download.microsoft.com/download/7ab8f535-7eb8-4b16-82eb-eca0fa2d38f3/SQL2025-SSEI-Expr.exe",
+      "installer_sha256": "1c677a33b318481c3217128835f8405cf0026621dcd04b13eb6cb0982e823f27",
+      "release_date": "2025-12-18",
+      "offline_distribution_supported": "true"
+    }
+  },
+  "confidence": "VERY_HIGH",
+  "provenance": "winget:Microsoft.SQLServer.2025.Express",
+  "is_cached": false
+}

@@ -1,0 +1,45 @@
+{
+  "package_id": "Redis.Redis",
+  "package_name": "Redis on Windows",
+  "publisher": "MSOpenTech",
+  "version": "3.0.504",
+  "license": "BSD-3-Clause",
+  "license_url": "https://github.com/microsoftarchive/redis/blob/3.0/license.txt",
+  "installer_url": "https://github.com/microsoftarchive/redis/releases/download/win-3.0.504/Redis-x64-3.0.504.msi",
+  "installer_sha256": "1270bacbfafd7fa60af905abbe01d419beb6fbb20aa9350170ce7b93777f98d0",
+  "installer_type": "wix",
+  "homepage": "https://github.com/microsoftarchive/redis",
+  "description": "Redis is an open source, BSD licensed, advanced key-value cache and store. It is often referred to as a data structure server since keys can contain strings, hashes, lists, sets, sorted sets, bitmaps and hyperloglogs. This is a Windows port maintained by Microsoft Archive",
+  "copyright": "Copyright (c) Microsoft Open Technologies, Inc",
+  "moniker": "redis",
+  "tags": [],
+  "raw_manifest": {
+    "general": {
+      "version": "3.0.504",
+      "publisher": "MSOpenTech",
+      "publisher_url": "https://github.com/microsoftarchive/redis",
+      "publisher_support_url": "https://github.com/microsoftarchive/redis/issues",
+      "author": "Salvatore Sanfilippo",
+      "moniker": "redis",
+      "description": "Redis is an open source, BSD licensed, advanced key-value cache and store. It is often referred to as a data structure server since keys can contain strings, hashes, lists, sets, sorted sets, bitmaps and hyperloglogs. This is a Windows port maintained by Microsoft Archive",
+      "homepage": "https://github.com/microsoftarchive/redis",
+      "license": "BSD-3-Clause",
+      "license_url": "https://github.com/microsoftarchive/redis/blob/3.0/license.txt",
+      "copyright": "Copyright (c) Microsoft Open Technologies, Inc",
+      "release_notes_url": "https://github.com/microsoftarchive/redis/releases/tag/win-3.0.504",
+      "default_port": "6379",
+      "default_installation_folder": "C:\\Program Files\\Redis",
+      "config_file": "redis.windows.conf ( in installation folder )"
+    },
+    "installer": {
+      "installer_type": "wix",
+      "installer_locale": "en-US",
+      "installer_url": "https://github.com/microsoftarchive/redis/releases/download/win-3.0.504/Redis-x64-3.0.504.msi",
+      "installer_sha256": "1270bacbfafd7fa60af905abbe01d419beb6fbb20aa9350170ce7b93777f98d0",
+      "offline_distribution_supported": "true"
+    }
+  },
+  "confidence": "VERY_HIGH",
+  "provenance": "winget:Redis.Redis",
+  "is_cached": false
+}

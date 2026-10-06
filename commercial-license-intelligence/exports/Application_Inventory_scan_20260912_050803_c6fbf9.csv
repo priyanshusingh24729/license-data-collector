@@ -1,0 +1,113 @@
+﻿App_ID,Name,OSType,Version,Normalized_Application,Created_At,Operating_System,Major_Version,Minor_Version,Patch_Version,NoLicenseRequired,IsEndOfLife,IsEndOfSupport,Metric,Classification,License Required,License Model
+1,AMD Software,0,24.7.1,AMD Software,2026-09-12 05:08:08,Windows,24,7,1,1,NULL,NULL,No License Required,NULL,NO,Hardware Bundled Driver / Free Utility
+2,Docker Desktop,0,4.82.0,Docker Desktop,2026-09-12 05:08:08,Windows,4,82,0,0,0,0,Users,COMMERCIAL,YES,Commercial — Per Seat Subscription
+3,Git,0,2.51.2,Git,2026-09-12 05:08:08,Windows,2,51,2,1,NULL,NULL,No License Required,OPEN_SOURCE,NO,GPL-2.0 — Free/Open Source
+4,Microsoft Office Home and Student 2021 - en-us,0,16.0.20326.20132,Microsoft Office Home and Student 2021 - en-us,2026-09-12 05:08:08,Windows,16,0,20326,0,0,0,NULL,COMMERCIAL,YES,Commercial — Subscription
+5,Mem Reduct,0,3.5.2,Mem Reduct,2026-09-12 05:08:08,Windows,3,5,2,1,NULL,NULL,No License Required,OPEN_SOURCE,NO,GPL-3.0 — Free/Open Source
+6,Notepad++ (64-bit x64),0,8.7.5,Notepad++ ( ),2026-09-12 05:08:08,Windows,8,7,5,1,NULL,NULL,No License Required,OPEN_SOURCE,NO,GPL-3.0 — Free/Open Source
+7,Microsoft OneNote - en-us,0,16.0.20326.20132,Microsoft OneNote - en-us,2026-09-12 05:08:08,Windows,16,0,20326,0,NULL,NULL,Users,COMMERCIAL,YES,Commercial — Per Seat Subscription
+8,Riot Vanguard,0,NULL,Riot Vanguard,2026-09-12 05:08:08,Windows,NULL,NULL,NULL,1,NULL,NULL,No License Required,FREE,NO,Freeware
+9,MECCHA CHAMELEON,0,NULL,MECCHA CHAMELEON,2026-09-12 05:08:08,Windows,NULL,NULL,NULL,0,NULL,NULL,NULL,NULL,YES,NULL
+10,WinRAR 7.13 (64-bit),0,7.13.0,WinRAR 7.13,2026-09-12 05:08:08,Windows,7,13,0,0,NULL,NULL,Devices,COMMERCIAL,YES,Commercial — Per Device
+11,Microsoft GameInput,0,3.3.221.0,Microsoft GameInput,2026-09-12 05:08:08,Windows,3,3,221,1,NULL,NULL,No License Required,FREE,NO,Freeware
+12,MySQL Server 8.0,0,8.0.44,MySQL Server 8.0,2026-09-12 05:08:08,Windows,8,0,44,0,NULL,NULL,Processor Cores,FREE_AND_PAID,YES,Commercial — Per Core
+13,Python 3.11.4 Development Libraries (64-bit),0,3.11.4150.0,Python 3.11.4 Development Libraries,2026-09-12 05:08:08,Windows,3,11,4150,1,0,0,No License Required,OPEN_SOURCE,NO,BSD — Free/Open Source
+14,Microsoft Windows Application Compatibility Fix Database,0,NULL,Microsoft Windows Application Compatibility Fix Database,2026-09-12 05:08:08,Windows,NULL,NULL,NULL,1,NULL,NULL,No License Required,FREE,NO,Freeware
+15,CMake,0,3.29.2,CMake,2026-09-12 05:08:08,Windows,3,29,2,1,NULL,NULL,No License Required,OPEN_SOURCE,NO,BSD — Free/Open Source
+16,Branding64,0,1.00.0009,Branding64,2026-09-12 05:08:08,Windows,1,0,9,0,NULL,NULL,NULL,NULL,YES,NULL
+17,Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.4148,0,9.0.30729.4148,Microsoft Visual C++ 2008 Redistributable -,2026-09-12 05:08:08,Windows,9,0,30729,1,NULL,NULL,No License Required,FREE,NO,Freeware
+18,Python 3.11.4 Test Suite (64-bit),0,3.11.4150.0,Python 3.11.4 Test Suite,2026-09-12 05:08:08,Windows,3,11,4150,1,0,0,No License Required,OPEN_SOURCE,NO,BSD — Free/Open Source
+19,Bonjour,0,3.1.0.1,Bonjour,2026-09-12 05:08:08,Windows,3,1,0,1,NULL,NULL,No License Required,FREE,NO,Freeware
+20,AMD Settings,0,2024.0618.1442.1996,AMD Settings,2026-09-12 05:08:08,Windows,2024,618,1442,1,NULL,NULL,No License Required,NULL,NO,No License Required
+21,RyzenMasterSDK,0,1.2.3.5,RyzenMasterSDK,2026-09-12 05:08:08,Windows,1,2,3,1,NULL,NULL,No License Required,NULL,NO,No License Required
+22,AWS Command Line Interface v2,0,2.35.24.0,AWS Command Line Interface v2,2026-09-12 05:08:08,Windows,2,35,24,1,NULL,NULL,No License Required,OPEN_SOURCE,NO,Apache-2.0 — Free/Open Source
+23,Microsoft Visual C++ 2022 X64 Additional Runtime - 14.51.36247,0,14.51.36247,Microsoft Visual C++ 2022 Additional Runtime -,2026-09-12 05:08:08,Windows,14,51,36247,1,NULL,NULL,No License Required,FREE,NO,Freeware
+24,Java 8 Update 491 (64-bit),0,8.0.4910.10,Java Update 491,2026-09-12 05:08:08,Windows,8,0,4910,0,0,1,NULL,COMMERCIAL,YES,Commercial — Subscription
+25,Python 3.11.4 Add to Path (64-bit),0,3.11.4150.0,Python 3.11.4 Add to Path,2026-09-12 05:08:08,Windows,3,11,4150,1,0,0,No License Required,OPEN_SOURCE,NO,BSD — Free/Open Source
+26,AMD DVR64,0,1.0.2,AMD DVR64,2026-09-12 05:08:08,Windows,1,0,2,1,NULL,NULL,No License Required,NULL,NO,No License Required
+27,Python 3.11.4 Standard Library (64-bit),0,3.11.4150.0,Python 3.11.4 Standard Library,2026-09-12 05:08:08,Windows,3,11,4150,1,0,0,No License Required,OPEN_SOURCE,NO,BSD — Free/Open Source
+28,MongoDB 8.2.2 2008R2Plus SSL (64 bit),0,8.2.2,MongoDB 2008R2Plus SSL,2026-09-12 05:08:08,Windows,8,2,2,1,NULL,NULL,No License Required,OPEN_SOURCE,NO,Free / Open Source
+29,Office 16 Click-to-Run Extensibility Component,0,16.0.20326.20072,Office Click-to-Run Extensibility Component,2026-09-12 05:08:08,Windows,16,0,20326,1,NULL,NULL,No License Required,COMMERCIAL,NO,No License Required
+30,Python 3.11.4 Utility Scripts (64-bit),0,3.11.4150.0,Python 3.11.4 Utility Scripts,2026-09-12 05:08:08,Windows,3,11,4150,1,0,0,No License Required,OPEN_SOURCE,NO,BSD — Free/Open Source
+31,MySQL Router 8.0,0,8.0.44,MySQL Router 8.0,2026-09-12 05:08:08,Windows,8,0,44,1,1,1,No License Required,OPEN_SOURCE,NO,GPL-2.0 — Free/Open Source
+32,Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.51.36247,0,14.51.36247,Microsoft Visual C++ 2022 Minimum Runtime -,2026-09-12 05:08:08,Windows,14,51,36247,1,NULL,NULL,No License Required,FREE,NO,Freeware
+33,AMD WVR64,0,1.0.2,AMD WVR64,2026-09-12 05:08:08,Windows,1,0,2,1,NULL,NULL,No License Required,NULL,NO,No License Required
+34,MySQL Workbench 8.0 CE,0,8.0.44,MySQL Workbench 8.0 CE,2026-09-12 05:08:08,Windows,8,0,44,1,1,1,No License Required,OPEN_SOURCE,NO,GPL-2.0 — Free/Open Source
+35,Python 3.11.4 Tcl/Tk Support (64-bit),0,3.11.4150.0,Python 3.11.4 Tcl/Tk Support,2026-09-12 05:08:08,Windows,3,11,4150,1,0,0,No License Required,OPEN_SOURCE,NO,BSD — Free/Open Source
+36,Microsoft Teams Meeting Add-in for Microsoft Office,0,1.25.18302,Microsoft Teams Meeting Add-in for Microsoft Office,2026-09-12 05:08:08,Windows,1,25,18302,0,NULL,NULL,Users,COMMERCIAL,YES,Commercial — Per Seat Subscription
+37,GLPI Agent 1.19,0,1.19,GLPI Agent,2026-09-12 05:08:08,Windows,1,19,NULL,0,NULL,NULL,NULL,NULL,YES,NULL
+38,NVIDIA Graphics Driver 616.64,0,616.64,NVIDIA Graphics Driver,2026-09-12 05:08:08,Windows,616,64,NULL,1,NULL,NULL,No License Required,NULL,NO,No License Required
+39,NVIDIA App 11.0.9.251,0,11.0.9.251,NVIDIA App,2026-09-12 05:08:08,Windows,11,0,9,1,NULL,NULL,No License Required,NULL,NO,No License Required
+40,NVIDIA MessageBus 3 for NvApp,0,3.21,NVIDIA MessageBus for NvApp,2026-09-12 05:08:08,Windows,3,21,NULL,1,NULL,NULL,No License Required,NULL,NO,No License Required
+41,NVIDIA Backend,0,11.0.9.251,NVIDIA Backend,2026-09-12 05:08:08,Windows,11,0,9,1,NULL,NULL,No License Required,NULL,NO,No License Required
+42,NVIDIA App driver settings,0,1.0,NVIDIA App driver settings,2026-09-12 05:08:08,Windows,1,0,NULL,1,NULL,NULL,No License Required,NULL,NO,No License Required
+43,NVIDIA PhysX System Software 9.26.0703,0,9.26.0703,NVIDIA PhysX System Software,2026-09-12 05:08:08,Windows,9,26,703,1,NULL,NULL,No License Required,NULL,NO,No License Required
+44,NVIDIA FrameView SDK 1.9.12728.38614306,0,1.9.12728.38614306,NVIDIA FrameView SDK,2026-09-12 05:08:08,Windows,1,9,12728,1,NULL,NULL,No License Required,NULL,NO,No License Required
+45,NVIDIA HD Audio Driver 1.4.6.3,0,1.4.6.3,NVIDIA HD Audio Driver,2026-09-12 05:08:08,Windows,1,4,6,1,NULL,NULL,No License Required,NULL,NO,No License Required
+46,NVIDIA Install Application,0,2.1002.463.0,NVIDIA Install Application,2026-09-12 05:08:08,Windows,2,1002,463,1,NULL,NULL,No License Required,FREE,NO,Freeware
+47,NVIDIA Container,0,1.51,NVIDIA Container,2026-09-12 05:08:08,Windows,1,51,NULL,1,NULL,NULL,No License Required,NULL,NO,No License Required
+48,NVIDIA AIUser Container,0,1.51,NVIDIA AIUser Container,2026-09-12 05:08:08,Windows,1,51,NULL,1,NULL,NULL,No License Required,FREE,NO,Freeware
+49,NVIDIA LocalSystem Container,0,1.51,NVIDIA LocalSystem Container,2026-09-12 05:08:08,Windows,1,51,NULL,1,NULL,NULL,No License Required,FREE,NO,Freeware
+50,NVIDIA Session Container,0,1.51,NVIDIA Session Container,2026-09-12 05:08:08,Windows,1,51,NULL,1,NULL,NULL,No License Required,FREE,NO,Freeware
+51,NVIDIA User Container,0,1.51,NVIDIA User Container,2026-09-12 05:08:08,Windows,1,51,NULL,1,NULL,NULL,No License Required,FREE,NO,Freeware
+52,NVIDIA NvDLISR,0,1.0,NVIDIA NvDLISR,2026-09-12 05:08:08,Windows,1,0,NULL,1,NULL,NULL,No License Required,NULL,NO,No License Required
+53,NVIDIA Platform Controllers and Framework,0,615.34,NVIDIA Platform Controllers and Framework,2026-09-12 05:08:08,Windows,615,34,NULL,1,NULL,NULL,No License Required,FREE,NO,Freeware
+54,NVIDIA Watchdog Plugin for NvContainer,0,1.51,NVIDIA Watchdog Plugin for NvContainer,2026-09-12 05:08:08,Windows,1,51,NULL,1,NULL,NULL,No License Required,NULL,NO,No License Required
+55,NVIDIA Telemetry Client,0,19.8.1.0,NVIDIA Telemetry Client,2026-09-12 05:08:08,Windows,19,8,1,1,NULL,NULL,No License Required,NULL,NO,No License Required
+56,NVIDIA ShadowPlay 11.0.9.500,0,11.0.9.500,NVIDIA ShadowPlay,2026-09-12 05:08:08,Windows,11,0,9,1,NULL,NULL,No License Required,NULL,NO,No License Required
+57,NVIDIA USBC Driver 1.52.831.832,0,1.52.831.832,NVIDIA USBC Driver,2026-09-12 05:08:08,Windows,1,52,831,1,NULL,NULL,No License Required,NULL,NO,No License Required
+58,NVIDIA Virtual Audio 4.92.0.0,0,4.92.0.0,NVIDIA Virtual Audio,2026-09-12 05:08:08,Windows,4,92,0,1,NULL,NULL,No License Required,NULL,NO,No License Required
+59,GitHub CLI,0,2.92.0,GitHub CLI,2026-09-12 05:08:08,Windows,2,92,0,1,NULL,NULL,No License Required,OPEN_SOURCE,NO,GPL-2.0 — Free/Open Source
+60,Microsoft Update Health Tools,0,5.72.0.0,Microsoft Update Health Tools,2026-09-12 05:08:08,Windows,5,72,0,1,NULL,NULL,No License Required,FREE,NO,Freeware
+61,Apple Mobile Device Support,0,16.5.0.12,Apple Mobile Device Support,2026-09-12 05:08:08,Windows,16,5,0,1,NULL,NULL,No License Required,FREE,NO,Freeware
+62,Java(TM) SE Development Kit 20.0.2 (64-bit),0,20.0.2.0,Java(TM) SE Development Kit 20.0.2,2026-09-12 05:08:08,Windows,20,0,2,0,1,1,NULL,COMMERCIAL,YES,Commercial — Subscription
+63,Node.js,0,22.19.0,Node.js,2026-09-12 05:08:08,Windows,22,19,0,1,0,0,No License Required,OPEN_SOURCE,NO,MIT — Free/Open Source
+64,Python 3.11.4 pip Bootstrap (64-bit),0,3.11.4150.0,Python 3.11.4 pip Bootstrap,2026-09-12 05:08:08,Windows,3,11,4150,1,0,0,No License Required,OPEN_SOURCE,NO,BSD — Free/Open Source
+65,MySQL Shell,0,8.0.44,MySQL Shell,2026-09-12 05:08:08,Windows,8,0,44,1,1,1,No License Required,OPEN_SOURCE,NO,GPL-2.0 — Free/Open Source
+66,Python 3.11.4 Executables (64-bit),0,3.11.4150.0,Python 3.11.4 Executables,2026-09-12 05:08:08,Windows,3,11,4150,1,0,0,No License Required,OPEN_SOURCE,NO,BSD — Free/Open Source
+67,AMD User Experience Program Installer,0,2319.0.0.618,AMD User Experience Program Installer,2026-09-12 05:08:08,Windows,2319,0,0,1,NULL,NULL,No License Required,NULL,NO,No License Required
+68,Epic Games Launcher Prerequisites (x64),0,1.0.0.0,Epic Games Launcher Prerequisites,2026-09-12 05:08:08,Windows,1,0,0,1,NULL,NULL,No License Required,FREE,NO,Freeware
+69,Python 3.11.4 Documentation (64-bit),0,3.11.4150.0,Python 3.11.4 Documentation,2026-09-12 05:08:08,Windows,3,11,4150,1,0,0,No License Required,OPEN_SOURCE,NO,BSD — Free/Open Source
+70,Windows Subsystem for Linux,0,2.7.10.0,Windows Subsystem,2026-09-12 05:08:08,Windows,2,7,10,1,NULL,NULL,No License Required,FREE,NO,Freeware
+71,Python 3.11.4 Core Interpreter (64-bit),0,3.11.4150.0,Python 3.11.4 Core Interpreter,2026-09-12 05:08:08,Windows,3,11,4150,1,0,0,No License Required,OPEN_SOURCE,NO,BSD — Free/Open Source
+72,AMD Chipset Software,0,6.07.22.037,AMD Chipset Software,2026-09-12 05:08:08,Windows,6,7,22,1,NULL,NULL,No License Required,NULL,NO,No License Required
+73,Brave,0,153.1.95.101,Brave,2026-09-12 05:08:08,Windows,153,1,95,1,NULL,NULL,No License Required,OPEN_SOURCE,NO,MPL — Free/Open Source
+74,Google Chrome,0,152.0.7977.84,Google Chrome,2026-09-12 05:08:08,Windows,152,0,7977,1,NULL,NULL,No License Required,FREE,NO,Freeware
+75,IntelliJ IDEA 2023.2.2,0,232.9921.47,IntelliJ IDEA 2023.2.2,2026-09-12 05:08:08,Windows,232,9921,47,0,NULL,NULL,Users,COMMERCIAL,YES,Commercial — Per Seat Subscription
+76,Legion Arena,0,1.10.0.10,Legion Arena,2026-09-12 05:08:08,Windows,1,10,0,1,NULL,NULL,No License Required,NULL,NO,No License Required
+77,Copilot,0,153.0.4234.32,Copilot,2026-09-12 05:08:08,Windows,153,0,4234,0,NULL,NULL,Users,FREE_AND_PAID,YES,Freemium / In-App & M365 Subscription
+78,Microsoft Edge,0,152.0.4191.66,Microsoft Edge,2026-09-12 05:08:08,Windows,152,0,4191,1,NULL,NULL,No License Required,FREE,NO,Freeware
+79,Microsoft Edge WebView2 Runtime,0,152.0.4191.66,Microsoft Edge WebView2 Runtime,2026-09-12 05:08:08,Windows,152,0,4191,1,NULL,NULL,No License Required,FREE,NO,Freeware
+80,Steam,0,2.10.91.91,Steam,2026-09-12 05:08:08,Windows,2,10,91,0,NULL,NULL,Users,COMMERCIAL,YES,Commercial — Per Seat Subscription
+81,TLauncher,0,2.9343,TLauncher,2026-09-12 05:08:08,Windows,2,9343,NULL,1,NULL,NULL,No License Required,FREE,NO,Freeware
+82,Lenovo Vantage Service,0,5.1.2608.14,Lenovo Vantage Service,2026-09-12 05:08:08,Windows,5,1,2608,1,NULL,NULL,No License Required,FREE,NO,Freeware
+83,Microsoft Visual C++ v14 Redistributable (x64) - 14.51.36247,0,14.51.36247.0,Microsoft Visual C++ v14 Redistributable - 14.51.36247,2026-09-12 05:08:08,Windows,14,51,36247,1,NULL,NULL,No License Required,FREE,NO,Freeware
+84,MySQL Examples and Samples,0,8.0.44,MySQL Examples and Samples,2026-09-12 05:08:08,Windows,8,0,44,1,1,1,No License Required,OPEN_SOURCE,NO,GPL-2.0 — Free/Open Source
+85,Avast Update Helper,0,1.8.1995.6,Avast Update Helper,2026-09-12 05:08:08,Windows,1,8,1995,1,NULL,NULL,No License Required,FREE,NO,Freeware
+86,Python Launcher,0,3.11.4150.0,Python Launcher,2026-09-12 05:08:08,Windows,3,11,4150,1,0,0,No License Required,OPEN_SOURCE,NO,BSD — Free/Open Source
+87,MySQL Installer,0,1.6.16.0,MySQL Installer,2026-09-12 05:08:08,Windows,1,6,16,1,NULL,NULL,No License Required,OPEN_SOURCE,NO,GPL-2.0 — Free/Open Source
+88,Epic Online Services,0,2.0.42.0,Epic Online Services,2026-09-12 05:08:08,Windows,2,0,42,1,NULL,NULL,No License Required,FREE,NO,Freeware
+89,WebAdvisor by McAfee,0,4.1.2.111,WebAdvisor by McAfee,2026-09-12 05:08:08,Windows,4,1,2,1,NULL,NULL,No License Required,FREE,NO,Freeware
+90,Java Auto Updater,0,2.8.491.10,Java Auto Updater,2026-09-12 05:08:08,Windows,2,8,491,0,1,1,NULL,COMMERCIAL,YES,Commercial — Subscription
+91,Wondershare Helper Compact 2.6.0,0,2.6.0,Wondershare Helper Compact,2026-09-12 05:08:08,Windows,2,6,0,1,NULL,NULL,No License Required,COMMERCIAL,NO,No License Required
+92,Google Update Helper,0,1.3.33.23,Google Update Helper,2026-09-12 05:08:08,Windows,1,3,33,1,NULL,NULL,No License Required,OPEN_SOURCE,NO,BSD — Free/Open Source
+93,MySQL Documents,0,8.0.44,MySQL Documents,2026-09-12 05:08:08,Windows,8,0,44,1,1,1,No License Required,OPEN_SOURCE,NO,GPL-2.0 — Free/Open Source
+94,AMD PSP Driver,0,5.30.0.0,AMD PSP Driver,2026-09-12 05:08:08,Windows,5,30,0,1,NULL,NULL,No License Required,NULL,NO,No License Required
+95,AMD Ryzen Balanced Driver,0,8.0.0.13,AMD Ryzen Balanced Driver,2026-09-12 05:08:08,Windows,8,0,0,1,NULL,NULL,No License Required,NULL,NO,No License Required
+96,Apple Software Update,0,2.6.3.1,Apple Software Update,2026-09-12 05:08:08,Windows,2,6,3,1,NULL,NULL,No License Required,FREE,NO,Freeware
+97,AMD_Chipset_Drivers,0,6.07.22.037,AMD_Chipset_Drivers,2026-09-12 05:08:08,Windows,6,7,22,1,NULL,NULL,No License Required,FREE,NO,Freeware
+98,AMD SBxxx SMBus Driver,0,5.12.0.44,AMD SBxxx SMBus Driver,2026-09-12 05:08:08,Windows,5,12,0,1,NULL,NULL,No License Required,NULL,NO,No License Required
+99,Epic Games Launcher,0,1.3.82.0,Epic Games Launcher,2026-09-12 05:08:08,Windows,1,3,82,1,NULL,NULL,No License Required,FREE,NO,Freeware
+100,AMD I2C Driver,0,1.2.0.124,AMD I2C Driver,2026-09-12 05:08:08,Windows,1,2,0,1,NULL,NULL,No License Required,NULL,NO,No License Required
+101,AMD GPIO2 Driver,0,2.2.0.133,AMD GPIO2 Driver,2026-09-12 05:08:08,Windows,2,2,0,1,NULL,NULL,No License Required,NULL,NO,No License Required
+102,Canva,0,1.122.0,Canva,2026-09-12 05:08:08,Windows,1,122,0,0,NULL,NULL,Users,FREE_AND_PAID,YES,Per Seat Subscription
+103,Create React App Sample,0,1.0,Create React App Sample,2026-09-12 05:08:08,Windows,1,0,NULL,1,NULL,NULL,No License Required,OPEN_SOURCE,NO,MIT — Free/Open Source
+104,Discord,0,1.0.9256,Discord,2026-09-12 05:08:08,Windows,1,0,9256,1,NULL,NULL,No License Required,FREE,NO,Freeware
+105,MongoDB Compass,0,1.49.4,MongoDB Compass,2026-09-12 05:08:08,Windows,1,49,4,1,NULL,NULL,No License Required,OPEN_SOURCE,NO,Free / Open Source
+106,Riot Client,0,NULL,Riot Client,2026-09-12 05:08:08,Windows,NULL,NULL,NULL,1,NULL,NULL,No License Required,FREE,NO,Freeware
+107,VALORANT,0,NULL,VALORANT,2026-09-12 05:08:08,Windows,NULL,NULL,NULL,1,NULL,NULL,No License Required,FREE,NO,Freeware
+108,Warp,0,0.2025.10.29.08.12.stable_03,Warp,2026-09-12 05:08:08,Windows,0,2025,10,0,NULL,NULL,Users,FREE_AND_PAID,YES,Commercial — Per Seat Subscription
+109,Zoom Workplace,0,7.0.6 (43848),Zoom Workplace,2026-09-12 05:08:08,Windows,7,0,6,0,NULL,NULL,Users,FREE_AND_PAID,YES,Commercial — Per Seat Subscription
+110,Python 3.11.4 (64-bit),0,3.11.4150.0,Python 3.11.4,2026-09-12 05:08:08,Windows,3,11,4150,1,0,0,No License Required,OPEN_SOURCE,NO,BSD — Free/Open Source
+111,Microsoft Visual Studio Code (User),0,1.132.1,Microsoft Visual Studio Code (User),2026-09-12 05:08:08,Windows,1,132,1,1,NULL,NULL,No License Required,OPEN_SOURCE,NO,MIT — Free/Open Source
+112,Antigravity IDE (User),0,2.5.5,Antigravity IDE (User),2026-09-12 05:08:08,Windows,2,5,5,0,NULL,NULL,Users,FREE_AND_PAID,YES,Commercial — Per Seat Subscription

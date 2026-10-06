@@ -1,0 +1,43 @@
+{
+  "package_id": "XPDC2RH70K22MN",
+  "package_name": "Discord",
+  "publisher": "Discord, Inc.",
+  "version": "1.0.9188",
+  "license": "https://discord.com/licenses",
+  "license_url": null,
+  "installer_url": "https://cdn.storeedgefd.dsx.mp.microsoft.com/eus2/cachedpackages/52901260/29ad6495-3021-433d-90db-a591528d83b1/c04c9deb3aeca08b7258bae524cd41e2161e7a8dc2492ebb6d92ade865464df4/file",
+  "installer_sha256": "c04c9deb3aeca08b7258bae524cd41e2161e7a8dc2492ebb6d92ade865464df4",
+  "installer_type": "exe",
+  "homepage": null,
+  "description": null,
+  "copyright": "ms-windows-store://pdp/?ProductId=XPDC2RH70K22MN",
+  "moniker": null,
+  "tags": [],
+  "raw_manifest": {
+    "general": {
+      "version": "1.0.9188",
+      "publisher": "Discord, Inc.",
+      "publisher_url": "https://discord.com/",
+      "publisher_support_url": "https://support.discord.com/hc/en-us",
+      "license": "https://discord.com/licenses",
+      "privacy_url": "https://discord.com/privacy",
+      "copyright": "ms-windows-store://pdp/?ProductId=XPDC2RH70K22MN",
+      "category": "Social",
+      "pricing": "Free",
+      "free_trial": "No",
+      "terms_of_transaction": "https://aka.ms/microsoft-store-terms-of-transaction",
+      "seizure_warning": "https://aka.ms/microsoft-store-seizure-warning",
+      "store_license_terms": "https://aka.ms/microsoft-store-license"
+    },
+    "installer": {
+      "installer_type": "exe",
+      "installer_locale": "en",
+      "installer_url": "https://cdn.storeedgefd.dsx.mp.microsoft.com/eus2/cachedpackages/52901260/29ad6495-3021-433d-90db-a591528d83b1/c04c9deb3aeca08b7258bae524cd41e2161e7a8dc2492ebb6d92ade865464df4/file",
+      "installer_sha256": "c04c9deb3aeca08b7258bae524cd41e2161e7a8dc2492ebb6d92ade865464df4",
+      "offline_distribution_supported": "true"
+    }
+  },
+  "confidence": "VERY_HIGH",
+  "provenance": "winget:XPDC2RH70K22MN",
+  "is_cached": false
+}

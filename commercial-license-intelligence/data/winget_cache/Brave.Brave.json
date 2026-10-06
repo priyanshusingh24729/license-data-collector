@@ -1,0 +1,43 @@
+{
+  "package_id": "Brave.Brave",
+  "package_name": "Brave",
+  "publisher": "Brave Software Inc",
+  "version": "152.1.94.121",
+  "license": "MPL-2.0",
+  "license_url": "https://github.com/brave/brave-browser/blob/master/LICENSE",
+  "installer_url": "https://github.com/brave/brave-browser/releases/download/v1.94.121/BraveBrowserStandaloneSilentSetup.exe",
+  "installer_sha256": "c5a01876562758af69424d545852bd6699f44f50389d61a3d2ec8c835231e2e9",
+  "installer_type": "exe",
+  "homepage": "https://brave.com/download",
+  "description": null,
+  "copyright": "Copyright \u00a9 2026 The Brave Authors. All rights reserved.",
+  "moniker": null,
+  "tags": [],
+  "raw_manifest": {
+    "general": {
+      "version": "152.1.94.121",
+      "publisher": "Brave Software Inc",
+      "publisher_url": "https://brave.com",
+      "author": "Brave Software, Inc.",
+      "homepage": "https://brave.com/download",
+      "license": "MPL-2.0",
+      "license_url": "https://github.com/brave/brave-browser/blob/master/LICENSE",
+      "privacy_url": "https://brave.com/privacy/browser",
+      "copyright": "Copyright \u00a9 2026 The Brave Authors. All rights reserved.",
+      "copyright_url": "https://brave.com/terms-of-use",
+      "release_notes": "- Upgraded Chromium to 152.0.7977.83. (#58701) (Changelog for 152.0.7977.83)",
+      "release_notes_url": "https://brave.com/latest",
+      "faq": "https://brave.com/faq"
+    },
+    "installer": {
+      "installer_type": "exe",
+      "installer_url": "https://github.com/brave/brave-browser/releases/download/v1.94.121/BraveBrowserStandaloneSilentSetup.exe",
+      "installer_sha256": "c5a01876562758af69424d545852bd6699f44f50389d61a3d2ec8c835231e2e9",
+      "release_date": "2026-09-04",
+      "offline_distribution_supported": "true"
+    }
+  },
+  "confidence": "VERY_HIGH",
+  "provenance": "winget:Brave.Brave",
+  "is_cached": false
+}

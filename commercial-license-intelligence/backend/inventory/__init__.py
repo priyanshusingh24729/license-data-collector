@@ -1,0 +1,31 @@
+from backend.inventory.detection import (
+    DetectionNormalizer,
+    MatchConfidenceCalculator,
+    MatchingEngine,
+    IdentityResolver,
+    InventoryIngestor,
+    DeviceIngestPayload,
+    ApplicationIngestItem,
+    InventoryIngestRequest,
+    InventoryIngestResponse,
+    ResolutionQueueItemResponse,
+    ManualResolveRequest,
+    InventoryCatalogAppSummary,
+    DeviceDetailResponse,
+)
+
+__all__ = [
+    "DetectionNormalizer",
+    "MatchConfidenceCalculator",
+    "MatchingEngine",
+    "IdentityResolver",
+    "InventoryIngestor",
+    "DeviceIngestPayload",
+    "ApplicationIngestItem",
+    "InventoryIngestRequest",
+    "InventoryIngestResponse",
+    "ResolutionQueueItemResponse",
+    "ManualResolveRequest",
+    "InventoryCatalogAppSummary",
+    "DeviceDetailResponse",
+]

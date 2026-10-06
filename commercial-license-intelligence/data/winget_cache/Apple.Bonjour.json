@@ -1,0 +1,42 @@
+{
+  "package_id": "Apple.Bonjour",
+  "package_name": "Bonjour",
+  "publisher": "Apple Inc.",
+  "version": "3.1.0.1",
+  "license": "Proprietary",
+  "license_url": "https://www.apple.com/legal/sla/docs/Bonjour_for_Windows.pdf",
+  "installer_url": "https://swcdn.apple.com/content/downloads/52/06/071-03198/djcqm50b49h4o03eetqwowrdpf4o9sx71z/Bonjour64.msi",
+  "installer_sha256": "46e31e284da64d6c2d366352b8a8abcf7db28d3e2a870d8fcf15c4a6fe0a6dd1",
+  "installer_type": "wix",
+  "homepage": "https://developer.apple.com/bonjour/",
+  "description": null,
+  "copyright": "\u00a9 2024 Apple Inc. All rights reserved.",
+  "moniker": null,
+  "tags": [],
+  "raw_manifest": {
+    "general": {
+      "version": "3.1.0.1",
+      "publisher": "Apple Inc.",
+      "publisher_url": "https://www.apple.com/",
+      "publisher_support_url": "https://support.apple.com/",
+      "author": "Apple Inc.",
+      "homepage": "https://developer.apple.com/bonjour/",
+      "license": "Proprietary",
+      "license_url": "https://www.apple.com/legal/sla/docs/Bonjour_for_Windows.pdf",
+      "privacy_url": "https://www.apple.com/privacy/",
+      "copyright": "\u00a9 2024 Apple Inc. All rights reserved.",
+      "copyright_url": "https://www.apple.com/legal/intellectual-property/"
+    },
+    "installer": {
+      "installer_type": "wix",
+      "installer_locale": "en-US",
+      "installer_url": "https://swcdn.apple.com/content/downloads/52/06/071-03198/djcqm50b49h4o03eetqwowrdpf4o9sx71z/Bonjour64.msi",
+      "installer_sha256": "46e31e284da64d6c2d366352b8a8abcf7db28d3e2a870d8fcf15c4a6fe0a6dd1",
+      "release_date": "2021-04-22",
+      "offline_distribution_supported": "true"
+    }
+  },
+  "confidence": "VERY_HIGH",
+  "provenance": "winget:Apple.Bonjour",
+  "is_cached": false
+}

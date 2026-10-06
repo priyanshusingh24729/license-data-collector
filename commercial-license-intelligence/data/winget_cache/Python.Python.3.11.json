@@ -1,0 +1,45 @@
+{
+  "package_id": "Python.Python.3.11",
+  "package_name": "Python 3.11",
+  "publisher": "Python Software Foundation",
+  "version": "3.11.9",
+  "license": "PSF-2.0",
+  "license_url": "https://docs.python.org/3/license.html",
+  "installer_url": "https://www.python.org/ftp/python/3.11.9/python-3.11.9-amd64.exe",
+  "installer_sha256": "5ee42c4eee1e6b4464bb23722f90b45303f79442df63083f05322f1785f5fdde",
+  "installer_type": "burn",
+  "homepage": "https://www.python.org/",
+  "description": "Python is a programming language that lets you work more quickly and integrate your systems more effectively.",
+  "copyright": "Copyright (c) 2001-2024 Python Software Foundation. All Rights Reserved.",
+  "moniker": "python3.11",
+  "tags": [],
+  "raw_manifest": {
+    "general": {
+      "version": "3.11.9",
+      "publisher": "Python Software Foundation",
+      "publisher_url": "https://www.python.org/",
+      "publisher_support_url": "https://www.python.org/about/help/",
+      "author": "Python Software Foundation",
+      "moniker": "python3.11",
+      "description": "Python is a programming language that lets you work more quickly and integrate your systems more effectively.",
+      "homepage": "https://www.python.org/",
+      "license": "PSF-2.0",
+      "license_url": "https://docs.python.org/3/license.html",
+      "privacy_url": "https://www.python.org/privacy/",
+      "copyright": "Copyright (c) 2001-2024 Python Software Foundation. All Rights Reserved.",
+      "copyright_url": "https://www.python.org/about/legal/",
+      "release_notes_url": "https://docs.python.org/release/3.11.9/whatsnew/changelog.html",
+      "documentation": "https://www.python.org/doc/"
+    },
+    "installer": {
+      "installer_type": "burn",
+      "installer_url": "https://www.python.org/ftp/python/3.11.9/python-3.11.9-amd64.exe",
+      "installer_sha256": "5ee42c4eee1e6b4464bb23722f90b45303f79442df63083f05322f1785f5fdde",
+      "release_date": "2024-04-02",
+      "offline_distribution_supported": "true"
+    }
+  },
+  "confidence": "VERY_HIGH",
+  "provenance": "winget:Python.Python.3.11",
+  "is_cached": false
+}

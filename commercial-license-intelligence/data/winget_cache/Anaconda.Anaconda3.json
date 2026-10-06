@@ -1,0 +1,47 @@
+{
+  "package_id": "Anaconda.Anaconda3",
+  "package_name": "Anaconda3",
+  "publisher": "Anaconda, Inc.",
+  "version": "2025.12-2",
+  "license": "Proprietary",
+  "license_url": "https://legal.anaconda.com/policies/en/?name=end-user-license-agreement",
+  "installer_url": "https://repo.anaconda.com/archive/Anaconda3-2025.12-2-Windows-x86_64.exe",
+  "installer_sha256": "2e0b8e40ec7600793f116250f5c1775c866833bac32d184ad575ecc0d360a88f",
+  "installer_type": "nullsoft",
+  "homepage": "https://www.anaconda.com/download",
+  "description": "Python/R distribution for data science and machine learning.",
+  "copyright": "\u00a9 2026 Anaconda Inc. All rights reserved.",
+  "moniker": "anaconda3",
+  "tags": [],
+  "raw_manifest": {
+    "general": {
+      "version": "2025.12-2",
+      "publisher": "Anaconda, Inc.",
+      "publisher_url": "https://www.anaconda.com/",
+      "publisher_support_url": "https://anaconda.cloud/support-center",
+      "author": "Anaconda, Inc.",
+      "moniker": "anaconda3",
+      "description": "Python/R distribution for data science and machine learning.",
+      "homepage": "https://www.anaconda.com/download",
+      "license": "Proprietary",
+      "license_url": "https://legal.anaconda.com/policies/en/?name=end-user-license-agreement",
+      "privacy_url": "https://legal.anaconda.com/policies/en?name=privacy-policy",
+      "copyright": "\u00a9 2026 Anaconda Inc. All rights reserved.",
+      "copyright_url": "https://legal.anaconda.com/policies/en/?name=additional-policies-terms#anaconda-trademark-brand-guidelines",
+      "python_version": "3.13.9",
+      "release_notes_url": "https://www.anaconda.com/docs/getting-started/anaconda/release-notes#anaconda-2025-12-2",
+      "purchase_url": "https://www.anaconda.com/pricing",
+      "documentation": "https://docs.anaconda.com/"
+    },
+    "installer": {
+      "installer_type": "nullsoft",
+      "installer_url": "https://repo.anaconda.com/archive/Anaconda3-2025.12-2-Windows-x86_64.exe",
+      "installer_sha256": "2e0b8e40ec7600793f116250f5c1775c866833bac32d184ad575ecc0d360a88f",
+      "release_date": "2026-01-13",
+      "offline_distribution_supported": "true"
+    }
+  },
+  "confidence": "VERY_HIGH",
+  "provenance": "winget:Anaconda.Anaconda3",
+  "is_cached": false
+}

@@ -1,0 +1,43 @@
+{
+  "package_id": "Warp.Warp",
+  "package_name": "Warp",
+  "publisher": "Denver Technologies, Inc.",
+  "version": "v0.2026.09.02.08.27.stable_01",
+  "license": "Proprietary",
+  "license_url": "https://www.warp.dev/terms-of-service",
+  "installer_url": "https://app.warp.dev/download/windows?version=v0.2026.09.02.08.27.stable_01&arch=x86_64",
+  "installer_sha256": "718449814c54fbc7fec7d259450e09a2316ed4159c900b59c599a4757878d45e",
+  "installer_type": "inno",
+  "homepage": "https://www.warp.dev/windows-terminal",
+  "description": null,
+  "copyright": "Copyright 2025 Warp",
+  "moniker": null,
+  "tags": [],
+  "raw_manifest": {
+    "general": {
+      "version": "v0.2026.09.02.08.27.stable_01",
+      "publisher": "Denver Technologies, Inc.",
+      "publisher_url": "https://www.warp.dev/",
+      "publisher_support_url": "https://www.warp.dev/contact",
+      "author": "Denver Technologies, Inc.",
+      "homepage": "https://www.warp.dev/windows-terminal",
+      "license": "Proprietary",
+      "license_url": "https://www.warp.dev/terms-of-service",
+      "privacy_url": "https://www.warp.dev/privacy-policy",
+      "copyright": "Copyright 2025 Warp",
+      "copyright_url": "https://www.warp.dev/terms-of-service",
+      "purchase_url": "https://www.warp.dev/pricing",
+      "docs": "https://docs.warp.dev/"
+    },
+    "installer": {
+      "installer_type": "inno",
+      "installer_url": "https://app.warp.dev/download/windows?version=v0.2026.09.02.08.27.stable_01&arch=x86_64",
+      "installer_sha256": "718449814c54fbc7fec7d259450e09a2316ed4159c900b59c599a4757878d45e",
+      "offline_distribution_supported": "true",
+      "dependencies": ""
+    }
+  },
+  "confidence": "VERY_HIGH",
+  "provenance": "winget:Warp.Warp",
+  "is_cached": false
+}

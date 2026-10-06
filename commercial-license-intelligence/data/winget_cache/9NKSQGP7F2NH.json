@@ -1,0 +1,39 @@
+{
+  "package_id": "9NKSQGP7F2NH",
+  "package_name": "WhatsApp",
+  "publisher": "WhatsApp Inc.",
+  "version": "Unknown",
+  "license": "ms-windows-store://pdp/?ProductId=9NKSQGP7F2NH",
+  "license_url": null,
+  "installer_url": null,
+  "installer_sha256": null,
+  "installer_type": "msstore",
+  "homepage": null,
+  "description": null,
+  "copyright": null,
+  "moniker": null,
+  "tags": [],
+  "raw_manifest": {
+    "general": {
+      "version": "Unknown",
+      "publisher": "WhatsApp Inc.",
+      "publisher_url": "http://whatsapp.com/",
+      "license": "ms-windows-store://pdp/?ProductId=9NKSQGP7F2NH",
+      "privacy_url": "https://www.whatsapp.com/legal/#privacy-policy",
+      "category": "Social",
+      "pricing": "Free",
+      "free_trial": "No",
+      "terms_of_transaction": "https://aka.ms/microsoft-store-terms-of-transaction",
+      "seizure_warning": "https://aka.ms/microsoft-store-seizure-warning",
+      "store_license_terms": "https://aka.ms/microsoft-store-license"
+    },
+    "installer": {
+      "installer_type": "msstore",
+      "store_product_id": "9NKSQGP7F2NH",
+      "offline_distribution_supported": "true"
+    }
+  },
+  "confidence": "VERY_HIGH",
+  "provenance": "winget:9NKSQGP7F2NH",
+  "is_cached": false
+}

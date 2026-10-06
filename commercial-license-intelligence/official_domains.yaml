@@ -1,0 +1,145 @@
+# =============================================================================
+# Official Vendor Whitelist & Crawl Seeding Configuration
+# Used by SearXNG, YaCy, and DuckDuckGo search engines for domain filtering
+# =============================================================================
+
+official_domains:
+  # --- original 40 ---
+  - microsoft.com
+  - learn.microsoft.com
+  - support.microsoft.com
+  - adobe.com
+  - helpx.adobe.com
+  - oracle.com
+  - github.com
+  - autodesk.com
+  - docker.com
+  - python.org
+  - go.dev
+  - golang.org
+  - zoom.us
+  - jetbrains.com
+  - atlassian.com
+  - vmware.com
+  - omnissa.com
+  - slack.com
+  - salesforce.com
+  - citrix.com
+  - docs.citrix.com
+  - trellix.com
+  - crowdstrike.com
+  - flexera.com
+  - snowsoftware.com
+  - anydesk.com
+  - notion.so
+  - canva.com
+  - figma.com
+  - anthropic.com
+  - openai.com
+  - videolan.org
+  - rarlab.com
+  - winzip.com
+  - 7-zip.org
+  - notepad-plus-plus.org
+  - postman.com
+  - zscaler.com
+  - netskope.com
+  - ivanti.com
+  - manageengine.com
+
+  # --- Apple / OS ---
+  - apple.com
+  - support.apple.com
+
+  # --- Browsers ---
+  - google.com
+  - chromium.org
+  - mozilla.org
+  - opera.com
+  - operasoftware.com
+  - brave.com
+  - vivaldi.com
+  - coccoc.com
+  - frontmotion.com
+
+  # --- Cloud storage / collaboration ---
+  - dropbox.com
+  - box.com
+  - onedrive.live.com
+
+  # --- Consumer / social ---
+  - facebook.com
+  - messenger.com
+  - instagram.com
+  - strava.com
+  - whatsapp.com
+  - spotify.com
+  - linkedin.com
+  - netflix.com
+  - discord.com
+
+  # --- Dev / data tools ---
+  - postgresql.org
+  - eclipse.org
+  - java.com
+  - redhat.com
+  - splunk.com
+  - filezilla-project.org
+  - gams.com
+  - mendix.com
+  - mongodb.com
+  - nodejs.org
+  - dotnet.microsoft.com
+  - git-scm.com
+  - openssl.org
+  - apache.org
+  - nmap.org
+  - ngrok.com
+  - ollama.com
+  - cursor.com
+  - perplexity.ai
+
+  # --- Creative / media ---
+  - foundry.com
+  - descript.com
+  - mkvtoolnix.download
+  - steelseries.com
+  - dolby.com
+  - obsproject.com
+  - krita.org
+
+  # --- Office / productivity ---
+  - libreoffice.org
+  - documentfoundation.org
+
+  # --- Security / endpoint ---
+  - cisco.com
+  - broadcom.com
+  - fortinet.com
+  - mcafee.com
+  - sophos.com
+  - tenable.com
+  - pulsesecure.net
+
+  # --- Hardware / OEM ---
+  - nvidia.com
+  - lenovo.com
+  - dell.com
+  - hp.com
+  - intel.com
+  - amd.com
+  - realtek.com
+  - logitech.com
+  - gigabyte.com
+  - wacom.com
+
+  # --- Misc utilities ---
+  - corel.com
+  - bittorrent.com
+  - zoho.com
+  - epicgames.com
+  - teamviewer.com
+  - ccleaner.com
+  - qbittorrent.org
+  - win-rar.com
+  - servicenow.com

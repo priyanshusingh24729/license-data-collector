@@ -1,0 +1,44 @@
+{
+  "package_id": "Mozilla.Firefox",
+  "package_name": "Mozilla Firefox (en-US)",
+  "publisher": "Mozilla",
+  "version": "155.0.1",
+  "license": "MPL-2.0",
+  "license_url": "https://www.mozilla.org/MPL/2.0",
+  "installer_url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/155.0.1/win64/en-US/Firefox%20Setup%20155.0.1.exe",
+  "installer_sha256": "27a24fcdde805cb6a34c5c102e98ebfe5f0302078202376d2828f8797ed80298",
+  "installer_type": "nullsoft",
+  "homepage": "https://www.mozilla.org/firefox/",
+  "description": "Firefox Browser, also known as Mozilla Firefox or simply Firefox, is a free and open-source web browser developed by the Mozilla Foundation and its subsidiary, the Mozilla Corporation. Firefox uses the Gecko layout engine to render web pages, which implements current and anticipated web standards. In 2017, Firefox began incorporating new technology under the code name Quantum to promote parallelism and a more intuitive user interface. Firefox is officially available for Windows 7 or newer, macOS, and Linux. Its unofficial ports are available for various Unix and Unix-like operating systems including FreeBSD, OpenBSD, NetBSD, illumos, and Solaris Unix.",
+  "copyright": "\u00a9 Firefox and Mozilla Developers; available under the MPL 2 license.",
+  "moniker": "firefox",
+  "tags": [],
+  "raw_manifest": {
+    "general": {
+      "version": "155.0.1",
+      "publisher": "Mozilla",
+      "publisher_url": "https://www.mozilla.org/en-GB/",
+      "publisher_support_url": "https://support.mozilla.org/",
+      "author": "Mozilla Foundation",
+      "moniker": "firefox",
+      "description": "Firefox Browser, also known as Mozilla Firefox or simply Firefox, is a free and open-source web browser developed by the Mozilla Foundation and its subsidiary, the Mozilla Corporation. Firefox uses the Gecko layout engine to render web pages, which implements current and anticipated web standards. In 2017, Firefox began incorporating new technology under the code name Quantum to promote parallelism and a more intuitive user interface. Firefox is officially available for Windows 7 or newer, macOS, and Linux. Its unofficial ports are available for various Unix and Unix-like operating systems including FreeBSD, OpenBSD, NetBSD, illumos, and Solaris Unix.",
+      "homepage": "https://www.mozilla.org/firefox/",
+      "license": "MPL-2.0",
+      "license_url": "https://www.mozilla.org/MPL/2.0",
+      "privacy_url": "https://www.mozilla.org/privacy/firefox/",
+      "copyright": "\u00a9 Firefox and Mozilla Developers; available under the MPL 2 license.",
+      "copyright_url": "https://www.mozilla.org/foundation/trademarks/policy",
+      "release_notes_url": "https://www.firefox.com/en-US/firefox/155.0.1/releasenotes/"
+    },
+    "installer": {
+      "installer_type": "nullsoft",
+      "installer_url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/155.0.1/win64/en-US/Firefox%20Setup%20155.0.1.exe",
+      "installer_sha256": "27a24fcdde805cb6a34c5c102e98ebfe5f0302078202376d2828f8797ed80298",
+      "release_date": "2026-09-04",
+      "offline_distribution_supported": "true"
+    }
+  },
+  "confidence": "VERY_HIGH",
+  "provenance": "winget:Mozilla.Firefox",
+  "is_cached": false
+}

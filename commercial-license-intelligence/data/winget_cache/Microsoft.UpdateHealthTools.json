@@ -1,0 +1,35 @@
+{
+  "package_id": "Microsoft.UpdateHealthTools",
+  "package_name": "Microsoft Update Health Tools",
+  "publisher": "Microsoft Corporation",
+  "version": "5.69",
+  "license": "Proprietary",
+  "license_url": null,
+  "installer_url": "https://download.microsoft.com/download/d/7/e/d7e9fd79-e6fe-4036-85df-c60254f50d90/Expedite_packages.zip",
+  "installer_sha256": "ed4dead7e64f16c30da29593eb05015274e9aa9a826de510b659c7bee94f4a52",
+  "installer_type": "msi (zip)",
+  "homepage": "https://www.microsoft.com/en-gb/download/details.aspx?id=103324",
+  "description": "Enables expediting Windows 10 and Windows 11 quality updates in Microsoft Intune.",
+  "copyright": null,
+  "moniker": "muht",
+  "tags": [],
+  "raw_manifest": {
+    "general": {
+      "version": "5.69",
+      "publisher": "Microsoft Corporation",
+      "moniker": "muht",
+      "description": "Enables expediting Windows 10 and Windows 11 quality updates in Microsoft Intune.",
+      "homepage": "https://www.microsoft.com/en-gb/download/details.aspx?id=103324",
+      "license": "Proprietary"
+    },
+    "installer": {
+      "installer_type": "msi (zip)",
+      "installer_url": "https://download.microsoft.com/download/d/7/e/d7e9fd79-e6fe-4036-85df-c60254f50d90/Expedite_packages.zip",
+      "installer_sha256": "ed4dead7e64f16c30da29593eb05015274e9aa9a826de510b659c7bee94f4a52",
+      "offline_distribution_supported": "true"
+    }
+  },
+  "confidence": "VERY_HIGH",
+  "provenance": "winget:Microsoft.UpdateHealthTools",
+  "is_cached": false
+}

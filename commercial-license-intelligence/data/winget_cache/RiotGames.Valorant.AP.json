@@ -1,0 +1,42 @@
+{
+  "package_id": "RiotGames.Valorant.AP",
+  "package_name": "VALORANT (Asia-Pacific server)",
+  "publisher": "Riot Games, Inc",
+  "version": "138.0.1.4874",
+  "license": "Proprietary",
+  "license_url": "https://www.riotgames.com/en/terms-of-service",
+  "installer_url": "https://valorant.secure.dyn.riotcdn.net/channels/public/x/installer/current/live.live.ap.exe",
+  "installer_sha256": "72827f012ea95d07caa8f1c7eb6791002a13f1877ecd3ce951edcdfc6405db19",
+  "installer_type": "exe",
+  "homepage": "https://playvalorant.com/",
+  "description": "A 5v5 character-based tactical FPS by Riot Games where precise gunplay meets unique agent abilities.",
+  "copyright": "Copyright \u00a9 2024 Riot Games",
+  "moniker": "valorant",
+  "tags": [],
+  "raw_manifest": {
+    "general": {
+      "version": "138.0.1.4874",
+      "publisher": "Riot Games, Inc",
+      "publisher_url": "https://www.riotgames.com/",
+      "publisher_support_url": "https://support-valorant.riotgames.com/",
+      "author": "Riot Games, Inc.",
+      "moniker": "valorant",
+      "description": "A 5v5 character-based tactical FPS by Riot Games where precise gunplay meets unique agent abilities.",
+      "homepage": "https://playvalorant.com/",
+      "license": "Proprietary",
+      "license_url": "https://www.riotgames.com/en/terms-of-service",
+      "privacy_url": "https://www.riotgames.com/en/privacy-notice",
+      "copyright": "Copyright \u00a9 2024 Riot Games"
+    },
+    "installer": {
+      "installer_type": "exe",
+      "installer_url": "https://valorant.secure.dyn.riotcdn.net/channels/public/x/installer/current/live.live.ap.exe",
+      "installer_sha256": "72827f012ea95d07caa8f1c7eb6791002a13f1877ecd3ce951edcdfc6405db19",
+      "release_date": "2026-01-05",
+      "offline_distribution_supported": "true"
+    }
+  },
+  "confidence": "VERY_HIGH",
+  "provenance": "winget:RiotGames.Valorant.AP",
+  "is_cached": false
+}

@@ -1,0 +1,44 @@
+{
+  "package_id": "MongoDB.Compass.Full",
+  "package_name": "MongoDB Compass",
+  "publisher": "MongoDB Inc",
+  "version": "1.50.0.0",
+  "license": "Proprietary",
+  "license_url": "https://github.com/mongodb-js/compass/blob/HEAD/LICENSE",
+  "installer_url": "https://github.com/mongodb-js/compass/releases/download/v1.50.0/mongodb-compass-1.50.0-win32-x64.msi",
+  "installer_sha256": "068040195bf340f7ee17a1826630812e9280044bcc41676ce63b43b341468a8a",
+  "installer_type": "wix",
+  "homepage": "https://www.mongodb.com/products/compass",
+  "description": "The GUI for MongoDB. Visually explore your data. Run ad hoc queries in seconds. Interact with your data with full CRUD functionality. View and optimize your query performance. Available on Linux, Mac, or Windows. Compass empowers you to make smarter decisions about indexing, document validation, and more.",
+  "copyright": "Copyright (c) 2023 MongoDB, Inc.",
+  "moniker": "mongodb-compass",
+  "tags": [],
+  "raw_manifest": {
+    "general": {
+      "version": "1.50.0.0",
+      "publisher": "MongoDB Inc",
+      "publisher_url": "https://www.mongodb.com/",
+      "publisher_support_url": "https://support.mongodb.com/",
+      "moniker": "mongodb-compass",
+      "description": "The GUI for MongoDB. Visually explore your data. Run ad hoc queries in seconds. Interact with your data with full CRUD functionality. View and optimize your query performance. Available on Linux, Mac, or Windows. Compass empowers you to make smarter decisions about indexing, document validation, and more.",
+      "homepage": "https://www.mongodb.com/products/compass",
+      "license": "Proprietary",
+      "license_url": "https://github.com/mongodb-js/compass/blob/HEAD/LICENSE",
+      "privacy_url": "https://www.mongodb.com/legal/privacy-policy",
+      "copyright": "Copyright (c) 2023 MongoDB, Inc.",
+      "full_changelog": "v1.49.15...v1.50.0",
+      "release_notes_url": "https://github.com/mongodb-js/compass/releases/tag/v1.50.0"
+    },
+    "installer": {
+      "installer_type": "wix",
+      "installer_locale": "en-US",
+      "installer_url": "https://github.com/mongodb-js/compass/releases/download/v1.50.0/mongodb-compass-1.50.0-win32-x64.msi",
+      "installer_sha256": "068040195bf340f7ee17a1826630812e9280044bcc41676ce63b43b341468a8a",
+      "release_date": "2026-09-01",
+      "offline_distribution_supported": "true"
+    }
+  },
+  "confidence": "VERY_HIGH",
+  "provenance": "winget:MongoDB.Compass.Full",
+  "is_cached": false
+}

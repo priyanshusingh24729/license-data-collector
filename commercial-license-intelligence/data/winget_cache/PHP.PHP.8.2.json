@@ -1,0 +1,44 @@
+{
+  "package_id": "PHP.PHP.8.2",
+  "package_name": "PHP 8.2",
+  "publisher": "PHP Group",
+  "version": "8.2.33",
+  "license": "PHP License v3.01",
+  "license_url": "https://www.php.net/license/3_01.txt",
+  "installer_url": "https://downloads.php.net/~windows/releases/archives/php-8.2.33-Win32-vs16-x64.zip",
+  "installer_sha256": "7d2568dfaad6ac1391e57994f52c8aed835baf9e6d89f4328770e2843311291c",
+  "installer_type": "portable (zip)",
+  "homepage": "https://php.net/",
+  "description": "PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used open source general-purpose scripting language that is especially suited for web development and can be embedded into HTML.",
+  "copyright": "(c) PHP Group",
+  "moniker": "php8.2",
+  "tags": [],
+  "raw_manifest": {
+    "general": {
+      "version": "8.2.33",
+      "publisher": "PHP Group",
+      "publisher_url": "https://php.net/",
+      "publisher_support_url": "https://www.php.net/docs.php",
+      "author": "PHP Group",
+      "moniker": "php8.2",
+      "description": "PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used open source general-purpose scripting language that is especially suited for web development and can be embedded into HTML.",
+      "homepage": "https://php.net/",
+      "license": "PHP License v3.01",
+      "license_url": "https://www.php.net/license/3_01.txt",
+      "copyright": "(c) PHP Group",
+      "copyright_url": "https://www.php.net/credits.php"
+    },
+    "installer": {
+      "installer_type": "portable (zip)",
+      "installer_locale": "en-US",
+      "installer_url": "https://downloads.php.net/~windows/releases/archives/php-8.2.33-Win32-vs16-x64.zip",
+      "installer_sha256": "7d2568dfaad6ac1391e57994f52c8aed835baf9e6d89f4328770e2843311291c",
+      "release_date": "2026-07-28",
+      "offline_distribution_supported": "true",
+      "dependencies": ""
+    }
+  },
+  "confidence": "VERY_HIGH",
+  "provenance": "winget:PHP.PHP.8.2",
+  "is_cached": false
+}

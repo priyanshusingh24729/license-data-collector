@@ -1,0 +1,1633 @@
+{
+  "device": {
+    "device_key": "WIN-AF9D3EF15A1C5A1A",
+    "hostname": "LAPTOP-TTASCMUO",
+    "operating_system": "Windows",
+    "os_version": "11 (10.0.26200)",
+    "architecture": "x64",
+    "agent_version": "1.0.0"
+  },
+  "applications": [
+    {
+      "name": "Docker Desktop",
+      "publisher": "Docker Inc.",
+      "version": "4.87.0",
+      "install_location": "C:\\Program Files\\Docker\\Docker",
+      "install_source": "MULTIPLE",
+      "architecture": "x64",
+      "detection_method": "MULTIPLE"
+    },
+    {
+      "name": "Microsoft SQL Server 2025 (64-bit)",
+      "publisher": "Microsoft Corporation",
+      "version": null,
+      "install_location": null,
+      "install_source": "WINDOWS_REGISTRY_64",
+      "architecture": "x64",
+      "detection_method": "WINDOWS_REGISTRY_64"
+    },
+    {
+      "name": "Microsoft 365 Apps for business - en-us",
+      "publisher": "Microsoft Corporation",
+      "version": "16.0.20326.20112",
+      "install_location": "C:\\Program Files\\Microsoft Office",
+      "install_source": "MULTIPLE",
+      "architecture": "x64",
+      "detection_method": "MULTIPLE"
+    },
+    {
+      "name": "Microsoft OneDrive",
+      "publisher": "Microsoft Corporation",
+      "version": "26.153.0809.0004",
+      "install_location": null,
+      "install_source": "WINDOWS_REGISTRY_64",
+      "architecture": "x64",
+      "detection_method": "WINDOWS_REGISTRY_64"
+    },
+    {
+      "name": "Microsoft OneNote - en-us",
+      "publisher": "Microsoft Corporation",
+      "version": "16.0.20326.20112",
+      "install_location": "C:\\Program Files\\Microsoft Office",
+      "install_source": "MULTIPLE",
+      "architecture": "x64",
+      "detection_method": "MULTIPLE"
+    },
+    {
+      "name": "Microsoft ODBC Driver 17 for SQL Server",
+      "publisher": "Microsoft Corporation",
+      "version": "17.10.6.1",
+      "install_location": null,
+      "install_source": "MULTIPLE",
+      "architecture": "x64",
+      "detection_method": "MULTIPLE"
+    },
+    {
+      "name": "Microsoft Windows Application Compatibility Fix Database",
+      "publisher": null,
+      "version": "Unknown",
+      "install_location": null,
+      "install_source": "MULTIPLE",
+      "architecture": "x64",
+      "detection_method": "MULTIPLE"
+    },
+    {
+      "name": "Go Programming Language amd64 go1.26.5",
+      "publisher": "https://go.dev",
+      "version": "1.26.5",
+      "install_location": null,
+      "install_source": "MULTIPLE",
+      "architecture": "x64",
+      "detection_method": "MULTIPLE"
+    },
+    {
+      "name": "Microsoft Visual Studio Installer",
+      "publisher": "Microsoft Corporation",
+      "version": "4.9.50.62957",
+      "install_location": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\Installer\"",
+      "install_source": "MULTIPLE",
+      "architecture": "x64",
+      "detection_method": "MULTIPLE"
+    },
+    {
+      "name": "Microsoft ODBC Driver 18 for SQL Server",
+      "publisher": "Microsoft Corporation",
+      "version": "18.6.2.1",
+      "install_location": null,
+      "install_source": "MULTIPLE",
+      "architecture": "x64",
+      "detection_method": "MULTIPLE"
+    },
+    {
+      "name": "Microsoft SQL Server 2025 Setup (English)",
+      "publisher": "Microsoft Corporation",
+      "version": "17.0.1000.7",
+      "install_location": null,
+      "install_source": "MULTIPLE",
+      "architecture": "x64",
+      "detection_method": "MULTIPLE"
+    },
+    {
+      "name": "Microsoft .NET SDK 10.0.400 (x64) from Visual Studio",
+      "publisher": "Microsoft Corporation",
+      "version": "40.11.17119",
+      "install_location": null,
+      "install_source": "MULTIPLE",
+      "architecture": "x64",
+      "detection_method": "MULTIPLE"
+    },
+    {
+      "name": "Node.js",
+      "publisher": "Node.js Foundation",
+      "version": "24.19.0",
+      "install_location": null,
+      "install_source": "MULTIPLE",
+      "architecture": "x64",
+      "detection_method": "MULTIPLE"
+    },
+    {
+      "name": "Microsoft OLE DB Driver for SQL Server",
+      "publisher": "Microsoft Corporation",
+      "version": "18.7.5.0",
+      "install_location": null,
+      "install_source": "WINDOWS_REGISTRY_64",
+      "architecture": "x64",
+      "detection_method": "WINDOWS_REGISTRY_64"
+    },
+    {
+      "name": "Microsoft Teams Meeting Add-in for Microsoft Office",
+      "publisher": "Microsoft",
+      "version": "1.26.20101",
+      "install_location": null,
+      "install_source": "MULTIPLE",
+      "architecture": "x64",
+      "detection_method": "MULTIPLE"
+    },
+    {
+      "name": "Microsoft OLE DB Driver 19 for SQL Server",
+      "publisher": "Microsoft Corporation",
+      "version": "19.4.1.0",
+      "install_location": null,
+      "install_source": "MULTIPLE",
+      "architecture": "x64",
+      "detection_method": "MULTIPLE"
+    },
+    {
+      "name": "Lenovo Voice Service",
+      "publisher": "Lenovo Group Ltd.",
+      "version": "3.0.26.0",
+      "install_location": "C:\\Program Files\\Lenovo\\LVA Pro Service\\",
+      "install_source": "WINDOWS_REGISTRY_64",
+      "architecture": "x64",
+      "detection_method": "WINDOWS_REGISTRY_64"
+    },
+    {
+      "name": "osquery",
+      "publisher": "osquery",
+      "version": "5.23.1",
+      "install_location": "C:\\Program Files\\osquery\\",
+      "install_source": "MULTIPLE",
+      "architecture": "x64",
+      "detection_method": "MULTIPLE"
+    },
+    {
+      "name": "Microsoft VSS Writer for SQL Server 2025",
+      "publisher": "Microsoft Corporation",
+      "version": "17.0.1000.7",
+      "install_location": null,
+      "install_source": "MULTIPLE",
+      "architecture": "x64",
+      "detection_method": "MULTIPLE"
+    },
+    {
+      "name": "SQL Server Management Studio 22",
+      "publisher": "Microsoft Corporation",
+      "version": "22.9.2",
+      "install_location": "C:\\Program Files\\Microsoft SQL Server Management Studio 22\\Release",
+      "install_source": "MULTIPLE",
+      "architecture": "x86",
+      "detection_method": "MULTIPLE"
+    },
+    {
+      "name": "Adobe Creative Cloud",
+      "publisher": "Adobe Inc.",
+      "version": "6.10.0.252.3",
+      "install_location": null,
+      "install_source": "MULTIPLE",
+      "architecture": "x86",
+      "detection_method": "MULTIPLE"
+    },
+    {
+      "name": "Google Chrome",
+      "publisher": "Google LLC",
+      "version": "152.0.7977.65",
+      "install_location": "C:\\Program Files\\Google\\Chrome\\Application",
+      "install_source": "MULTIPLE",
+      "architecture": "x86",
+      "detection_method": "MULTIPLE"
+    },
+    {
+      "name": "Copilot",
+      "publisher": "Microsoft Corporation",
+      "version": "152.0.4191.53",
+      "install_location": "C:\\Program Files (x86)\\Microsoft\\Copilot\\Application",
+      "install_source": "WINDOWS_REGISTRY_32",
+      "architecture": "x86",
+      "detection_method": "WINDOWS_REGISTRY_32"
+    },
+    {
+      "name": "Microsoft Edge",
+      "publisher": "Microsoft Corporation",
+      "version": "152.0.4191.53",
+      "install_location": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application",
+      "install_source": "WINDOWS_REGISTRY_32",
+      "architecture": "x86",
+      "detection_method": "WINDOWS_REGISTRY_32"
+    },
+    {
+      "name": "Lenovo Vantage Service",
+      "publisher": "Lenovo Group Ltd.",
+      "version": "5.1.2608.14",
+      "install_location": "C:\\Program Files (x86)\\Lenovo\\VantageService\\\\5.1.2608.14",
+      "install_source": "WINDOWS_REGISTRY_32",
+      "architecture": "x86",
+      "detection_method": "WINDOWS_REGISTRY_32"
+    },
+    {
+      "name": "Microsoft Visual C++ v14 Redistributable (x86) - 14.51.36247",
+      "publisher": "Microsoft Corporation",
+      "version": "14.51.36247.0",
+      "install_location": null,
+      "install_source": "MULTIPLE",
+      "architecture": "x86",
+      "detection_method": "MULTIPLE"
+    },
+    {
+      "name": "SilverLeaf Agent",
+      "publisher": "SilverLeaf Solutions",
+      "version": "1.0",
+      "install_location": null,
+      "install_source": "MULTIPLE",
+      "architecture": "x86",
+      "detection_method": "MULTIPLE"
+    },
+    {
+      "name": "vs_CoreEditorFonts",
+      "publisher": "Microsoft Corporation",
+      "version": "17.7.40001",
+      "install_location": null,
+      "install_source": "MULTIPLE",
+      "architecture": "x86",
+      "detection_method": "MULTIPLE"
+    },
+    {
+      "name": "Intel(R) Chipset Device Software",
+      "publisher": "Intel(R) Corporation",
+      "version": "10.1.18800.8277",
+      "install_location": null,
+      "install_source": "MULTIPLE",
+      "architecture": "x86",
+      "detection_method": "MULTIPLE"
+    },
+    {
+      "name": "Browser for SQL Server 2025",
+      "publisher": "Microsoft Corporation",
+      "version": "17.0.1000.7",
+      "install_location": null,
+      "install_source": "MULTIPLE",
+      "architecture": "x86",
+      "detection_method": "MULTIPLE"
+    },
+    {
+      "name": "Antigravity 2.11.0",
+      "publisher": "Google",
+      "version": "2.11.0",
+      "install_location": null,
+      "install_source": "WINDOWS_USER_REGISTRY",
+      "architecture": "x86",
+      "detection_method": "WINDOWS_USER_REGISTRY"
+    },
+    {
+      "name": "Brave",
+      "publisher": "Brave Software Inc",
+      "version": "152.1.94.119",
+      "install_location": "C:\\Users\\Priyanshu Singh\\AppData\\Local\\BraveSoftware\\Brave-Browser\\Application",
+      "install_source": "MULTIPLE",
+      "architecture": "x86",
+      "detection_method": "MULTIPLE"
+    },
+    {
+      "name": "Git",
+      "publisher": "The Git Development Community",
+      "version": "2.55.0.3",
+      "install_location": "C:\\Users\\Priyanshu Singh\\AppData\\Local\\Programs\\Git\\",
+      "install_source": "MULTIPLE",
+      "architecture": "x86",
+      "detection_method": "MULTIPLE"
+    },
+    {
+      "name": "IntelliJ IDEA 2026.2.1",
+      "publisher": "JetBrains s.r.o.",
+      "version": "262.9437.185",
+      "install_location": "C:\\Users\\Priyanshu Singh\\AppData\\Local\\Programs\\IntelliJ IDEA 2026.2.1",
+      "install_source": "WINDOWS_USER_REGISTRY",
+      "architecture": "x86",
+      "detection_method": "WINDOWS_USER_REGISTRY"
+    },
+    {
+      "name": "PHP 8.2",
+      "publisher": "PHP Group",
+      "version": "8.2.33",
+      "install_location": "C:\\Users\\Priyanshu Singh\\AppData\\Local\\Microsoft\\WinGet\\Packages\\PHP.PHP.8.2_Microsoft.Winget.Source_8wekyb3d8bbwe",
+      "install_source": "MULTIPLE",
+      "architecture": "x86",
+      "detection_method": "MULTIPLE"
+    },
+    {
+      "name": "Python 3.14.7",
+      "publisher": "Python Software Foundation",
+      "version": "3.14-64",
+      "install_location": "C:\\Users\\Priyanshu Singh\\AppData\\Local\\Python\\pythoncore-3.14-64",
+      "install_source": "MULTIPLE",
+      "architecture": "x86",
+      "detection_method": "MULTIPLE"
+    },
+    {
+      "name": "Zoom Workplace",
+      "publisher": "Zoom Communications, Inc.",
+      "version": "7.1.5 (43453)",
+      "install_location": "C:\\Users\\Priyanshu Singh\\AppData\\Roaming\\Zoom\\bin",
+      "install_source": "MULTIPLE",
+      "architecture": "x86",
+      "detection_method": "MULTIPLE"
+    },
+    {
+      "name": "Microsoft Visual Studio Code (User)",
+      "publisher": "Microsoft Corporation",
+      "version": "1.134.0",
+      "install_location": "C:\\Users\\Priyanshu Singh\\AppData\\Local\\Programs\\Microsoft VS Code\\",
+      "install_source": "WINDOWS_USER_REGISTRY",
+      "architecture": "x86",
+      "detection_method": "WINDOWS_USER_REGISTRY"
+    },
+    {
+      "name": "Antigravity IDE (User)",
+      "publisher": "Google",
+      "version": "2.5.5",
+      "install_location": "C:\\Users\\Priyanshu Singh\\AppData\\Local\\Programs\\Antigravity IDE\\",
+      "install_source": "WINDOWS_USER_REGISTRY",
+      "architecture": "x86",
+      "detection_method": "WINDOWS_USER_REGISTRY"
+    },
+    {
+      "name": "F46D4000-FD22-4DB4-AC8E-4E1DDDE828FE",
+      "publisher": "Microsoft Windows",
+      "version": "10.0.26100.1",
+      "install_location": "C:\\Windows\\SystemApps\\Microsoft.Windows.AddSuggestedFoldersToLibraryDialog_cw5n1h2txyewy",
+      "install_source": "WINDOWS_APPX",
+      "architecture": "11",
+      "detection_method": "WINDOWS_APPX"
+    },
+    {
+      "name": "Microsoft.AAD.BrokerPlugin",
+      "publisher": "Microsoft Windows",
+      "version": "1000.19580.1000.2",
+      "install_location": "C:\\Windows\\SystemApps\\Microsoft.AAD.BrokerPlugin_cw5n1h2txyewy",
+      "install_source": "WINDOWS_APPX",
+      "architecture": "11",
+      "detection_method": "WINDOWS_APPX"
+    },
+    {
+      "name": "Microsoft.AccountsControl",
+      "publisher": "Microsoft Windows",
+      "version": "10.0.26100.1",
+      "install_location": "C:\\Windows\\SystemApps\\Microsoft.AccountsControl_cw5n1h2txyewy",
+      "install_source": "WINDOWS_APPX",
+      "architecture": "11",
+      "detection_method": "WINDOWS_APPX"
+    },
+    {
+      "name": "Microsoft.AsyncTextService",
+      "publisher": "Microsoft Corporation",
+      "version": "10.0.26100.1",
+      "install_location": "C:\\Windows\\SystemApps\\Microsoft.AsyncTextService_8wekyb3d8bbwe",
+      "install_source": "WINDOWS_APPX",
+      "architecture": "11",
+      "detection_method": "WINDOWS_APPX"
+    },
+    {
+      "name": "Microsoft.BioEnrollment",
+      "publisher": "Microsoft Windows",
+      "version": "10.0.19587.1000",
+      "install_location": "C:\\Windows\\SystemApps\\Microsoft.BioEnrollment_cw5n1h2txyewy",
+      "install_source": "WINDOWS_APPX",
+      "architecture": "11",
+      "detection_method": "WINDOWS_APPX"
+    },
+    {
+      "name": "Microsoft.CredDialogHost",
+      "publisher": "Microsoft Windows",
+      "version": "10.0.19595.1001",
+      "install_location": "C:\\Windows\\SystemApps\\microsoft.creddialoghost_cw5n1h2txyewy",
+      "install_source": "WINDOWS_APPX",
+      "architecture": "11",
+      "detection_method": "WINDOWS_APPX"
+    },
+    {
+      "name": "Microsoft.MicrosoftEdgeDevToolsClient",
+      "publisher": "Microsoft Corporation",
+      "version": "1000.25128.1000.0",
+      "install_location": "C:\\Windows\\SystemApps\\Microsoft.MicrosoftEdgeDevToolsClient_8wekyb3d8bbwe",
+      "install_source": "WINDOWS_APPX",
+      "architecture": "11",
+      "detection_method": "WINDOWS_APPX"
+    },
+    {
+      "name": "Microsoft.Win32WebViewHost",
+      "publisher": "Microsoft Windows",
+      "version": "10.0.26100.1",
+      "install_location": "C:\\Windows\\SystemApps\\Microsoft.Win32WebViewHost_cw5n1h2txyewy",
+      "install_source": "WINDOWS_APPX",
+      "architecture": "11",
+      "detection_method": "WINDOWS_APPX"
+    },
+    {
+      "name": "Microsoft.Windows.Apprep.ChxApp",
+      "publisher": "Microsoft Windows",
+      "version": "1000.25128.1000.0",
+      "install_location": "C:\\Windows\\SystemApps\\Microsoft.Windows.AppRep.ChxApp_cw5n1h2txyewy",
+      "install_source": "WINDOWS_APPX",
+      "architecture": "11",
+      "detection_method": "WINDOWS_APPX"
+    },
+    {
+      "name": "Microsoft.Windows.AssignedAccessLockApp",
+      "publisher": "Microsoft Windows",
+      "version": "1000.25128.1000.0",
+      "install_location": "C:\\Windows\\SystemApps\\Microsoft.Windows.AssignedAccessLockApp_cw5n1h2txyewy",
+      "install_source": "WINDOWS_APPX",
+      "architecture": "11",
+      "detection_method": "WINDOWS_APPX"
+    },
+    {
+      "name": "Microsoft.Windows.CapturePicker",
+      "publisher": "Microsoft Windows",
+      "version": "10.0.19580.1000",
+      "install_location": "C:\\Windows\\SystemApps\\Microsoft.Windows.CapturePicker_cw5n1h2txyewy",
+      "install_source": "WINDOWS_APPX",
+      "architecture": "11",
+      "detection_method": "WINDOWS_APPX"
+    },
+    {
+      "name": "Microsoft.Windows.CloudExperienceHost",
+      "publisher": "Microsoft Windows",
+      "version": "10.0.26100.1",
+      "install_location": "C:\\Windows\\SystemApps\\Microsoft.Windows.CloudExperienceHost_cw5n1h2txyewy",
+      "install_source": "WINDOWS_APPX",
+      "architecture": "11",
+      "detection_method": "WINDOWS_APPX"
+    },
+    {
+      "name": "Microsoft.Windows.ContentDeliveryManager",
+      "publisher": "Microsoft Windows",
+      "version": "10.0.26100.1",
+      "install_location": "C:\\Windows\\SystemApps\\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy",
+      "install_source": "WINDOWS_APPX",
+      "architecture": "11",
+      "detection_method": "WINDOWS_APPX"
+    },
+    {
+      "name": "Microsoft.Windows.NarratorQuickStart",
+      "publisher": "Microsoft Corporation",
+      "version": "10.0.26100.1",
+      "install_location": "C:\\Windows\\SystemApps\\microsoft.windows.narratorquickstart_8wekyb3d8bbwe",
+      "install_source": "WINDOWS_APPX",
+      "architecture": "11",
+      "detection_method": "WINDOWS_APPX"
+    },
+    {
+      "name": "Microsoft.Windows.OOBENetworkCaptivePortal",
+      "publisher": "Microsoft Windows",
+      "version": "10.0.26569.1000",
+      "install_location": "C:\\Windows\\SystemApps\\Microsoft.Windows.OOBENetworkCaptivePortal_cw5n1h2txyewy",
+      "install_source": "WINDOWS_APPX",
+      "architecture": "11",
+      "detection_method": "WINDOWS_APPX"
+    },
+    {
+      "name": "Microsoft.Windows.OOBENetworkConnectionFlow",
+      "publisher": "Microsoft Windows",
+      "version": "10.0.26569.1000",
+      "install_location": "C:\\Windows\\SystemApps\\Microsoft.Windows.OOBENetworkConnectionFlow_cw5n1h2txyewy",
+      "install_source": "WINDOWS_APPX",
+      "architecture": "11",
+      "detection_method": "WINDOWS_APPX"
+    },
+    {
+      "name": "Microsoft.Windows.ParentalControls",
+      "publisher": "Microsoft Windows",
+      "version": "1000.25128.1000.0",
+      "install_location": "C:\\Windows\\SystemApps\\ParentalControls_cw5n1h2txyewy",
+      "install_source": "WINDOWS_APPX",
+      "architecture": "11",
+      "detection_method": "WINDOWS_APPX"
+    },
+    {
+      "name": "Microsoft.Windows.PeopleExperienceHost",
+      "publisher": "Microsoft Windows",
+      "version": "10.0.26100.1",
+      "install_location": "C:\\Windows\\SystemApps\\Microsoft.Windows.PeopleExperienceHost_cw5n1h2txyewy",
+      "install_source": "WINDOWS_APPX",
+      "architecture": "11",
+      "detection_method": "WINDOWS_APPX"
+    },
+    {
+      "name": "Microsoft.Windows.PinningConfirmationDialog",
+      "publisher": "Microsoft Windows",
+      "version": "1000.25140.1001.0",
+      "install_location": "C:\\Windows\\SystemApps\\Microsoft.Windows.PinningConfirmationDialog_cw5n1h2txyewy",
+      "install_source": "WINDOWS_APPX",
+      "architecture": "11",
+      "detection_method": "WINDOWS_APPX"
+    },
+    {
+      "name": "Microsoft.Windows.PrintQueueActionCenter",
+      "publisher": "Microsoft Windows",
+      "version": "1.0.2.0",
+      "install_location": "C:\\Windows\\SystemApps\\Microsoft.Windows.PrintQueueActionCenter_cw5n1h2txyewy",
+      "install_source": "WINDOWS_APPX",
+      "architecture": "11",
+      "detection_method": "WINDOWS_APPX"
+    },
+    {
+      "name": "Microsoft.Windows.SecureAssessmentBrowser",
+      "publisher": "Microsoft Windows",
+      "version": "10.0.26100.1",
+      "install_location": "C:\\Windows\\SystemApps\\Microsoft.Windows.SecureAssessmentBrowser_cw5n1h2txyewy",
+      "install_source": "WINDOWS_APPX",
+      "architecture": "11",
+      "detection_method": "WINDOWS_APPX"
+    },
+    {
+      "name": "Microsoft.Windows.ShellExperienceHost",
+      "publisher": "Microsoft Windows",
+      "version": "10.0.26100.8115",
+      "install_location": "C:\\Windows\\SystemApps\\ShellExperienceHost_cw5n1h2txyewy",
+      "install_source": "WINDOWS_APPX",
+      "architecture": "11",
+      "detection_method": "WINDOWS_APPX"
+    },
+    {
+      "name": "Microsoft.Windows.StartMenuExperienceHost",
+      "publisher": "Microsoft Windows",
+      "version": "10.0.26100.4768",
+      "install_location": "C:\\Windows\\SystemApps\\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy",
+      "install_source": "WINDOWS_APPX",
+      "architecture": "11",
+      "detection_method": "WINDOWS_APPX"
+    },
+    {
+      "name": "Microsoft.Windows.XGpuEjectDialog",
+      "publisher": "Microsoft Windows",
+      "version": "10.0.26100.1",
+      "install_location": "C:\\Windows\\SystemApps\\Microsoft.Windows.XGpuEjectDialog_cw5n1h2txyewy",
+      "install_source": "WINDOWS_APPX",
+      "architecture": "11",
+      "detection_method": "WINDOWS_APPX"
+    },
+    {
+      "name": "Microsoft.XboxGameCallableUI",
+      "publisher": "Microsoft Windows",
+      "version": "1000.25128.1000.0",
+      "install_location": "C:\\Windows\\SystemApps\\Microsoft.XboxGameCallableUI_cw5n1h2txyewy",
+      "install_source": "WINDOWS_APPX",
+      "architecture": "11",
+      "detection_method": "WINDOWS_APPX"
+    },
+    {
+      "name": "MicrosoftWindows.Client.Core",
+      "publisher": "Microsoft Windows",
+      "version": "1000.26100.131.0",
+      "install_location": "C:\\Windows\\SystemApps\\MicrosoftWindows.Client.Core_cw5n1h2txyewy",
+      "install_source": "WINDOWS_APPX",
+      "architecture": "9",
+      "detection_method": "WINDOWS_APPX"
+    },
+    {
+      "name": "MicrosoftWindows.Client.Photon",
+      "publisher": "Microsoft Windows",
+      "version": "1000.26100.10.0",
+      "install_location": "C:\\Windows\\SystemApps\\MicrosoftWindows.Client.Photon_cw5n1h2txyewy",
+      "install_source": "WINDOWS_APPX",
+      "architecture": "9",
+      "detection_method": "WINDOWS_APPX"
+    },
+    {
+      "name": "MicrosoftWindows.UndockedDevKit",
+      "publisher": "Microsoft Windows",
+      "version": "10.0.26100.1",
+      "install_location": "C:\\Windows\\SystemApps\\MicrosoftWindows.UndockedDevKit_cw5n1h2txyewy",
+      "install_source": "WINDOWS_APPX",
+      "architecture": "11",
+      "detection_method": "WINDOWS_APPX"
+    },
+    {
+      "name": "Windows.CBSPreview",
+      "publisher": "Microsoft Windows",
+      "version": "10.0.19580.1000",
+      "install_location": "C:\\Windows\\SystemApps\\Windows.CBSPreview_cw5n1h2txyewy",
+      "install_source": "WINDOWS_APPX",
+      "architecture": "11",
+      "detection_method": "WINDOWS_APPX"
+    },
+    {
+      "name": "windows.immersivecontrolpanel",
+      "publisher": "Microsoft Windows",
+      "version": "10.0.8.1000",
+      "install_location": "C:\\Windows\\ImmersiveControlPanel",
+      "install_source": "WINDOWS_APPX",
+      "architecture": "11",
+      "detection_method": "WINDOWS_APPX"
+    },
+    {
+      "name": "Windows.PrintDialog",
+      "publisher": "Microsoft Windows",
+      "version": "6.2.3.0",
+      "install_location": "C:\\Windows\\SystemApps\\Windows.PrintDialog_cw5n1h2txyewy",
+      "install_source": "WINDOWS_APPX",
+      "architecture": "11",
+      "detection_method": "WINDOWS_APPX"
+    },
+    {
+      "name": "Amazon Alexa",
+      "publisher": "205E97F5-C441-4371-8ADB-027C40FBE50D",
+      "version": "3.25.1177.0",
+      "install_location": "C:\\Program Files\\WindowsApps\\57540AMZNMobileLLC.AmazonAlexa_3.25.1177.0_x64__22t9g3sebte08",
+      "install_source": "MULTIPLE",
+      "architecture": "9",
+      "detection_method": "MULTIPLE"
+    },
+    {
+      "name": "IntelÂ® Graphics Command Center",
+      "publisher": "EB51A5DA-0E72-4863-82E4-EA21C1F8DFE3",
+      "version": "1.100.5688.0",
+      "install_location": "C:\\Program Files\\WindowsApps\\AppUp.IntelGraphicsExperience_1.100.5688.0_x64__8j3eq9eme6ctt",
+      "install_source": "MULTIPLE",
+      "architecture": "9",
+      "detection_method": "MULTIPLE"
+    },
+    {
+      "name": "Microsoft Clipchamp",
+      "publisher": "33F0F141-36F3-4EC2-A77D-51B53D0BA0E4",
+      "version": "4.5.10920.0",
+      "install_location": "C:\\Program Files\\WindowsApps\\Clipchamp.Clipchamp_4.5.10920.0_x64__yxz26nhyzhsrt",
+      "install_source": "MULTIPLE",
+      "architecture": "9",
+      "detection_method": "MULTIPLE"
+    },
+    {
+      "name": "Dolby Audio",
+      "publisher": "58D26209-1D57-482C-B403-B655571B5C7B",
+      "version": "3.30201.210.0",
+      "install_location": "C:\\Program Files\\WindowsApps\\dolbylaboratories.dolbyaudio_3.30201.210.0_x64__rz1tebttyb220",
+      "install_source": "MULTIPLE",
+      "architecture": "9",
+      "detection_method": "MULTIPLE"
+    },
+    {
+      "name": "Lenovo Vantage",
+      "publisher": "8F32EFB2-B494-4AEC-A27C-4B0736252363",
+      "version": "10.2606.12.0",
+      "install_location": "C:\\Program Files\\WindowsApps\\E046963F.LenovoCompanion_10.2606.12.0_x64__k1h2ywk1493x8",
+      "install_source": "MULTIPLE",
+      "architecture": "9",
+      "detection_method": "MULTIPLE"
+    },
+    {
+      "name": "Lenovo Voice",
+      "publisher": "8F32EFB2-B494-4AEC-A27C-4B0736252363",
+      "version": "3.0.26.0",
+      "install_location": "C:\\Program Files\\WindowsApps\\E046963F.LenovoVoiceWorldWide_3.0.26.0_x64__k1h2ywk1493x8",
+      "install_source": "MULTIPLE",
+      "architecture": "9",
+      "detection_method": "MULTIPLE"
+    },
+    {
+      "name": "Lenovo Hotkeys",
+      "publisher": "20E7E2C9-A2A9-4A02-BB29-6FCFB9E042BB",
+      "version": "4.7.18.0",
+      "install_location": "C:\\Program Files\\WindowsApps\\E0469640.LenovoUtility_4.7.18.0_x64__5grkq8ppsgwt4",
+      "install_source": "MULTIPLE",
+      "architecture": "9",
+      "detection_method": "MULTIPLE"
+    },
+    {
+      "name": "Smart Microphone Settings",
+      "publisher": "4B11A687-5AD1-49CF-9839-D2E8CFB49433",
+      "version": "1.1.51.0",
+      "install_location": "C:\\Program Files\\WindowsApps\\elevoctechnologyco.ltd.smartmicrophonesettings_1.1.51.0_x64__ttaqwwhyt5s6t",
+      "install_source": "MULTIPLE",
+      "architecture": "9",
+      "detection_method": "MULTIPLE"
+    },
+    {
+      "name": "Windows Application Compatibility Enhancements",
+      "publisher": "Microsoft Corporation",
+      "version": "1.2511.9.0",
+      "install_location": "C:\\Program Files\\WindowsApps\\Microsoft.ApplicationCompatibilityEnhancements_1.2511.9.0_x64__8wekyb3d8bbwe",
+      "install_source": "MULTIPLE",
+      "architecture": "9",
+      "detection_method": "MULTIPLE"
+    },
+    {
+      "name": "AVC Encoder Video Extension",
+      "publisher": "Microsoft Corporation",
+      "version": "1.1.23.0",
+      "install_location": "C:\\Program Files\\WindowsApps\\Microsoft.AVCEncoderVideoExtension_1.1.23.0_x64__8wekyb3d8bbwe",
+      "install_source": "MULTIPLE",
+      "architecture": "9",
+      "detection_method": "MULTIPLE"
+    },
+    {
+      "name": "Microsoft Bing",
+      "publisher": "Microsoft Corporation",
+      "version": "1.1.43.0",
+      "install_location": "C:\\Program Files\\WindowsApps\\Microsoft.BingSearch_1.1.43.0_x64__8wekyb3d8bbwe",
+      "install_source": "MULTIPLE",
+      "architecture": "9",
+      "detection_method": "MULTIPLE"
+    },
+    {
+      "name": "MSN Weather",
+      "publisher": "Microsoft Corporation",
+      "version": "4.54.63045.0",
+      "install_location": "C:\\Program Files\\WindowsApps\\Microsoft.BingWeather_4.54.63045.0_x64__8wekyb3d8bbwe",
+      "install_source": "MULTIPLE",
+      "architecture": "9",
+      "detection_method": "MULTIPLE"
+    },
+    {
+      "name": "Microsoft.Edge.GameAssist",
+      "publisher": "Microsoft Corporation",
+      "version": "1.0.4019.0",
+      "install_location": "C:\\Program Files\\WindowsApps\\microsoft.edge.gameassist_1.0.4019.0_x64__8wekyb3d8bbwe",
+      "install_source": "WINDOWS_APPX",
+      "architecture": "9",
+      "detection_method": "WINDOWS_APPX"
+    },
+    {
+      "name": "XBOX",
+      "publisher": "Microsoft Corporation",
+      "version": "2608.1001.17.0",
+      "install_location": "C:\\Program Files\\WindowsApps\\Microsoft.GamingApp_2608.1001.17.0_x64__8wekyb3d8bbwe",
+      "install_source": "MULTIPLE",
+      "architecture": "9",
+      "detection_method": "MULTIPLE"
+    },
+    {
+      "name": "Mixed Reality Portal",
+      "publisher": "Microsoft Corporation",
+      "version": "2000.22041.1123.0",
+      "install_location": "C:\\Program Files\\WindowsApps\\Microsoft.MixedReality.Portal_2000.22041.1123.0_x64__8wekyb3d8bbwe",
+      "install_source": "MULTIPLE",
+      "architecture": "9",
+      "detection_method": "MULTIPLE"
+    },
+    {
+      "name": "Microsoft People",
+      "publisher": "Microsoft Corporation",
+      "version": "10.2202.100.0",
+      "install_location": "C:\\Program Files\\WindowsApps\\Microsoft.People_10.2202.100.0_x64__8wekyb3d8bbwe",
+      "install_source": "MULTIPLE",
+      "architecture": "9",
+      "detection_method": "MULTIPLE"
+    },
+    {
+      "name": "Windows Security",
+      "publisher": "Microsoft Corporation",
+      "version": "1000.29628.1000.0",
+      "install_location": "C:\\Program Files\\WindowsApps\\microsoft.sechealthui_1000.29628.1000.0_x64__8wekyb3d8bbwe",
+      "install_source": "MULTIPLE",
+      "architecture": "9",
+      "detection_method": "MULTIPLE"
+    },
+    {
+      "name": "VP9 Video Extensions",
+      "publisher": "Microsoft Corporation",
+      "version": "1.2.20.0",
+      "install_location": "C:\\Program Files\\WindowsApps\\Microsoft.VP9VideoExtensions_1.2.20.0_x64__8wekyb3d8bbwe",
+      "install_source": "MULTIPLE",
+      "architecture": "9",
+      "detection_method": "MULTIPLE"
+    },
+    {
+      "name": "Web Media Extensions",
+      "publisher": "Microsoft Corporation",
+      "version": "2.1.38.0",
+      "install_location": "C:\\Program Files\\WindowsApps\\Microsoft.WebMediaExtensions_2.1.38.0_x64__8wekyb3d8bbwe",
+      "install_source": "MULTIPLE",
+      "architecture": "9",
+      "detection_method": "MULTIPLE"
+    },
+    {
+      "name": "Microsoft Whiteboard",
+      "publisher": "Microsoft Corporation",
+      "version": "56.20201.588.0",
+      "install_location": "C:\\Program Files\\WindowsApps\\Microsoft.Whiteboard_56.20201.588.0_x64__8wekyb3d8bbwe",
+      "install_source": "MULTIPLE",
+      "architecture": "9",
+      "detection_method": "MULTIPLE"
+    },
+    {
+      "name": "Mail and Calendar",
+      "publisher": "Microsoft Corporation",
+      "version": "16005.14326.22342.0",
+      "install_location": "C:\\Program Files\\WindowsApps\\microsoft.windowscommunicationsapps_16005.14326.22342.0_x64__8wekyb3d8bbwe",
+      "install_source": "MULTIPLE",
+      "architecture": "9",
+      "detection_method": "MULTIPLE"
+    },
+    {
+      "name": "Windows Maps",
+      "publisher": "Microsoft Corporation",
+      "version": "11.2506.3.0",
+      "install_location": "C:\\Program Files\\WindowsApps\\Microsoft.WindowsMaps_11.2506.3.0_x64__8wekyb3d8bbwe",
+      "install_source": "MULTIPLE",
+      "architecture": "9",
+      "detection_method": "MULTIPLE"
+    },
+    {
+      "name": "Microsoft.WindowsTerminal",
+      "publisher": "Microsoft Corporation",
+      "version": "1.24.11911.0",
+      "install_location": "C:\\Program Files\\WindowsApps\\Microsoft.WindowsTerminal_1.24.11911.0_x64__8wekyb3d8bbwe",
+      "install_source": "WINDOWS_APPX",
+      "architecture": "9",
+      "detection_method": "WINDOWS_APPX"
+    },
+    {
+      "name": "Xbox TCUI",
+      "publisher": "Microsoft Corporation",
+      "version": "1.24.10001.0",
+      "install_location": "C:\\Program Files\\WindowsApps\\Microsoft.Xbox.TCUI_1.24.10001.0_x64__8wekyb3d8bbwe",
+      "install_source": "MULTIPLE",
+      "architecture": "9",
+      "detection_method": "MULTIPLE"
+    },
+    {
+      "name": "Microsoft.XboxGameOverlay",
+      "publisher": "Microsoft Corporation",
+      "version": "1.54.4001.0",
+      "install_location": "C:\\Program Files\\WindowsApps\\Microsoft.XboxGameOverlay_1.54.4001.0_x64__8wekyb3d8bbwe",
+      "install_source": "WINDOWS_APPX",
+      "architecture": "9",
+      "detection_method": "WINDOWS_APPX"
+    },
+    {
+      "name": "Xbox Identity Provider",
+      "publisher": "Microsoft Corporation",
+      "version": "12.130.16001.0",
+      "install_location": "C:\\Program Files\\WindowsApps\\Microsoft.XboxIdentityProvider_12.130.16001.0_x64__8wekyb3d8bbwe",
+      "install_source": "MULTIPLE",
+      "architecture": "9",
+      "detection_method": "MULTIPLE"
+    },
+    {
+      "name": "Game Speech Window",
+      "publisher": "Microsoft Corporation",
+      "version": "1.97.17002.0",
+      "install_location": "C:\\Program Files\\WindowsApps\\Microsoft.XboxSpeechToTextOverlay_1.97.17002.0_x64__8wekyb3d8bbwe",
+      "install_source": "MULTIPLE",
+      "architecture": "9",
+      "detection_method": "MULTIPLE"
+    },
+    {
+      "name": "Movies & TV",
+      "publisher": "Microsoft Corporation",
+      "version": "10.26061.10051.0",
+      "install_location": "C:\\Program Files\\WindowsApps\\Microsoft.ZuneVideo_10.26061.10051.0_x64__8wekyb3d8bbwe",
+      "install_source": "MULTIPLE",
+      "architecture": "9",
+      "detection_method": "MULTIPLE"
+    },
+    {
+      "name": "Microsoft Family",
+      "publisher": "Microsoft Corporation",
+      "version": "0.2.40.0",
+      "install_location": "C:\\Program Files\\WindowsApps\\MicrosoftCorporationII.MicrosoftFamily_0.2.40.0_x64__8wekyb3d8bbwe",
+      "install_source": "MULTIPLE",
+      "architecture": "9",
+      "detection_method": "MULTIPLE"
+    },
+    {
+      "name": "Realtek Audio Control",
+      "publisher": "83564403-0B26-46B8-9D84-040F43691D31",
+      "version": "1.44.302.0",
+      "install_location": "C:\\Program Files\\WindowsApps\\RealtekSemiconductorCorp.RealtekAudioControl_1.44.302.0_x64__dt26b99r8h8gj",
+      "install_source": "MULTIPLE",
+      "architecture": "9",
+      "detection_method": "MULTIPLE"
+    },
+    {
+      "name": "Microsoft Sticky Notes",
+      "publisher": "Microsoft Corporation",
+      "version": "6.1.4.0",
+      "install_location": "C:\\Program Files\\WindowsApps\\Microsoft.MicrosoftStickyNotes_6.1.4.0_x64__8wekyb3d8bbwe",
+      "install_source": "MULTIPLE",
+      "architecture": "9",
+      "detection_method": "MULTIPLE"
+    },
+    {
+      "name": "Quick Assist",
+      "publisher": "Microsoft Corporation",
+      "version": "2.0.57.0",
+      "install_location": "C:\\Program Files\\WindowsApps\\MicrosoftCorporationII.QuickAssist_2.0.57.0_x64__8wekyb3d8bbwe",
+      "install_source": "MULTIPLE",
+      "architecture": "9",
+      "detection_method": "MULTIPLE"
+    },
+    {
+      "name": "Windows Advanced Settings",
+      "publisher": "Microsoft Corporation",
+      "version": "0.2101.858.0",
+      "install_location": "C:\\Program Files\\WindowsApps\\Microsoft.Windows.DevHome_0.2101.858.0_x64__8wekyb3d8bbwe",
+      "install_source": "MULTIPLE",
+      "architecture": "9",
+      "detection_method": "MULTIPLE"
+    },
+    {
+      "name": "Microsoft Journal",
+      "publisher": "Microsoft Corporation",
+      "version": "1.25336.1113.0",
+      "install_location": "C:\\Program Files\\WindowsApps\\Microsoft.MicrosoftJournal_1.25336.1113.0_x64__8wekyb3d8bbwe",
+      "install_source": "MULTIPLE",
+      "architecture": "9",
+      "detection_method": "MULTIPLE"
+    },
+    {
+      "name": "Solitaire & Casual Games",
+      "publisher": "Microsoft Corporation",
+      "version": "4.26.7290.0",
+      "install_location": "C:\\Program Files\\WindowsApps\\Microsoft.MicrosoftSolitaireCollection_4.26.7290.0_x64__8wekyb3d8bbwe",
+      "install_source": "MULTIPLE",
+      "architecture": "9",
+      "detection_method": "MULTIPLE"
+    },
+    {
+      "name": "Microsoft To Do",
+      "publisher": "Microsoft Corporation",
+      "version": "2.176.7601.0",
+      "install_location": "C:\\Program Files\\WindowsApps\\Microsoft.Todos_2.176.7601.0_x64__8wekyb3d8bbwe",
+      "install_source": "MULTIPLE",
+      "architecture": "9",
+      "detection_method": "MULTIPLE"
+    },
+    {
+      "name": "News",
+      "publisher": "Microsoft Corporation",
+      "version": "4.56.21872.0",
+      "install_location": "C:\\Program Files\\WindowsApps\\Microsoft.BingNews_4.56.21872.0_x64__8wekyb3d8bbwe",
+      "install_source": "MULTIPLE",
+      "architecture": "9",
+      "detection_method": "MULTIPLE"
+    },
+    {
+      "name": "Microsoft.ECApp",
+      "publisher": "Microsoft Corporation",
+      "version": "10.0.26100.8972",
+      "install_location": "C:\\Windows\\SystemApps\\Microsoft.ECApp_8wekyb3d8bbwe",
+      "install_source": "WINDOWS_APPX",
+      "architecture": "11",
+      "detection_method": "WINDOWS_APPX"
+    },
+    {
+      "name": "Microsoft.LockApp",
+      "publisher": "Microsoft Windows",
+      "version": "10.0.26100.8972",
+      "install_location": "C:\\Windows\\SystemApps\\Microsoft.LockApp_cw5n1h2txyewy",
+      "install_source": "WINDOWS_APPX",
+      "architecture": "11",
+      "detection_method": "WINDOWS_APPX"
+    },
+    {
+      "name": "MicrosoftWindows.61869720.Voiess",
+      "publisher": "Microsoft Windows",
+      "version": "1000.26100.8972.0",
+      "install_location": "C:\\Windows\\SystemApps\\SxS\\MicrosoftWindows.61869720.Voiess_cw5n1h2txyewy",
+      "install_source": "WINDOWS_APPX",
+      "architecture": "9",
+      "detection_method": "WINDOWS_APPX"
+    },
+    {
+      "name": "MicrosoftWindows.61869721.Livtop",
+      "publisher": "Microsoft Windows",
+      "version": "1000.26100.8972.0",
+      "install_location": "C:\\Windows\\SystemApps\\SxS\\MicrosoftWindows.61869721.Livtop_cw5n1h2txyewy",
+      "install_source": "WINDOWS_APPX",
+      "architecture": "9",
+      "detection_method": "WINDOWS_APPX"
+    },
+    {
+      "name": "MicrosoftWindows.61869722.Speion",
+      "publisher": "Microsoft Windows",
+      "version": "1000.26100.8972.0",
+      "install_location": "C:\\Windows\\SystemApps\\SxS\\MicrosoftWindows.61869722.Speion_cw5n1h2txyewy",
+      "install_source": "WINDOWS_APPX",
+      "architecture": "9",
+      "detection_method": "WINDOWS_APPX"
+    },
+    {
+      "name": "MicrosoftWindows.61869836.InpApp",
+      "publisher": "Microsoft Windows",
+      "version": "1000.26100.8972.0",
+      "install_location": "C:\\Windows\\SystemApps\\SxS\\MicrosoftWindows.61869836.InpApp_cw5n1h2txyewy",
+      "install_source": "WINDOWS_APPX",
+      "architecture": "9",
+      "detection_method": "WINDOWS_APPX"
+    },
+    {
+      "name": "MicrosoftWindows.Client.CBS",
+      "publisher": "Microsoft Windows",
+      "version": "1000.26100.344.0",
+      "install_location": "C:\\Windows\\SystemApps\\MicrosoftWindows.Client.CBS_cw5n1h2txyewy",
+      "install_source": "WINDOWS_APPX",
+      "architecture": "9",
+      "detection_method": "WINDOWS_APPX"
+    },
+    {
+      "name": "MicrosoftWindows.Client.CoreAI",
+      "publisher": "Microsoft Windows",
+      "version": "1000.26100.9168.0",
+      "install_location": "C:\\Windows\\SystemApps\\MicrosoftWindows.Client.CoreAI_cw5n1h2txyewy",
+      "install_source": "WINDOWS_APPX",
+      "architecture": "9",
+      "detection_method": "WINDOWS_APPX"
+    },
+    {
+      "name": "MicrosoftWindows.Client.FileExp",
+      "publisher": "Microsoft Windows",
+      "version": "1000.26100.9.0",
+      "install_location": "C:\\Windows\\SystemApps\\MicrosoftWindows.Client.FileExp_cw5n1h2txyewy",
+      "install_source": "WINDOWS_APPX",
+      "architecture": "9",
+      "detection_method": "WINDOWS_APPX"
+    },
+    {
+      "name": "MicrosoftWindows.Client.OOBE",
+      "publisher": "Microsoft Windows",
+      "version": "1000.26100.52.0",
+      "install_location": "C:\\Windows\\SystemApps\\MicrosoftWindows.Client.OOBE_cw5n1h2txyewy",
+      "install_source": "WINDOWS_APPX",
+      "architecture": "9",
+      "detection_method": "WINDOWS_APPX"
+    },
+    {
+      "name": "Python Install Manager",
+      "publisher": "Python Software Foundation",
+      "version": "26.3.240.0",
+      "install_location": "C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.PythonManager_26.3.240.0_x64__3847v3x7pw1km",
+      "install_source": "MULTIPLE",
+      "architecture": "9",
+      "detection_method": "MULTIPLE"
+    },
+    {
+      "name": "Start Experiences App",
+      "publisher": "Microsoft Corporation",
+      "version": "1.380.2.0",
+      "install_location": "C:\\Program Files\\WindowsApps\\Microsoft.StartExperiencesApp_1.380.2.0_x64__8wekyb3d8bbwe",
+      "install_source": "MULTIPLE",
+      "architecture": "9",
+      "detection_method": "MULTIPLE"
+    },
+    {
+      "name": "WebP Image Extension",
+      "publisher": "Microsoft Corporation",
+      "version": "1.2.31.0",
+      "install_location": "C:\\Program Files\\WindowsApps\\Microsoft.WebpImageExtension_1.2.31.0_x64__8wekyb3d8bbwe",
+      "install_source": "MULTIPLE",
+      "architecture": "9",
+      "detection_method": "MULTIPLE"
+    },
+    {
+      "name": "AV1 Video Extension",
+      "publisher": "Microsoft Corporation",
+      "version": "2.0.30.0",
+      "install_location": "C:\\Program Files\\WindowsApps\\Microsoft.AV1VideoExtension_2.0.30.0_x64__8wekyb3d8bbwe",
+      "install_source": "MULTIPLE",
+      "architecture": "9",
+      "detection_method": "MULTIPLE"
+    },
+    {
+      "name": "Get Help",
+      "publisher": "Microsoft Corporation",
+      "version": "10.2409.42162.0",
+      "install_location": "C:\\Program Files\\WindowsApps\\Microsoft.GetHelp_10.2409.42162.0_x64__8wekyb3d8bbwe",
+      "install_source": "MULTIPLE",
+      "architecture": "9",
+      "detection_method": "MULTIPLE"
+    },
+    {
+      "name": "Microsoft 365 companion apps",
+      "publisher": "Microsoft Corporation",
+      "version": "2.2605.21000.0",
+      "install_location": "C:\\Program Files\\WindowsApps\\Microsoft.M365Companions_2.2605.21000.0_x64__8wekyb3d8bbwe",
+      "install_source": "MULTIPLE",
+      "architecture": "9",
+      "detection_method": "MULTIPLE"
+    },
+    {
+      "name": "Power Automate",
+      "publisher": "Microsoft Corporation",
+      "version": "11.2608.115.0",
+      "install_location": "C:\\Program Files\\WindowsApps\\Microsoft.PowerAutomateDesktop_11.2608.115.0_x64__8wekyb3d8bbwe",
+      "install_source": "MULTIPLE",
+      "architecture": "9",
+      "detection_method": "MULTIPLE"
+    },
+    {
+      "name": "Game Bar",
+      "publisher": "Microsoft Corporation",
+      "version": "7.326.8061.0",
+      "install_location": "C:\\Program Files\\WindowsApps\\Microsoft.XboxGamingOverlay_7.326.8061.0_x64__8wekyb3d8bbwe",
+      "install_source": "MULTIPLE",
+      "architecture": "9",
+      "detection_method": "MULTIPLE"
+    },
+    {
+      "name": "Windows Web Experience Pack",
+      "publisher": "Microsoft Windows",
+      "version": "526.21100.40.0",
+      "install_location": "C:\\Program Files\\WindowsApps\\MicrosoftWindows.Client.WebExperience_526.21100.40.0_x64__cw5n1h2txyewy",
+      "install_source": "MULTIPLE",
+      "architecture": "9",
+      "detection_method": "MULTIPLE"
+    },
+    {
+      "name": "Phone Link",
+      "publisher": "Microsoft Corporation",
+      "version": "1.26071.164.0",
+      "install_location": "C:\\Program Files\\WindowsApps\\Microsoft.YourPhone_1.26071.164.0_x64__8wekyb3d8bbwe",
+      "install_source": "MULTIPLE",
+      "architecture": "9",
+      "detection_method": "MULTIPLE"
+    },
+    {
+      "name": "Mobile devices",
+      "publisher": "Microsoft Windows",
+      "version": "1.26071.84.0",
+      "install_location": "C:\\Program Files\\WindowsApps\\MicrosoftWindows.CrossDevice_1.26071.84.0_x64__cw5n1h2txyewy",
+      "install_source": "MULTIPLE",
+      "architecture": "9",
+      "detection_method": "MULTIPLE"
+    },
+    {
+      "name": "aimgr",
+      "publisher": "Microsoft Corporation",
+      "version": "0.20.61.0",
+      "install_location": "C:\\Program Files\\WindowsApps\\aimgr_0.20.61.0_x64__8wekyb3d8bbwe",
+      "install_source": "MULTIPLE",
+      "architecture": "9",
+      "detection_method": "MULTIPLE"
+    },
+    {
+      "name": "Microsoft.DesktopAppInstaller",
+      "publisher": "Microsoft Corporation",
+      "version": "1.29.290.0",
+      "install_location": "C:\\Program Files\\WindowsApps\\Microsoft.DesktopAppInstaller_1.29.290.0_x64__8wekyb3d8bbwe",
+      "install_source": "WINDOWS_APPX",
+      "architecture": "9",
+      "detection_method": "WINDOWS_APPX"
+    },
+    {
+      "name": "HEIF Image Extension",
+      "publisher": "Microsoft Corporation",
+      "version": "1.2.48.0",
+      "install_location": "C:\\Program Files\\WindowsApps\\Microsoft.HEIFImageExtension_1.2.48.0_x64__8wekyb3d8bbwe",
+      "install_source": "MULTIPLE",
+      "architecture": "9",
+      "detection_method": "MULTIPLE"
+    },
+    {
+      "name": "Microsoft.VisualStudioCode",
+      "publisher": "Microsoft Corporation",
+      "version": "1.0.134.0",
+      "install_location": "C:\\Program Files\\WindowsApps\\Microsoft.VisualStudioCode_1.0.134.0_neutral__8wekyb3d8bbwe",
+      "install_source": "WINDOWS_APPX",
+      "architecture": "11",
+      "detection_method": "WINDOWS_APPX"
+    },
+    {
+      "name": "Paint",
+      "publisher": "Microsoft Corporation",
+      "version": "11.2605.81.0",
+      "install_location": "C:\\Program Files\\WindowsApps\\Microsoft.Paint_11.2605.81.0_x64__8wekyb3d8bbwe",
+      "install_source": "MULTIPLE",
+      "architecture": "9",
+      "detection_method": "MULTIPLE"
+    },
+    {
+      "name": "Feedback Hub",
+      "publisher": "Microsoft Corporation",
+      "version": "2.2607.302.0",
+      "install_location": "C:\\Program Files\\WindowsApps\\Microsoft.WindowsFeedbackHub_2.2607.302.0_x64__8wekyb3d8bbwe",
+      "install_source": "MULTIPLE",
+      "architecture": "9",
+      "detection_method": "MULTIPLE"
+    },
+    {
+      "name": "Windows Subsystem for Linux",
+      "publisher": "Microsoft Corporation",
+      "version": "2.7.12.0",
+      "install_location": "C:\\Program Files\\WindowsApps\\MicrosoftCorporationII.WindowsSubsystemForLinux_2.7.12.0_x64__8wekyb3d8bbwe",
+      "install_source": "MULTIPLE",
+      "architecture": "9",
+      "detection_method": "MULTIPLE"
+    },
+    {
+      "name": "MSTeams",
+      "publisher": "Microsoft Corporation",
+      "version": "26213.1006.5014.9784",
+      "install_location": "C:\\Program Files\\WindowsApps\\MSTeams_26213.1006.5014.9784_x64__8wekyb3d8bbwe",
+      "install_source": "WINDOWS_APPX",
+      "architecture": "9",
+      "detection_method": "WINDOWS_APPX"
+    },
+    {
+      "name": "Windows Notepad",
+      "publisher": "Microsoft Corporation",
+      "version": "11.2607.14.0",
+      "install_location": "C:\\Program Files\\WindowsApps\\Microsoft.WindowsNotepad_11.2607.14.0_x64__8wekyb3d8bbwe",
+      "install_source": "MULTIPLE",
+      "architecture": "9",
+      "detection_method": "MULTIPLE"
+    },
+    {
+      "name": "Windows Camera",
+      "publisher": "Microsoft Corporation",
+      "version": "2026.2607.1.0",
+      "install_location": "C:\\Program Files\\WindowsApps\\Microsoft.WindowsCamera_2026.2607.1.0_x64__8wekyb3d8bbwe",
+      "install_source": "MULTIPLE",
+      "architecture": "9",
+      "detection_method": "MULTIPLE"
+    },
+    {
+      "name": "Microsoft.MicrosoftOfficeHub",
+      "publisher": "Microsoft Corporation",
+      "version": "19.2608.54041.0",
+      "install_location": "C:\\Program Files\\WindowsApps\\Microsoft.MicrosoftOfficeHub_19.2608.54041.0_x64__8wekyb3d8bbwe",
+      "install_source": "WINDOWS_APPX",
+      "architecture": "9",
+      "detection_method": "WINDOWS_APPX"
+    },
+    {
+      "name": "HEVC Video Extensions from Device Manufacturer",
+      "publisher": "Microsoft Corporation",
+      "version": "2.5.33.0",
+      "install_location": "C:\\Program Files\\WindowsApps\\Microsoft.HEVCVideoExtension_2.5.33.0_x64__8wekyb3d8bbwe",
+      "install_source": "MULTIPLE",
+      "architecture": "9",
+      "detection_method": "MULTIPLE"
+    },
+    {
+      "name": "Microsoft Store",
+      "publisher": "Microsoft Corporation",
+      "version": "22607.1401.7.0",
+      "install_location": "C:\\Program Files\\WindowsApps\\Microsoft.WindowsStore_22607.1401.7.0_x64__8wekyb3d8bbwe",
+      "install_source": "MULTIPLE",
+      "architecture": "9",
+      "detection_method": "MULTIPLE"
+    },
+    {
+      "name": "MPEG-2 Video Extension",
+      "publisher": "Microsoft Corporation",
+      "version": "1.2.32.0",
+      "install_location": "C:\\Program Files\\WindowsApps\\Microsoft.MPEG2VideoExtension_1.2.32.0_x64__8wekyb3d8bbwe",
+      "install_source": "MULTIPLE",
+      "architecture": "9",
+      "detection_method": "MULTIPLE"
+    },
+    {
+      "name": "OfficePushNotificationsUtility",
+      "publisher": "Microsoft Corporation",
+      "version": "16.0.20326.20112",
+      "install_location": "C:\\Program Files\\WindowsApps\\Microsoft.OfficePushNotificationUtility_16.0.20326.20112_neutral__8wekyb3d8bbwe",
+      "install_source": "MULTIPLE",
+      "architecture": "11",
+      "detection_method": "MULTIPLE"
+    },
+    {
+      "name": "Microsoft.Office.ActionsServer",
+      "publisher": "Microsoft Corporation",
+      "version": "16.0.20326.20112",
+      "install_location": "C:\\Program Files\\WindowsApps\\Microsoft.Office.ActionsServer_16.0.20326.20112_neutral__8wekyb3d8bbwe",
+      "install_source": "MULTIPLE",
+      "architecture": "11",
+      "detection_method": "MULTIPLE"
+    },
+    {
+      "name": "Microsoft.OutlookForWindows",
+      "publisher": "Microsoft Corporation",
+      "version": "1.2026.818.100",
+      "install_location": "C:\\Program Files\\WindowsApps\\Microsoft.OutlookForWindows_1.2026.818.100_x64__8wekyb3d8bbwe",
+      "install_source": "WINDOWS_APPX",
+      "architecture": "9",
+      "detection_method": "WINDOWS_APPX"
+    },
+    {
+      "name": "Microsoft.MicrosoftEdge.Stable",
+      "publisher": "Microsoft Corporation",
+      "version": "152.0.4191.53",
+      "install_location": "C:\\Program Files\\WindowsApps\\Microsoft.MicrosoftEdge.Stable_152.0.4191.53_neutral__8wekyb3d8bbwe",
+      "install_source": "WINDOWS_APPX",
+      "architecture": "11",
+      "detection_method": "WINDOWS_APPX"
+    },
+    {
+      "name": "Spotify - Music and Podcasts",
+      "publisher": "Spotify AB",
+      "version": "1.298.301.0",
+      "install_location": "C:\\Program Files\\WindowsApps\\SpotifyAB.SpotifyMusic_1.298.301.0_x64__zpdnekdrzrea0",
+      "install_source": "MULTIPLE",
+      "architecture": "9",
+      "detection_method": "MULTIPLE"
+    },
+    {
+      "name": "PDF X",
+      "publisher": "PDF Technologies",
+      "version": "1.4.27.0",
+      "install_location": "C:\\Program Files\\WindowsApps\\6760NGPDFLab.PDFX_1.4.27.0_x64__sbe4t8mqwq93a",
+      "install_source": "MULTIPLE",
+      "architecture": "9",
+      "detection_method": "MULTIPLE"
+    },
+    {
+      "name": "WhatsApp",
+      "publisher": "Meta Platforms, Inc.",
+      "version": "2.2632.100.0",
+      "install_location": "C:\\Program Files\\WindowsApps\\5319275A.WhatsAppDesktop_2.2632.100.0_x64__cv1g1gvanyjgm",
+      "install_source": "MULTIPLE",
+      "architecture": "9",
+      "detection_method": "MULTIPLE"
+    },
+    {
+      "name": "Microsoft.Copilot",
+      "publisher": "Microsoft Corporation",
+      "version": "152.0.4191.53",
+      "install_location": "C:\\Program Files\\WindowsApps\\Microsoft.Copilot_152.0.4191.53_neutral__8wekyb3d8bbwe",
+      "install_source": "WINDOWS_APPX",
+      "architecture": "11",
+      "detection_method": "WINDOWS_APPX"
+    },
+    {
+      "name": "Store Experience Host",
+      "publisher": "Microsoft Corporation",
+      "version": "22607.1401.4.0",
+      "install_location": "C:\\Program Files\\WindowsApps\\Microsoft.StorePurchaseApp_22607.1401.4.0_x64__8wekyb3d8bbwe",
+      "install_source": "MULTIPLE",
+      "architecture": "9",
+      "detection_method": "MULTIPLE"
+    },
+    {
+      "name": "Windows Calculator",
+      "publisher": "Microsoft Corporation",
+      "version": "11.2607.0.0",
+      "install_location": "C:\\Program Files\\WindowsApps\\Microsoft.WindowsCalculator_11.2607.0.0_x64__8wekyb3d8bbwe",
+      "install_source": "MULTIPLE",
+      "architecture": "9",
+      "detection_method": "MULTIPLE"
+    },
+    {
+      "name": "Windows Clock",
+      "publisher": "Microsoft Corporation",
+      "version": "11.2607.6.0",
+      "install_location": "C:\\Program Files\\WindowsApps\\Microsoft.WindowsAlarms_11.2607.6.0_x64__8wekyb3d8bbwe",
+      "install_source": "MULTIPLE",
+      "architecture": "9",
+      "detection_method": "MULTIPLE"
+    },
+    {
+      "name": "Windows Sound Recorder",
+      "publisher": "Microsoft Corporation",
+      "version": "11.2607.1.0",
+      "install_location": "C:\\Program Files\\WindowsApps\\Microsoft.WindowsSoundRecorder_11.2607.1.0_x64__8wekyb3d8bbwe",
+      "install_source": "MULTIPLE",
+      "architecture": "9",
+      "detection_method": "MULTIPLE"
+    },
+    {
+      "name": "Windows Media Player",
+      "publisher": "Microsoft Corporation",
+      "version": "11.2607.16.0",
+      "install_location": "C:\\Program Files\\WindowsApps\\Microsoft.ZuneMusic_11.2607.16.0_x64__8wekyb3d8bbwe",
+      "install_source": "MULTIPLE",
+      "architecture": "9",
+      "detection_method": "MULTIPLE"
+    },
+    {
+      "name": "AutoCAD - DWG Viewer and Editor",
+      "publisher": "F6FD12B7-9E18-42B8-BA81-AA4ED127C991",
+      "version": "10.10.0.0",
+      "install_location": "C:\\Program Files\\WindowsApps\\89006A2E.AutoCAD360_10.10.0.0_neutral__tf1gferkr813w",
+      "install_source": "MULTIPLE",
+      "architecture": "11",
+      "detection_method": "MULTIPLE"
+    },
+    {
+      "name": "Power BI Desktop",
+      "publisher": "Microsoft Corporation",
+      "version": "2.157.879.0",
+      "install_location": "C:\\Program Files\\WindowsApps\\Microsoft.MicrosoftPowerBIDesktop_2.157.879.0_x64__8wekyb3d8bbwe",
+      "install_source": "MULTIPLE",
+      "architecture": "9",
+      "detection_method": "MULTIPLE"
+    },
+    {
+      "name": "Snipping Tool",
+      "publisher": "Microsoft Corporation",
+      "version": "11.2605.38.0",
+      "install_location": "C:\\Program Files\\WindowsApps\\Microsoft.ScreenSketch_11.2605.38.0_x64__8wekyb3d8bbwe",
+      "install_source": "MULTIPLE",
+      "architecture": "9",
+      "detection_method": "MULTIPLE"
+    },
+    {
+      "name": "ChatGPT",
+      "publisher": "OpenAI",
+      "version": "26.831.2377.0",
+      "install_location": "C:\\Program Files\\WindowsApps\\OpenAI.Codex_26.831.2377.0_x64__2p2nqsd0c76g0",
+      "install_source": "MULTIPLE",
+      "architecture": "9",
+      "detection_method": "MULTIPLE"
+    },
+    {
+      "name": "Microsoft.OneDriveSync",
+      "publisher": "Microsoft Corporation",
+      "version": "26153.809.4.0",
+      "install_location": "C:\\Program Files\\WindowsApps\\Microsoft.OneDriveSync_26153.809.4.0_neutral__8wekyb3d8bbwe",
+      "install_source": "WINDOWS_APPX",
+      "architecture": "11",
+      "detection_method": "WINDOWS_APPX"
+    },
+    {
+      "name": "Microsoft Photos",
+      "publisher": "Microsoft Corporation",
+      "version": "2026.11080.24002.0",
+      "install_location": "C:\\Program Files\\WindowsApps\\Microsoft.Windows.Photos_2026.11080.24002.0_x64__8wekyb3d8bbwe",
+      "install_source": "MULTIPLE",
+      "architecture": "9",
+      "detection_method": "MULTIPLE"
+    },
+    {
+      "name": "Windows Package Manager Source (winget) V2",
+      "publisher": "Microsoft Corporation",
+      "version": "2026.903.846.28",
+      "install_location": "C:\\Program Files\\WindowsApps\\Microsoft.Winget.Source_2026.903.846.28_neutral__8wekyb3d8bbwe",
+      "install_source": "MULTIPLE",
+      "architecture": "11",
+      "detection_method": "MULTIPLE"
+    },
+    {
+      "name": "Antigravity 2.11.0",
+      "publisher": null,
+      "version": "2.11.0",
+      "install_location": null,
+      "install_source": "WINDOWS_WINGET",
+      "architecture": "x64",
+      "detection_method": "WINDOWS_WINGET"
+    },
+    {
+      "name": "Antigravity IDE (User)",
+      "publisher": null,
+      "version": "2.5.5",
+      "install_location": null,
+      "install_source": "WINDOWS_WINGET",
+      "architecture": "x64",
+      "detection_method": "WINDOWS_WINGET"
+    },
+    {
+      "name": "App Installer",
+      "publisher": null,
+      "version": "1.29.290.0",
+      "install_location": null,
+      "install_source": "WINDOWS_WINGET",
+      "architecture": "x64",
+      "detection_method": "WINDOWS_WINGET"
+    },
+    {
+      "name": "Copilot",
+      "publisher": null,
+      "version": "152.0.4191.53",
+      "install_location": null,
+      "install_source": "WINDOWS_WINGET",
+      "architecture": "x64",
+      "detection_method": "WINDOWS_WINGET"
+    },
+    {
+      "name": "IntelliJ IDEA 2026.2.1",
+      "publisher": null,
+      "version": "2026.2.1",
+      "install_location": null,
+      "install_source": "WINDOWS_WINGET",
+      "architecture": "x64",
+      "detection_method": "WINDOWS_WINGET"
+    },
+    {
+      "name": "Lenovo Vantage Service",
+      "publisher": null,
+      "version": "5.1.2608.14",
+      "install_location": null,
+      "install_source": "WINDOWS_WINGET",
+      "architecture": "x64",
+      "detection_method": "WINDOWS_WINGET"
+    },
+    {
+      "name": "Microsoft 365 Copilot",
+      "publisher": null,
+      "version": "19.2608.54041.0",
+      "install_location": null,
+      "install_source": "WINDOWS_WINGET",
+      "architecture": "x64",
+      "detection_method": "WINDOWS_WINGET"
+    },
+    {
+      "name": "Microsoft Edge",
+      "publisher": null,
+      "version": "152.0.4191.53",
+      "install_location": null,
+      "install_source": "WINDOWS_WINGET",
+      "architecture": "x64",
+      "detection_method": "WINDOWS_WINGET"
+    },
+    {
+      "name": "Microsoft Edge For Game Bar",
+      "publisher": null,
+      "version": "1.0.4019.0",
+      "install_location": null,
+      "install_source": "WINDOWS_WINGET",
+      "architecture": "x64",
+      "detection_method": "WINDOWS_WINGET"
+    },
+    {
+      "name": "Microsoft OneDrive",
+      "publisher": null,
+      "version": "26.153.0809.0004",
+      "install_location": null,
+      "install_source": "WINDOWS_WINGET",
+      "architecture": "x64",
+      "detection_method": "WINDOWS_WINGET"
+    },
+    {
+      "name": "Microsoft SQL Server 2025 (64-bit)",
+      "publisher": null,
+      "version": "Unknown",
+      "install_location": null,
+      "install_source": "WINDOWS_WINGET",
+      "architecture": "x64",
+      "detection_method": "WINDOWS_WINGET"
+    },
+    {
+      "name": "Microsoft Teams",
+      "publisher": null,
+      "version": "26213.1006.5014.9784",
+      "install_location": null,
+      "install_source": "WINDOWS_WINGET",
+      "architecture": "x64",
+      "detection_method": "WINDOWS_WINGET"
+    },
+    {
+      "name": "Microsoft Visual Studio Code (User)",
+      "publisher": null,
+      "version": "1.134.0",
+      "install_location": null,
+      "install_source": "WINDOWS_WINGET",
+      "architecture": "x64",
+      "detection_method": "WINDOWS_WINGET"
+    },
+    {
+      "name": "OneDrive",
+      "publisher": null,
+      "version": "26153.809.4.0",
+      "install_location": null,
+      "install_source": "WINDOWS_WINGET",
+      "architecture": "x64",
+      "detection_method": "WINDOWS_WINGET"
+    },
+    {
+      "name": "Outlook for Windows",
+      "publisher": null,
+      "version": "1.2026.818.100",
+      "install_location": null,
+      "install_source": "WINDOWS_WINGET",
+      "architecture": "x64",
+      "detection_method": "WINDOWS_WINGET"
+    },
+    {
+      "name": "Visual Studio Code",
+      "publisher": null,
+      "version": "1.0.134.0",
+      "install_location": null,
+      "install_source": "WINDOWS_WINGET",
+      "architecture": "x64",
+      "detection_method": "WINDOWS_WINGET"
+    },
+    {
+      "name": "Windows Terminal",
+      "publisher": null,
+      "version": "1.24.11911.0",
+      "install_location": null,
+      "install_source": "WINDOWS_WINGET",
+      "architecture": "x64",
+      "detection_method": "WINDOWS_WINGET"
+    },
+    {
+      "name": "Xbox Game Bar Plugin",
+      "publisher": null,
+      "version": "1.54.4001.0",
+      "install_location": null,
+      "install_source": "WINDOWS_WINGET",
+      "architecture": "x64",
+      "detection_method": "WINDOWS_WINGET"
+    }
+  ],
+  "inventory_source": "ENDPOINT_AGENT"
+}

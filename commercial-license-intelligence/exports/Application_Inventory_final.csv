@@ -1,0 +1,113 @@
+﻿Application Name,Version,OS,License Required,End of Support,End of Life,Metric,Classification,License Model,Evidence URL
+AMD Software,24.7.1,Windows,NO,,,No License Required,,Hardware Bundled Driver / Free Utility,https://www.amd.com/en/legal/terms.html
+Docker Desktop,4.82.0,Windows,YES,0,0,Users,COMMERCIAL,Commercial — Per Seat Subscription,https://www.docker.com/legal/docker-software-end-user-license-agreement/
+Git,2.51.2,Windows,NO,,,No License Required,OPEN_SOURCE,GPL-2.0 — Free/Open Source,https://git-scm.com/about/free-and-open-source
+Microsoft Office Home and Student 2021 - en-us,16.0.20326.20132,Windows,YES,0,0,,COMMERCIAL,Commercial — Perpetual,https://www.microsoft.com/content/dam/microsoft/usetm/documents/office/2021-office-home-student-windows-and-mac/oem-pre-installed/UseTerms_OEM_Office_OfficeHomeAndStudent2021_English.pdf
+Mem Reduct,3.5.2,Windows,NO,,,No License Required,OPEN_SOURCE,GPL-3.0 — Free/Open Source,https://github.com/henrypp/memreduct
+Notepad++ (64-bit x64),8.7.5,Windows,NO,,,No License Required,OPEN_SOURCE,GPL-3.0 — Free/Open Source,https://notepad-plus-plus.org/repository/licence/
+Microsoft OneNote - en-us,16.0.20326.20132,Windows,YES,,,Users,COMMERCIAL,Commercial — Per Seat Subscription,https://www.microsoft.com/microsoft-365/onenote
+Riot Vanguard,,Windows,NO,,,No License Required,FREE,Freeware,https://support-valorant.riotgames.com/hc/en-us/articles/360046161233-What-is-Vanguard
+MECCHA CHAMELEON,,Windows,YES,,,,,Unknown,
+WinRAR 7.13 (64-bit),7.13.0,Windows,YES,,,Devices,COMMERCIAL,Commercial — Per Device,https://www.rarlab.com/license.htm
+Microsoft GameInput,3.3.221.0,Windows,NO,,,No License Required,FREE,Freeware,https://learn.microsoft.com/en-us/gaming/gdk/_content/gc/input/overviews/input-overview
+MySQL Server 8.0,8.0.44,Windows,NO,,,No License Required,OPEN_SOURCE,GPL-2.0 — Free/Open Source,https://www.microsoft.com/licensing/terms/product/SQLServer/all
+Python 3.11.4 Development Libraries (64-bit),3.11.4150.0,Windows,NO,0,0,No License Required,OPEN_SOURCE,PSF License — Free/Open Source,https://www.python.org/psf/license/
+Microsoft Windows Application Compatibility Fix Database,,Windows,NO,,,No License Required,FREE,Freeware,
+CMake,3.29.2,Windows,NO,,,No License Required,OPEN_SOURCE,BSD-3-Clause — Free/Open Source,https://cmake.org/
+Branding64,1.00.0009,Windows,YES,,,,,Unknown,
+Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.4148,9.0.30729.4148,Windows,NO,,,No License Required,FREE,Freeware,https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist
+Python 3.11.4 Test Suite (64-bit),3.11.4150.0,Windows,NO,0,0,No License Required,OPEN_SOURCE,PSF License — Free/Open Source,https://www.python.org/psf/license/
+Bonjour,3.1.0.1,Windows,NO,,,No License Required,FREE,Freeware,https://www.apple.com/legal/sla/
+AMD Settings,2024.0618.1442.1996,Windows,NO,,,No License Required,,No License Required,https://www.amd.com/en/support
+RyzenMasterSDK,1.2.3.5,Windows,NO,,,No License Required,,No License Required,https://www.amd.com/en/support
+AWS Command Line Interface v2,2.35.24.0,Windows,NO,,,No License Required,OPEN_SOURCE,Apache-2.0 — Free/Open Source,https://aws.amazon.com/cli/
+Microsoft Visual C++ 2022 X64 Additional Runtime - 14.51.36247,14.51.36247,Windows,NO,,,No License Required,FREE,Freeware,https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist
+Java 8 Update 491 (64-bit),8.0.4910.10,Windows,YES,1,0,,COMMERCIAL,Commercial — Subscription,https://www.oracle.com/java/technologies/java-se-subscription.html
+Python 3.11.4 Add to Path (64-bit),3.11.4150.0,Windows,NO,0,0,No License Required,OPEN_SOURCE,PSF License — Free/Open Source,https://www.python.org/psf/license/
+AMD DVR64,1.0.2,Windows,NO,,,No License Required,,No License Required,https://www.amd.com/en/support
+Python 3.11.4 Standard Library (64-bit),3.11.4150.0,Windows,NO,0,0,No License Required,OPEN_SOURCE,PSF License — Free/Open Source,https://www.python.org/psf/license/
+MongoDB 8.2.2 2008R2Plus SSL (64 bit),8.2.2,Windows,NO,,,No License Required,OPEN_SOURCE,SSPL-1.0 — Free to Use,https://www.mongodb.com/pricing
+Office 16 Click-to-Run Extensibility Component,16.0.20326.20072,Windows,NO,,,No License Required,COMMERCIAL,No License Required,https://learn.microsoft.com/en-us/deployoffice/overview
+Python 3.11.4 Utility Scripts (64-bit),3.11.4150.0,Windows,NO,0,0,No License Required,OPEN_SOURCE,PSF License — Free/Open Source,https://www.python.org/psf/license/
+MySQL Router 8.0,8.0.44,Windows,NO,1,1,No License Required,OPEN_SOURCE,GPL-2.0 — Free/Open Source,https://www.mysql.com/
+Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.51.36247,14.51.36247,Windows,NO,,,No License Required,FREE,Freeware,https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist
+AMD WVR64,1.0.2,Windows,NO,,,No License Required,,No License Required,https://www.amd.com/en/support
+MySQL Workbench 8.0 CE,8.0.44,Windows,NO,1,1,No License Required,OPEN_SOURCE,GPL-2.0 — Free/Open Source,https://www.mysql.com/
+Python 3.11.4 Tcl/Tk Support (64-bit),3.11.4150.0,Windows,NO,0,0,No License Required,OPEN_SOURCE,PSF License — Free/Open Source,https://www.python.org/psf/license/
+Microsoft Teams Meeting Add-in for Microsoft Office,1.25.18302,Windows,YES,,,Users,COMMERCIAL,Commercial — Per Seat Subscription,https://www.microsoft.com/licensing/terms/product/MicrosoftTeams/all
+GLPI Agent 1.19,1.19,Windows,YES,,,,,Unknown,
+NVIDIA Graphics Driver 616.64,616.64,Windows,NO,,,No License Required,,No License Required,https://www.nvidia.com/en-us/drivers/
+NVIDIA App 11.0.9.251,11.0.9.251,Windows,NO,,,No License Required,,No License Required,https://www.nvidia.com/en-us/drivers/
+NVIDIA MessageBus 3 for NvApp,3.21,Windows,NO,,,No License Required,,No License Required,https://www.nvidia.com/en-us/drivers/
+NVIDIA Backend,11.0.9.251,Windows,NO,,,No License Required,,No License Required,https://www.nvidia.com/en-us/drivers/
+NVIDIA App driver settings,1.0,Windows,NO,,,No License Required,,No License Required,https://www.nvidia.com/en-us/drivers/
+NVIDIA PhysX System Software 9.26.0703,9.26.0703,Windows,NO,,,No License Required,,No License Required,https://www.nvidia.com/en-us/drivers/
+NVIDIA FrameView SDK 1.9.12728.38614306,1.9.12728.38614306,Windows,NO,,,No License Required,,No License Required,https://www.nvidia.com/en-us/drivers/
+NVIDIA HD Audio Driver 1.4.6.3,1.4.6.3,Windows,NO,,,No License Required,,No License Required,https://www.nvidia.com/en-us/drivers/
+NVIDIA Install Application,2.1002.463.0,Windows,NO,,,No License Required,FREE,Freeware,
+NVIDIA Container,1.51,Windows,NO,,,No License Required,,No License Required,https://www.nvidia.com/en-us/drivers/
+NVIDIA AIUser Container,1.51,Windows,NO,,,No License Required,FREE,Freeware,
+NVIDIA LocalSystem Container,1.51,Windows,NO,,,No License Required,FREE,Freeware,
+NVIDIA Session Container,1.51,Windows,NO,,,No License Required,FREE,Freeware,
+NVIDIA User Container,1.51,Windows,NO,,,No License Required,FREE,Freeware,
+NVIDIA NvDLISR,1.0,Windows,NO,,,No License Required,,No License Required,https://www.nvidia.com/en-us/drivers/
+NVIDIA Platform Controllers and Framework,615.34,Windows,NO,,,No License Required,FREE,Freeware,
+NVIDIA Watchdog Plugin for NvContainer,1.51,Windows,NO,,,No License Required,,No License Required,https://www.nvidia.com/en-us/drivers/
+NVIDIA Telemetry Client,19.8.1.0,Windows,NO,,,No License Required,,No License Required,https://www.nvidia.com/en-us/drivers/
+NVIDIA ShadowPlay 11.0.9.500,11.0.9.500,Windows,NO,,,No License Required,,No License Required,https://www.nvidia.com/en-us/drivers/
+NVIDIA USBC Driver 1.52.831.832,1.52.831.832,Windows,NO,,,No License Required,,No License Required,https://www.nvidia.com/en-us/drivers/
+NVIDIA Virtual Audio 4.92.0.0,4.92.0.0,Windows,NO,,,No License Required,,No License Required,https://www.nvidia.com/en-us/drivers/
+GitHub CLI,2.92.0,Windows,NO,,,No License Required,OPEN_SOURCE,GPL-2.0 — Free/Open Source,https://git-scm.com/about/free-and-open-source
+Microsoft Update Health Tools,5.72.0.0,Windows,NO,,,No License Required,FREE,Freeware,https://learn.microsoft.com/en-us/windows/
+Apple Mobile Device Support,16.5.0.12,Windows,NO,,,No License Required,FREE,Freeware,https://www.apple.com/legal/sla/
+Java(TM) SE Development Kit 20.0.2 (64-bit),20.0.2.0,Windows,YES,1,1,,COMMERCIAL,Commercial — Subscription,https://www.oracle.com/java/technologies/java-se-subscription.html
+Node.js,22.19.0,Windows,NO,0,0,No License Required,OPEN_SOURCE,MIT — Free/Open Source,https://github.com/nodejs/node/blob/main/LICENSE
+Python 3.11.4 pip Bootstrap (64-bit),3.11.4150.0,Windows,NO,0,0,No License Required,OPEN_SOURCE,PSF License — Free/Open Source,https://www.python.org/psf/license/
+MySQL Shell,8.0.44,Windows,NO,1,1,No License Required,OPEN_SOURCE,GPL-2.0 — Free/Open Source,https://www.mysql.com/
+Python 3.11.4 Executables (64-bit),3.11.4150.0,Windows,NO,0,0,No License Required,OPEN_SOURCE,PSF License — Free/Open Source,https://www.python.org/psf/license/
+AMD User Experience Program Installer,2319.0.0.618,Windows,NO,,,No License Required,,No License Required,https://www.amd.com/en/support
+Epic Games Launcher Prerequisites (x64),1.0.0.0,Windows,NO,,,No License Required,FREE,Freeware,https://store.epicgames.com/
+Python 3.11.4 Documentation (64-bit),3.11.4150.0,Windows,NO,0,0,No License Required,OPEN_SOURCE,PSF License — Free/Open Source,https://www.python.org/psf/license/
+Windows Subsystem for Linux,2.7.10.0,Windows,NO,,,No License Required,FREE,Freeware,https://learn.microsoft.com/en-us/windows/wsl/about
+Python 3.11.4 Core Interpreter (64-bit),3.11.4150.0,Windows,NO,0,0,No License Required,OPEN_SOURCE,PSF License — Free/Open Source,https://www.python.org/psf/license/
+AMD Chipset Software,6.07.22.037,Windows,NO,,,No License Required,,No License Required,https://www.amd.com/en/support
+Brave,153.1.95.101,Windows,NO,,,No License Required,OPEN_SOURCE,MPL — Free/Open Source,https://brave.com/terms-of-use/
+Google Chrome,152.0.7977.84,Windows,NO,,,No License Required,FREE,Freeware,https://www.google.com/chrome/terms/
+IntelliJ IDEA 2023.2.2,232.9921.47,Windows,YES,,,Users,COMMERCIAL,Commercial — Per Seat Subscription,https://www.jetbrains.com/idea/buy/?section=commercial&billing=yearly
+Legion Arena,1.10.0.10,Windows,NO,,,No License Required,,No License Required,https://support.lenovo.com/
+Copilot,153.0.4234.32,Windows,YES,,,Users,FREE_AND_PAID,Freemium / In-App & M365 Subscription,https://learn.microsoft.com/en-us/windows/ai/overview
+Microsoft Edge,152.0.4191.66,Windows,NO,,,No License Required,FREE,Freeware,https://support.microsoft.com/en-us/topic/microsoft-edge-game-assist
+Microsoft Edge WebView2 Runtime,152.0.4191.66,Windows,NO,,,No License Required,FREE,Freeware,https://developer.microsoft.com/en-us/microsoft-edge/webview2/
+Steam,2.10.91.91,Windows,NO,,,No License Required,FREE,Freeware,https://www.microsoft.com/en-us/microsoft-teams/compare-microsoft-teams-business-options
+TLauncher,2.9343,Windows,NO,,,No License Required,FREE,Freeware,https://tlauncher.org/en/
+Lenovo Vantage Service,5.1.2608.14,Windows,NO,,,No License Required,FREE,Freeware,
+Microsoft Visual C++ v14 Redistributable (x64) - 14.51.36247,14.51.36247.0,Windows,NO,,,No License Required,FREE,Freeware,https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist
+MySQL Examples and Samples,8.0.44,Windows,NO,1,1,No License Required,OPEN_SOURCE,GPL-2.0 — Free/Open Source,https://www.mysql.com/
+Avast Update Helper,1.8.1995.6,Windows,NO,,,No License Required,FREE,Freeware,https://www.avast.com/
+Python Launcher,3.11.4150.0,Windows,NO,0,0,No License Required,OPEN_SOURCE,PSF License — Free/Open Source,https://www.python.org/psf/license/
+MySQL Installer,1.6.16.0,Windows,NO,,,No License Required,OPEN_SOURCE,GPL-2.0 — Free/Open Source,https://www.mysql.com/
+Epic Online Services,2.0.42.0,Windows,NO,,,No License Required,FREE,Freeware,https://dev.epicgames.com/services
+WebAdvisor by McAfee,4.1.2.111,Windows,NO,,,No License Required,FREE,Freeware,https://www.mcafee.com/en-us/antivirus/free-antivirus/webadvisor.html
+Java Auto Updater,2.8.491.10,Windows,YES,1,1,,COMMERCIAL,Commercial — Subscription,https://www.oracle.com/java/technologies/java-se-subscription.html
+Wondershare Helper Compact 2.6.0,2.6.0,Windows,NO,,,No License Required,COMMERCIAL,No License Required,https://www.wondershare.com/
+Google Update Helper,1.3.33.23,Windows,NO,,,No License Required,OPEN_SOURCE,BSD-3-Clause — Free/Open Source,https://golang.org/LICENSE
+MySQL Documents,8.0.44,Windows,NO,1,1,No License Required,OPEN_SOURCE,GPL-2.0 — Free/Open Source,https://www.mysql.com/
+AMD PSP Driver,5.30.0.0,Windows,NO,,,No License Required,,No License Required,https://www.amd.com/en/support
+AMD Ryzen Balanced Driver,8.0.0.13,Windows,NO,,,No License Required,,No License Required,https://www.amd.com/en/support
+Apple Software Update,2.6.3.1,Windows,NO,,,No License Required,FREE,Freeware,https://www.apple.com/legal/sla/
+AMD_Chipset_Drivers,6.07.22.037,Windows,NO,,,No License Required,FREE,Freeware,
+AMD SBxxx SMBus Driver,5.12.0.44,Windows,NO,,,No License Required,,No License Required,https://www.amd.com/en/support
+Epic Games Launcher,1.3.82.0,Windows,NO,,,No License Required,FREE,Freeware,https://store.epicgames.com/
+AMD I2C Driver,1.2.0.124,Windows,NO,,,No License Required,,No License Required,https://www.amd.com/en/support
+AMD GPIO2 Driver,2.2.0.133,Windows,NO,,,No License Required,,No License Required,https://www.amd.com/en/support
+Canva,1.122.0,Windows,YES,,,Users,FREE_AND_PAID,Per Seat Subscription,https://www.canva.com/pricing/
+Create React App Sample,1.0,Windows,NO,,,No License Required,OPEN_SOURCE,MIT — Free/Open Source,https://create-react-app.dev/
+Discord,1.0.9256,Windows,NO,,,No License Required,FREE,Freeware,https://discord.com/terms
+MongoDB Compass,1.49.4,Windows,NO,,,No License Required,OPEN_SOURCE,SSPL-1.0 — Free to Use,https://www.mongodb.com/pricing
+Riot Client,,Windows,NO,,,No License Required,FREE,Freeware,https://www.riotgames.com/en/terms-of-service
+VALORANT,,Windows,NO,,,No License Required,FREE,Freeware,https://playvalorant.com/
+Warp,0.2025.10.29.08.12.stable_03,Windows,YES,,,Users,FREE_AND_PAID,Commercial — Per Seat Subscription,https://www.warp.dev/pricing
+Zoom Workplace,7.0.6 (43848),Windows,YES,,,Users,FREE_AND_PAID,Commercial — Per Seat Subscription,https://zoom.us/pricing
+Python 3.11.4 (64-bit),3.11.4150.0,Windows,NO,0,0,No License Required,OPEN_SOURCE,PSF License — Free/Open Source,https://www.python.org/psf/license/
+Microsoft Visual Studio Code (User),1.132.1,Windows,NO,,,No License Required,OPEN_SOURCE,MIT — Free/Open Source,https://code.visualstudio.com/License
+Antigravity IDE (User),2.5.5,Windows,YES,,,Users,FREE_AND_PAID,Commercial — Per Seat Subscription,https://deepmind.google/technologies/antigravity/
